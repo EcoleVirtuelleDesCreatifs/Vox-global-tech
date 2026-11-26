@@ -21,27 +21,22 @@ use App\Models\User;
 use App\Services\DemoData;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Carbon;
-use Illuminate\Support\Str;
 
 /**
- * Importe les contenus de la maquette VOX TECH GLOBAL (database/data/*.json).
- * Les dates sont recalées pour que le dernier article soit daté d'hier.
+ * Importe les contenus éditoriaux de VOX TECH GLOBAL (database/data/*.json).
+ * Les dates de publication sont celles des articles.
  */
 class DatabaseSeeder extends Seeder
 {
-    protected int $offset = 0;
-
     protected function d(?string $date, string $time = '08:00'): ?Carbon
     {
-        return $date ? Carbon::parse($date.' '.$time)->addDays($this->offset) : null;
+        return $date ? Carbon::parse($date.' '.$time) : null;
     }
 
     public function run(): void
     {
         $seed = json_decode(file_get_contents(database_path('data/seed.json')), true);
         $extra = json_decode(file_get_contents(database_path('data/extra.json')), true);
-        $latest = collect($seed['ARTICLES'])->max('date');
-        $this->offset = (int) Carbon::parse($latest)->diffInDays(now()->subDay()->startOfDay());
 
         $rubIds = [];
         foreach ($seed['RUBRIQUES'] as $i => $r) {
@@ -67,15 +62,16 @@ class DatabaseSeeder extends Seeder
         }
 
         $articles = $seed['ARTICLES'];
-        $sched = $extra['scheduled'];
-        $articles[] = $sched;
+        if (! empty($extra['scheduled'])) {
+            $articles[] = $extra['scheduled'];
+        }
         foreach ($articles as $a) {
             $isSched = ($a['status'] ?? '') === 'programmé';
             $published = $isSched ? now()->addDays(5)->setTime(7, 0) : $this->d($a['date'], sprintf('%02d:%02d', 7 + $a['id'] % 10, ($a['id'] * 7) % 60));
             Article::create([
                 'id' => $a['id'], 'slug' => $a['slug'], 'type' => $a['type'], 'nature' => $a['nature'] ?? null,
                 'rubrique_id' => $rubIds[$a['rubrique']] ?? null, 'sub' => $a['sub'] ?? null, 'theme_id' => $themeIds[$a['theme']] ?? null,
-                'region' => $a['region'] ?? null, 'country' => $a['country'] ?? null, 'author_id' => $authorIds[$a['author']] ?? null,
+                'region' => $a['region'] ?? null, 'country' => $a['country'] ?? null, 'author_id' => $authorIds[$a['author'] ?? ''] ?? null,
                 'title' => $a['title'], 'chapo' => $a['chapo'], 'body' => $a['body'] ?? [], 'tags' => $a['tags'] ?? [],
                 'sources' => $a['sources'] ?? null, 'fiche' => $a['fiche'] ?? null, 'startup' => $a['startup'] ?? null, 'verdict' => $a['verdict'] ?? null,
                 'status' => $a['status'] ?? 'publié' ?: 'publié', 'published_at' => $published, 'read_time' => $a['read'] ?? 4,
@@ -105,7 +101,7 @@ class DatabaseSeeder extends Seeder
         foreach ($seed['LIBRARY'] as $p) {
             Publication::create(['slug' => $p['slug'], 'type' => $p['type'], 'title' => $p['title'], 'subtitle' => $p['subtitle'] ?? null,
                 'published_on' => $p['date'], 'pages' => $p['pages'], 'format' => $p['format'], 'price' => $p['price'], 'color' => $p['color'],
-                'description' => $p['desc'], 'toc' => $p['toc'] ?? [], 'downloads' => 40 + $p['id'] * 23]);
+                'description' => $p['desc'], 'toc' => $p['toc'] ?? [], 'downloads' => $p['downloads'] ?? 0]);
         }
 
         foreach ($seed['AD_SLOTS'] as $i => $s) {
@@ -113,7 +109,7 @@ class DatabaseSeeder extends Seeder
         }
         foreach ($seed['CAMPAIGNS'] as $c) {
             Campaign::create(['advertiser' => $c['advertiser'], 'slot' => $c['slot'], 'title' => $c['title'], 'cta' => $c['cta'],
-                'url' => 'https://www.exemple.com/'.Str::slug($c['advertiser']), 'starts_on' => $this->d($c['start']), 'ends_on' => $this->d($c['end']),
+                'url' => $c['url'] ?? null, 'starts_on' => $this->d($c['start']), 'ends_on' => $this->d($c['end']),
                 'budget' => $c['budget'], 'impressions' => $c['impressions'], 'clicks' => $c['clicks'], 'active' => $c['active']]);
         }
 
@@ -127,7 +123,7 @@ class DatabaseSeeder extends Seeder
             Subscriber::create(['email' => $s['email'], 'source' => $s['source'], 'confirmed_at' => $at, 'created_at' => $at, 'updated_at' => $at]);
         }
         foreach ($seed['OPPORTUNITES'] as $o) {
-            Opportunity::create(['type' => $o['type'], 'title' => $o['title'], 'organization' => $o['org'], 'location' => $o['lieu'], 'deadline' => $this->d($o['limite'])]);
+            Opportunity::create(['type' => $o['type'], 'title' => $o['title'], 'organization' => $o['org'], 'location' => $o['lieu'], 'deadline' => $this->d($o['limite'] ?? null), 'url' => $o['url'] ?? null]);
         }
         foreach ($extra['media'] as $m) {
             Media::create(['name' => $m['name'], 'type' => $m['type'], 'size' => $m['size'], 'width' => $m['w'], 'height' => $m['h'], 'alt' => $m['alt'],

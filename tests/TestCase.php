@@ -21,7 +21,10 @@ abstract class TestCase extends BaseTestCase
 
     protected function userWithRole(string $role): User
     {
-        return User::where('role', $role)->firstOrFail();
+        return User::firstOrCreate(['role' => $role], [
+            'name' => $role.' test', 'email' => strtolower($role).'@test.voxtechglobal.com',
+            'password' => 'VoxTech@2026', 'active' => $role !== 'Contributeur', 'email_verified_at' => now(),
+        ]);
     }
 
     protected function setSetting(array $values): void

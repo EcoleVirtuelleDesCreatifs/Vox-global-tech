@@ -65,7 +65,7 @@ cd Vox-global-tech
 composer install
 cp .env.example .env
 php artisan key:generate
-touch database/database.sqlite
+mysql -u root -p -e "CREATE DATABASE vox_tech_global CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci"
 php artisan migrate --seed
 php artisan storage:link
 php artisan serve
@@ -74,7 +74,9 @@ php artisan serve
 - Site : <http://localhost:8000>
 - Administration : <http://localhost:8000/admin> — `admin@voxtechglobal.com` / `VoxTech@2026` (modifiable via `ADMIN_EMAIL` / `ADMIN_PASSWORD` avant le seed). **Changez ce mot de passe dès la première connexion** (Mon profil).
 
-Le seeder importe tous les contenus de la maquette (36 articles, auteurs, rubriques, dossiers, bibliothèque, campagnes…) et, si `SEED_DEMO_STATS=true`, 90 jours d'audience de démonstration. Avant la mise en ligne : **Admin › Réglages › Données › Remettre les statistiques à zéro**.
+La base par défaut est MySQL/MariaDB `vox_tech_global` (renseignez `DB_USERNAME` / `DB_PASSWORD` dans `.env`). Pour tester sans serveur MySQL : `DB_CONNECTION=sqlite` puis `touch database/database.sqlite`.
+
+Le seeder importe les contenus éditoriaux réels de `database/data` : 21 articles publiés et 1 brouillon (Ivoire Tech Forum 2026, programmes Ivoire Tech Next 15 / Scale Up, financement des startups africaines, IA, cybersécurité, opportunités), tous sourcés, ainsi que les rubriques, dossiers et opportunités. Aucune donnée fictive (commentaires, abonnés, campagnes, audience) n'est créée ; `SEED_DEMO_STATS=true` génère, si besoin, 90 jours d'audience fictive pour une démonstration.
 
 ---
 
@@ -89,8 +91,8 @@ APP_URL=https://www.voxtechglobal.com      # en https : indispensable pour le SE
 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
-DB_DATABASE=voxtech
-DB_USERNAME=voxtech
+DB_DATABASE=vox_tech_global
+DB_USERNAME=vox_tech_global
 DB_PASSWORD=********
 
 SESSION_SECURE_COOKIE=true
@@ -237,7 +239,7 @@ app/
   Models                    Article, Rubrique, Theme, Author, Dossier, Publication, Campaign, AdSlot, Subscriber…
   Services                  Analytics, Diagnostic, IndexNow, MediaUploader, Notifier, OgImage, DemoData
   Support                   Seo (méta + JSON-LD), Settings, Chart (SVG), SiteCache
-database/data               Contenus de la maquette (seed.json, extra.json)
+database/data               Contenus éditoriaux sourcés (seed.json, extra.json)
 resources/views             Gabarits Blade : site, admin, e-mails, erreurs
 routes/web.php              119 routes
 routes/console.php          Commandes vox:* et planification

@@ -117,7 +117,7 @@ class AdminTest extends TestCase
         Mail::fake();
         $this->actingAs($this->admin());
         $when = now()->addDay();
-        $this->post(route('admin.articles.store'), $this->articlePayload(['action' => 'publish', 'date' => $when->format('Y-m-d'), 'time' => $when->format('H:i'), 'author_id' => 3]));
+        $this->post(route('admin.articles.store'), $this->articlePayload(['action' => 'publish', 'date' => $when->format('Y-m-d'), 'time' => $when->format('H:i'), 'author_id' => \App\Models\Author::first()->id]));
         $a = Article::where('title', 'Un nouveau talent ivoirien de la robotique')->firstOrFail();
         $this->assertSame('programmé', $a->status);
         auth()->logout();
@@ -127,7 +127,7 @@ class AdminTest extends TestCase
         $this->artisan('vox:publish-scheduled')->assertSuccessful();
         $this->assertSame('publié', $a->fresh()->status);
         $this->get($a->url())->assertOk();
-        Mail::assertSent(VoxMail::class, fn ($m) => $m->hasTo(User::where('author_id', 3)->value('email')) && str_contains($m->mailSubject, 'en ligne'));
+        Mail::assertSent(VoxMail::class, fn ($m) => $m->hasTo(User::where('author_id', \App\Models\Author::first()->id)->value('email')) && str_contains($m->mailSubject, 'en ligne'));
     }
 
     public function test_article_validation_errors(): void
@@ -148,8 +148,8 @@ class AdminTest extends TestCase
     public function test_submission_status_change_notifies_proposer(): void
     {
         Mail::fake();
-        $s = Submission::firstOrFail();
-        $s->update(['status' => 'Nouvelle']);
+        $s = Submission::create(['name' => 'Koffi Yao', 'email' => 'koffi@exemple.ci', 'project' => 'Drone agricole solaire',
+            'category' => 'Innovations', 'country' => 'Côte d’Ivoire', 'description' => 'Un drone qui cartographie les parcelles.', 'status' => 'Nouvelle']);
         $this->actingAs($this->admin())->post(route('admin.inbox.status', $s), ['status' => 'Retenue'])->assertRedirect();
         Mail::assertSent(VoxMail::class, fn ($m) => $m->hasTo($s->email) && str_contains($m->mailSubject, 'Retenue'));
     }
@@ -157,6 +157,7 @@ class AdminTest extends TestCase
     public function test_newsletter_send_reaches_confirmed_subscribers_only(): void
     {
         Mail::fake();
+        Subscriber::create(['email' => 'confirme@exemple.ci', 'source' => 'Test', 'confirmed_at' => now()]);
         Subscriber::create(['email' => 'pending@exemple.ci', 'source' => 'Test']);
         $active = Subscriber::active()->count();
         $ids = Article::published()->limit(3)->pluck('id')->all();
