@@ -121,1644 +121,1120 @@
  ],
  "AUTHORS": [
   {
-   "id": "aicha-kone",
-   "name": "Aïcha Koné",
-   "role": "Rédactrice en chef",
-   "bio": "Journaliste spécialisée dans l’innovation et l’entrepreneuriat, elle dirige la rédaction de VOXTECH GLOBAL."
-  },
-  {
-   "id": "marc-lemaire",
-   "name": "Marc Lemaire",
-   "role": "Journaliste tech",
-   "bio": "Il suit les startups, l’intelligence artificielle et les nouveaux usages du numérique."
-  },
-  {
-   "id": "fatou-ndiaye",
-   "name": "Fatou Ndiaye",
-   "role": "Journaliste",
-   "bio": "Elle raconte les parcours de talents autodidactes et les innovations de terrain."
-  },
-  {
-   "id": "david-mensah",
-   "name": "David Mensah",
-   "role": "Rédacteur, projets et inventions",
-   "bio": "Ingénieur de formation, il documente les projets techniques et les inventions."
-  },
-  {
-   "id": "sara-el-idrissi",
-   "name": "Sara El Idrissi",
-   "role": "Journaliste",
-   "bio": "Elle couvre la santé numérique, l’éducation et les politiques d’innovation."
+   "id": "la-redaction",
+   "name": "La rédaction",
+   "role": "Rédaction VOX TECH GLOBAL",
+   "bio": "La rédaction de VOX TECH GLOBAL révèle les talents, explore les innovations et décrypte la Tech. Chaque information publiée est sourcée et vérifiée."
   }
  ],
  "ARTICLES": [
   {
    "id": 1,
-   "slug": "awa-diallo-irrigation-sms",
-   "type": "portrait",
-   "rubrique": "talents",
-   "sub": "Portraits de talents",
-   "theme": "agritech",
+   "slug": "ivoire-tech-forum-2026-bilan",
+   "type": "article",
+   "nature": "Fait",
+   "rubrique": "actualites",
+   "sub": "Politiques & transformation numérique",
+   "theme": "ia",
    "region": "Afrique",
-   "country": "Sénégal",
-   "author": "fatou-ndiaye",
-   "date": "2026-10-24",
-   "read": 6,
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-14",
+   "read": 5,
    "une": true,
-   "views": 8420,
-   "title": "Awa Diallo, la développeuse qui fait pousser les récoltes par SMS",
-   "chapo": "Fille d’agriculteurs, Awa Diallo a conçu un service qui indique aux petits producteurs le meilleur moment pour irriguer, sans smartphone ni internet.",
+   "title": "Ivoire Tech Forum 2026 : Abidjan veut transformer l’innovation en croissance",
+   "chapo": "Du 11 au 13 novembre, la deuxième édition de l’Ivoire Tech Forum a réuni au Sofitel Abidjan Hôtel Ivoire décideurs, investisseurs et startups. Le gouvernement y a affiché ses objectifs et reconnu le retard de la Côte d’Ivoire en matière de financement.",
    "tags": [
-    "SMS",
-    "Irrigation",
-    "Climat"
+    "Ivoire Tech Forum",
+    "Startups",
+    "Politique numérique"
    ],
    "body": [
     {
-     "p": "Dans la région de Thiès, les champs de Mamadou Diallo, le père d’Awa, dépendaient d’une seule chose : l’intuition. Arroser trop tôt, c’était gaspiller une eau rare. Trop tard, c’était perdre une partie de la récolte."
+     "p": "Organisé par le ministère de la Transition numérique et de l’Innovation technologique, l’Ivoire Tech Forum 2026 s’est tenu du 11 au 13 novembre à Abidjan sous le thème « Innover pour transformer : accélérer la croissance par les technologies émergentes ». Le Rwanda en était le pays invité d’honneur."
     },
     {
-     "p": "En 2023, Awa, alors étudiante en informatique, décide de croiser les prévisions météo locales avec l’humidité des sols. Le résultat tient dans un message de 160 caractères, envoyé chaque matin aux producteurs inscrits."
+     "h": "Trois journées, trois publics"
     },
     {
-     "h": "Un service pensé pour le terrain"
+     "p": "La première journée était consacrée au business et à l’investissement, la deuxième à l’ouverture officielle et aux institutions, la troisième à l’écosystème, à l’entrepreneuriat et à l’impact, avec la finale d’une compétition de pitchs."
     },
     {
-     "p": "Pas d’application à installer, pas de forfait internet : un simple téléphone suffit. Les producteurs s’inscrivent par SMS et reçoivent leurs conseils en wolof ou en français."
+     "h": "Un objectif chiffré pour 2030"
     },
     {
-     "q": "Je voulais que mon père puisse l’utiliser sans rien apprendre de nouveau.",
-     "who": "Awa Diallo"
+     "p": "Selon le ministre Djibril Ouattara, le pays entend accompagner 1 000 projets numériques portés par des jeunes, des femmes et des entreprises d’ici 2030, avec l’espoir d’en voir survivre 500. Les projections du ministère évoquent plus de 5 000 emplois et un chiffre d’affaires cumulé de plus de 150 milliards de FCFA sur cinq ans. Il s’agit d’objectifs, et non de résultats."
     },
     {
-     "p": "Aujourd’hui, l’équipe d’Awa travaille avec des coopératives agricoles pour étendre le service à d’autres régions et à d’autres cultures."
+     "h": "Le constat : 1,7 % des montants levés"
     },
     {
-     "h": "La suite"
+     "p": "Le ministre a lui-même mis en avant un chiffre peu flatteur : entre janvier 2025 et octobre 2026, la Côte d’Ivoire n’a capté que 1,7 % des montants levés par les startups africaines lors des tours de plus de 500 000 dollars, au huitième rang du continent. Le Kenya, le Nigeria, l’Égypte et l’Afrique du Sud concentrent plus de 80 % des financements."
     },
     {
-     "p": "Prochaine étape : un capteur d’humidité à bas coût, fabriqué localement, pour affiner encore les conseils parcelle par parcelle."
+     "q": "Ce chiffre ne nous décourage pas. Il mesure la marge de progression qui est devant nous.",
+     "who": "Djibril Ouattara, ministre de la Transition numérique et de l’Innovation technologique (propos rapportés par StartupActu)"
+    },
+    {
+     "p": "Pendant le forum, les 32 lauréats des programmes Ivoire Tech Next 15 et Ivoire Tech Scale Up ont obtenu 80 rendez-vous d’affaires avec 37 investisseurs, selon Digital Mag. Reste à savoir combien de ces rencontres se traduiront en financements effectifs."
     }
    ],
-   "nature": "Portrait",
    "sources": [
-    "Entretien avec Awa Diallo",
-    "Échanges avec une coopérative agricole partenaire"
-   ]
+    "Ivoire Tech Forum — plaquette officielle 2026 : https://www.ivoiretechforum.com",
+    "Digital Mag CI — récapitulatif du 9 au 15 novembre 2026 : https://digitalmag.ci/recap-de-lactualite-numerique-de-la-semaine-en-cote-divoire-9-15-novembre-2026/",
+    "Startup Medias — « Ivoire Tech Forum 2026 : Abidjan veut attirer plus d’investisseurs » (12/11/2026) : https://startupmedias.africa/articles/ivoire-tech-forum-2026-ouverture-financement-startups",
+    "StartupActu (18/11/2026) : https://startupactu.com/article/a-abidjan-dix-startups-ont-pitche-pour-35-millions-de-fcfa"
+   ],
+   "author": "la-redaction",
+   "views": 0
   },
   {
    "id": 2,
-   "slug": "entretien-jean-baptiste-kouassi",
-   "type": "interview",
-   "rubrique": "talents",
-   "sub": "Interviews de talents",
-   "theme": "mobile",
+   "slug": "ivoire-tech-next-15-scale-up-32-laureats",
+   "type": "article",
+   "nature": "Fait",
+   "rubrique": "startups",
+   "sub": "Écosystèmes technologiques",
+   "theme": "fintech",
    "region": "Afrique",
    "country": "Côte d’Ivoire",
-   "author": "aicha-kone",
-   "date": "2026-10-23",
-   "read": 9,
+   "date": "2026-11-05",
+   "read": 6,
    "une": true,
-   "views": 6310,
-   "title": "Jean-Baptiste Kouassi : « J’ai appris à coder sur un téléphone prêté »",
-   "chapo": "Fondateur d’une application de transport partagé, il revient sur un parcours d’autodidacte et sur les défis de la mobilité urbaine.",
+   "title": "Ivoire Tech Next 15 et Scale Up : 32 entreprises du numérique accompagnées pendant 24 mois",
+   "chapo": "Le gouvernement ivoirien a désigné le 4 novembre les premières cohortes de ses deux programmes d’accélération. Fintech, santé, agriculture, cloud et cybersécurité dominent la sélection.",
    "tags": [
-    "Mobilité",
-    "Autodidacte",
-    "Mobile money"
+    "Startup Act",
+    "Accélération",
+    "Côte d’Ivoire"
    ],
    "body": [
     {
-     "p": "Rencontre avec un entrepreneur qui veut simplifier les trajets du quotidien, quartier par quartier."
+     "p": "Le 4 novembre 2026, à Abidjan, le ministre de la Transition numérique et de l’Innovation technologique, Djibril Ouattara, a proclamé les résultats des programmes Ivoire Tech Next 15 et Ivoire Tech Scale Up. Trente-deux entreprises ont été retenues sur plus de 150 candidatures, au-delà de l’objectif initial de 30."
     },
     {
-     "qa": [
-      "Comment avez-vous commencé à programmer ?",
-      "Avec le téléphone de mon grand frère, le soir, après ses journées de travail. Je suivais des tutoriels hors ligne que je téléchargeais au cybercafé."
-     ]
+     "h": "Deux programmes, deux profils"
     },
     {
-     "qa": [
-      "D’où vient l’idée de votre application ?",
-      "Chaque matin, je voyais des voitures presque vides faire le même trajet que des dizaines de personnes qui attendaient un transport. Il fallait simplement les mettre en relation."
-     ]
+     "p": "Next 15 s’adresse aux startups actives depuis au moins un an et disposant d’un produit sur le marché : 14 ont été retenues. Scale Up vise les PME du numérique ayant trois à cinq exercices financiers complets : 18 lauréates. Toutes bénéficient de 24 mois d’accompagnement centré sur l’intelligence artificielle, l’accès au financement et l’accès à la commande publique, en échange d’un contrat de performance."
     },
     {
-     "qa": [
-      "Quel a été le plus grand obstacle ?",
-      "La confiance. Les passagers voulaient savoir qui conduisait, les conducteurs voulaient être sûrs d’être payés. Le paiement par mobile money a beaucoup aidé."
-     ]
+     "h": "Qui sont les lauréats ?"
     },
     {
-     "qa": [
-      "Quel conseil donneriez-vous à un jeune qui veut se lancer ?",
-      "Commencer petit, avec un vrai problème que l’on connaît bien. Et parler à ses futurs utilisateurs avant d’écrire la moindre ligne de code."
-     ]
+     "p": "Parmi les startups de Next 15 figurent, selon TechCabal, la néobanque Djamo, qui revendique deux millions d’utilisateurs en Côte d’Ivoire et au Sénégal, Waribei (avances sur stock pour commerçants informels), Djoli (commande B2B de produits frais pour maquis et restaurants), Grainotech (outils agricoles en matériaux recyclés), Graya (revente d’invendus alimentaires), La Ruche Health (assistant de santé sur WhatsApp), Umed (télémédecine), Yodan (santé mentale au travail), Tylimmo (location-vente immobilière), JPF AerialOps (agriculture de précision) et Cloud4Africa (cloud souverain)."
+    },
+    {
+     "p": "Côté Scale Up, la cohorte penche vers les services informatiques déjà fournisseurs de l’État : BMI-WFS, qui opère TrésorPay et TrésorMoney, Snedai, qui a développé l’applicatif de la Couverture maladie universelle, VEONE, Agilly, Kaydan Technology, SaH Analytics ou encore Wilyz, qui assemble des véhicules électriques en Côte d’Ivoire."
+    },
+    {
+     "q": "Notre ambition est claire — passer d’un écosystème de startups prometteuses à une véritable base d’entreprises technologiques solides et compétitives, capables de réussir au-delà de nos frontières.",
+     "who": "Alexia Amichia, directrice adjointe de l’entrepreneuriat et du développement des startups technologiques (TechCabal)"
+    },
+    {
+     "h": "Ce qu’il faudra surveiller"
+    },
+    {
+     "p": "Ces programmes sont présentés comme une étape de la mise en œuvre du Startup Act adopté en novembre 2023. Leur réussite dépendra des financements réellement mobilisés et de l’ouverture effective des marchés publics aux lauréats. VOX TECH GLOBAL suivra leurs résultats."
     }
    ],
-   "nature": "Entretien"
+   "sources": [
+    "AIP — « 24 mois d’accompagnement de l’État pour 32 entreprises du secteur du numérique » (05/11/2026) : https://www.aip.ci/cote-divoire-aip-le-ministre-djibril-ouattara-annonce-24-mois-daccompagnement-de-letat-pour-32-entreprises-du-secteur-du-numerique/",
+    "TechCabal, Francophone Weekly n° 47 (10/11/2026) : https://techcabal.com/2026/11/10/francophone-weekly-by-techcabal-047/"
+   ],
+   "author": "la-redaction",
+   "views": 0
   },
   {
    "id": 3,
-   "slug": "kofi-mensah-imprimante-3d-recyclee",
-   "type": "projet",
+   "slug": "ivoire-tech-forum-pitch-competition-laureats",
+   "type": "dossier",
+   "nature": "Fait",
    "rubrique": "innovations",
-   "sub": "Prototypes technologiques",
-   "theme": "hardware",
+   "sub": "Innovations à impact",
+   "theme": "ia",
    "region": "Afrique",
-   "country": "Ghana",
-   "author": "david-mensah",
-   "date": "2026-10-22",
-   "read": 8,
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-18",
+   "read": 6,
    "une": true,
-   "views": 5120,
-   "title": "L’imprimante 3D construite à partir de déchets électroniques, documentée pas à pas",
-   "chapo": "Kofi Mensah récupère des pièces d’ordinateurs usagés pour fabriquer des imprimantes 3D à bas coût. Nous avons documenté son prototype.",
+   "title": "Pitch Competition de l’Ivoire Tech Forum : cinq lauréats et des IA entraînées sur des données locales",
+   "chapo": "Dix finalistes, trois minutes chacun, 35 millions de FCFA à la clé. Le laboratoire Connectia remporte le Grand Prix de l’Innovation ; l’agriculture et l’éducation complètent le palmarès.",
    "tags": [
-    "Impression 3D",
-    "Recyclage",
-    "Open hardware"
+    "Pitch",
+    "Intelligence artificielle",
+    "Agritech"
    ],
-   "fiche": {
-    "statut": "Prototype fonctionnel",
-    "porteur": "Kofi Mensah",
-    "pays": "Ghana",
-    "domaine": "Hardware",
-    "debut": "2024",
-    "licence": "Open hardware (plans partagés)"
-   },
    "body": [
     {
-     "p": "Le projet part d’un constat : les décharges électroniques regorgent de moteurs pas à pas, de rails et d’alimentations encore fonctionnels."
+     "p": "La finale de la Pitch Competition s’est tenue le 13 novembre 2026, dernier jour de l’Ivoire Tech Forum. Le jury était présidé par Florence Fadika (Fondation Jeunesse Numérique), aux côtés de Geth Maiga (Expertise France) et Steve Tchoumba (Active Space). Cinq critères : le problème, la solution, le marché, l’équipe et la clarté du pitch."
     },
     {
-     "h": "1. Les pièces récupérées"
+     "h": "Grand Prix : Connectia (15 millions de FCFA)"
     },
     {
-     "p": "Le châssis vient d’anciennes unités centrales. Les moteurs sont extraits de lecteurs de disquettes et d’imprimantes de bureau hors d’usage."
+     "p": "Dirigé par Babel Balsomi, ce laboratoire de données et d’IA entraîne des modèles sur des données africaines. Son produit Neuroverse veut ramener le délai de diagnostic de l’épilepsie de trois ans à six mois. Connectia développe aussi DataWiz, un outil d’aide à la décision, et Athéna, un outil vocal multilingue contre le décrochage scolaire."
     },
     {
-     "h": "2. L’électronique"
+     "h": "2e prix : JPF AerialOps (8 millions de FCFA)"
     },
     {
-     "p": "Une carte de contrôle open source pilote les trois axes. L’alimentation est celle d’un ordinateur, adaptée pour fournir la tension nécessaire."
+     "p": "Drones et capteurs de sol alimentent Okani, un agronome numérique qui produit un plan d’action et cible la pulvérisation. L’entreprise annonce des rendements en hausse de 70 % et une consommation d’intrants en baisse de 45 % dans les exploitations suivies depuis fin 2023 — des chiffres communiqués par l’entreprise."
     },
     {
-     "h": "3. Les résultats"
+     "h": "3e prix : AgriWatch (5 millions de FCFA)"
     },
     {
-     "p": "Le prototype imprime des pièces de 15 cm de côté avec une précision suffisante pour des usages pédagogiques et de petites réparations."
+     "p": "Une surveillance de la santé du bétail par l’IA, conçue pour fonctionner sans connexion internet. Après un pilote de trois mois dans une ferme de Songon, la précision du modèle serait passée de 60 % à 80 %."
     },
     {
-     "q": "Une imprimante coûte une fortune ici. La mienne coûte surtout du temps.",
-     "who": "Kofi Mensah"
+     "h": "Coup de cœur et Prix de l’Impact"
     },
     {
-     "h": "4. Et maintenant"
+     "p": "Le coup de cœur du jury (4 millions de FCFA) revient à Terre d’Ivoire, un jeu multijoueur de simulation de vie situé à Abidjan, conçu par quatre étudiants. Le Prix de l’Impact (3 millions de FCFA) distingue Baou, une plateforme d’IA associée à une valisette éducative connectée pour les enfants à besoins éducatifs particuliers."
     },
     {
-     "p": "Kofi forme des étudiants à assembler leur propre machine et publie progressivement ses plans pour que d’autres ateliers puissent les reproduire."
+     "h": "Notre lecture"
+    },
+    {
+     "p": "Les trois premiers lauréats ont présenté des résultats mesurés et des modèles construits sur des données locales. Un prix valide un projet, mais le finance rarement : le Grand Prix représente environ 5 % de la levée en cours de JPF AerialOps."
     }
    ],
-   "nature": "Reportage",
    "sources": [
-    "Entretien avec Kofi Mensah, octobre 2026",
-    "Plans techniques partagés par le porteur du projet"
-   ]
+    "StartupActu — « À Abidjan, dix startups ont pitché pour 35 millions de FCFA » (18/11/2026) : https://startupactu.com/article/a-abidjan-dix-startups-ont-pitche-pour-35-millions-de-fcfa",
+    "TechCabal (couverture de l’Ivoire Tech Forum)"
+   ],
+   "author": "la-redaction",
+   "views": 0
   },
   {
    "id": 4,
-   "slug": "dossier-innovations-loin-des-capitales",
-   "type": "dossier",
-   "rubrique": "innovations",
-   "sub": "Innovations à impact",
-   "theme": "energie",
-   "region": "Monde",
-   "country": "International",
-   "author": "aicha-kone",
-   "date": "2026-10-21",
-   "read": 12,
-   "une": false,
-   "views": 9870,
-   "title": "Cinq innovations nées loin des grandes capitales",
-   "chapo": "Loin des grands pôles technologiques, des innovateurs inventent des solutions adaptées à leur réalité. Tour d’horizon.",
-   "tags": [
-    "Innovation frugale",
-    "Régions",
-    "Enquête"
-   ],
-   "body": [
-    {
-     "p": "On associe souvent l’innovation aux grandes métropoles. Pourtant, une partie des solutions les plus ingénieuses naissent là où les contraintes sont les plus fortes."
-    },
-    {
-     "h": "Un purificateur d’eau solaire"
-    },
-    {
-     "p": "Pensé pour être réparé avec des pièces disponibles localement, sans technicien spécialisé."
-    },
-    {
-     "h": "Des cours qui fonctionnent sans réseau"
-    },
-    {
-     "p": "Une application d’apprentissage qui se télécharge une fois et s’utilise ensuite hors connexion."
-    },
-    {
-     "h": "Un test de la vue sur smartphone"
-    },
-    {
-     "p": "Pour repérer dans les écoles rurales les enfants qui ont besoin de lunettes."
-    },
-    {
-     "h": "Le paiement sans internet"
-    },
-    {
-     "p": "Les transactions se valident dès que le réseau revient : une réponse concrète aux coupures."
-    },
-    {
-     "h": "L’irrigation par SMS"
-    },
-    {
-     "p": "Des conseils quotidiens envoyés aux producteurs, sans smartphone."
-    },
-    {
-     "q": "La contrainte est souvent le point de départ de l’invention.",
-     "who": "Aïcha Koné"
-    }
-   ],
-   "nature": "Analyse"
-  },
-  {
-   "id": 5,
-   "slug": "lucia-ramirez-test-vue-smartphone",
-   "type": "portrait",
-   "rubrique": "talents",
-   "sub": "Femmes dans la Tech",
-   "theme": "sante",
-   "region": "Amériques",
-   "country": "Colombie",
-   "author": "sara-el-idrissi",
-   "date": "2026-10-20",
-   "read": 5,
-   "une": false,
-   "views": 4210,
-   "title": "Lucía Ramírez veut un test de la vue dans chaque école",
-   "chapo": "Chercheuse en optique, elle a mis au point un test visuel qui tient dans un téléphone et peut être utilisé par les enseignants.",
-   "tags": [
-    "Santé publique",
-    "Éducation",
-    "Smartphone"
-   ],
-   "body": [
-    {
-     "p": "Dans les zones rurales, beaucoup d’enfants passent des années à mal voir le tableau sans que personne ne le remarque."
-    },
-    {
-     "p": "Le test de Lucía Ramírez prend moins de cinq minutes. L’enseignant tient le téléphone à distance, l’élève indique l’orientation des symboles affichés."
-    },
-    {
-     "q": "Un enfant qui voit mal est souvent pris pour un mauvais élève.",
-     "who": "Lucía Ramírez"
-    },
-    {
-     "p": "Les résultats sont transmis aux services de santé, qui organisent ensuite des consultations ciblées."
-    }
-   ],
-   "nature": "Portrait"
-  },
-  {
-   "id": 6,
-   "slug": "trois-questions-yasmine-benali",
-   "type": "interview",
-   "rubrique": "talents",
-   "sub": "Interviews de talents",
-   "theme": "ia",
-   "region": "Afrique",
-   "country": "Maroc",
-   "author": "marc-lemaire",
-   "date": "2026-10-19",
-   "read": 4,
-   "une": false,
-   "views": 3980,
-   "title": "Trois questions à Yasmine Benali, qui apprend la darija aux machines",
-   "chapo": "L’ingénieure construit des outils de traduction pour les langues peu présentes sur internet.",
-   "tags": [
-    "Langues",
-    "Traduction",
-    "Open source"
-   ],
-   "body": [
-    {
-     "qa": [
-      "Pourquoi la darija ?",
-      "Parce que c’est la langue de millions de personnes et que les outils numériques l’ignorent presque totalement."
-     ]
-    },
-    {
-     "qa": [
-      "Quelle est la principale difficulté ?",
-      "Le manque de textes écrits. Nous avons dû constituer nos propres corpus avec des volontaires."
-     ]
-    },
-    {
-     "qa": [
-      "À quoi servira votre outil ?",
-      "D’abord à rendre les services publics accessibles à ceux qui ne lisent pas couramment le français ou l’arabe standard."
-     ]
-    }
-   ],
-   "nature": "Entretien"
-  },
-  {
-   "id": 7,
-   "slug": "samuel-okafor-paiement-sans-internet",
-   "type": "projet",
-   "rubrique": "startups",
-   "sub": "Startups",
-   "theme": "fintech",
-   "region": "Afrique",
-   "country": "Nigeria",
-   "author": "david-mensah",
-   "date": "2026-10-18",
-   "read": 7,
-   "une": false,
-   "views": 3550,
-   "title": "Payer sans réseau : comment fonctionne le système de Samuel Okafor",
-   "chapo": "Un commerçant peut recevoir un paiement même quand la connexion est coupée. Nous avons examiné le fonctionnement du prototype.",
-   "tags": [
-    "Paiement",
-    "Hors ligne",
-    "Commerce"
-   ],
-   "fiche": {
-    "statut": "Tests auprès de 40 commerçants",
-    "porteur": "Samuel Okafor",
-    "pays": "Nigeria",
-    "domaine": "Fintech",
-    "debut": "2025",
-    "licence": "Propriétaire"
-   },
-   "body": [
-    {
-     "p": "Sur les marchés, une coupure de réseau peut faire perdre une vente. Le système de Samuel Okafor enregistre la transaction sur les deux téléphones et la valide dès que l’un d’eux retrouve une connexion."
-    },
-    {
-     "h": "Le principe"
-    },
-    {
-     "p": "Chaque téléphone conserve une preuve signée de l’échange. Une fois en ligne, le serveur vérifie et règle la transaction."
-    },
-    {
-     "h": "Les limites"
-    },
-    {
-     "p": "Le montant des paiements hors ligne est plafonné pour limiter les risques de fraude."
-    },
-    {
-     "h": "Prochaine étape"
-    },
-    {
-     "p": "Une phase de test plus large est prévue avec une association de commerçants."
-    }
-   ],
-   "nature": "Reportage",
-   "startup": {
-    "secteur": "Fintech",
-    "pays": "Nigeria",
-    "creation": "2025",
-    "stade": "Amorçage",
-    "equipe": "6 personnes"
-   }
-  },
-  {
-   "id": 8,
-   "slug": "tribune-talent-sans-frontiere",
+   "slug": "budget-numerique-2027-cote-divoire-120-milliards",
    "type": "article",
-   "rubrique": "decryptages",
-   "sub": "Tech & société",
-   "theme": "education",
-   "region": "Monde",
-   "country": "International",
-   "author": "aicha-kone",
-   "date": "2026-10-17",
-   "read": 4,
-   "une": false,
-   "views": 2780,
-   "title": "Le talent n’a pas de frontière, la visibilité si",
-   "chapo": "Pourquoi tant d’innovateurs restent-ils invisibles ? Une tribune de notre rédactrice en chef.",
-   "tags": [
-    "Visibilité",
-    "Médias",
-    "Inclusion"
-   ],
-   "body": [
-    {
-     "p": "Chaque semaine, nous recevons des projets remarquables portés par des personnes dont personne n’a jamais parlé."
-    },
-    {
-     "p": "Le problème n’est pas le talent. Il est partout. Le problème, c’est l’accès à la lumière : aux médias, aux réseaux, aux financeurs."
-    },
-    {
-     "q": "Le talent n’a pas besoin d’être célèbre pour mériter la lumière.",
-     "who": "VOXTECH GLOBAL"
-    },
-    {
-     "p": "C’est la raison d’être de ce média : aller chercher ces histoires et les raconter avec le sérieux qu’elles méritent."
-    }
-   ],
-   "nature": "Opinion"
-  },
-  {
-   "id": 9,
-   "slug": "thomas-nguyen-apprendre-hors-connexion",
-   "type": "portrait",
-   "rubrique": "talents",
-   "sub": "Parcours inspirants",
-   "theme": "education",
-   "region": "Asie",
-   "country": "Viêt Nam",
-   "author": "marc-lemaire",
-   "date": "2026-10-16",
-   "read": 5,
-   "une": false,
-   "views": 2960,
-   "title": "Thomas Nguyen, l’école qui tient dans un téléphone sans réseau",
-   "chapo": "Son application de cours interactifs fonctionne entièrement hors connexion, pour les élèves des régions mal couvertes.",
-   "tags": [
-    "E-learning",
-    "Hors ligne"
-   ],
-   "body": [
-    {
-     "p": "Thomas Nguyen a grandi dans une province où le réseau mobile disparaît dès que l’on quitte la ville."
-    },
-    {
-     "p": "Son application télécharge un programme complet en une fois, puis fonctionne sans aucune connexion. Les progrès des élèves sont synchronisés quand le réseau revient."
-    },
-    {
-     "p": "Plusieurs écoles l’utilisent déjà pour les mathématiques et les langues."
-    }
-   ],
-   "nature": "Portrait"
-  },
-  {
-   "id": 10,
-   "slug": "ingrid-solberg-capteurs-air-ecoles",
-   "type": "projet",
-   "rubrique": "innovations",
-   "sub": "Innovations à impact",
-   "theme": "energie",
-   "region": "Europe",
-   "country": "Norvège",
-   "author": "david-mensah",
-   "date": "2026-10-15",
-   "read": 6,
-   "une": false,
-   "views": 2410,
-   "title": "Des capteurs de qualité de l’air que les élèves assemblent eux-mêmes",
-   "chapo": "Ingrid Solberg a conçu un kit à bas coût. Les données sont partagées sur une carte ouverte.",
-   "tags": [
-    "Environnement",
-    "Open data",
-    "Kit"
-   ],
-   "fiche": {
-    "statut": "Déployé dans des écoles pilotes",
-    "porteur": "Ingrid Solberg",
-    "pays": "Norvège",
-    "domaine": "Énergie & climat",
-    "debut": "2025",
-    "licence": "Open source"
-   },
-   "body": [
-    {
-     "p": "Le kit comprend un capteur de particules fines, un microcontrôleur et un boîtier imprimé en 3D."
-    },
-    {
-     "h": "L’assemblage"
-    },
-    {
-     "p": "Les élèves le montent en deux heures, en suivant un guide illustré."
-    },
-    {
-     "h": "Les données"
-    },
-    {
-     "p": "Les mesures alimentent une carte publique consultable par les familles et les collectivités."
-    }
-   ],
-   "nature": "Reportage"
-  },
-  {
-   "id": 11,
-   "slug": "breve-hackathon-innovation-2026",
-   "type": "article",
+   "nature": "Fait",
    "rubrique": "actualites",
-   "sub": "Logiciels & applications",
+   "sub": "Politiques & transformation numérique",
    "theme": "mobile",
    "region": "Afrique",
    "country": "Côte d’Ivoire",
-   "author": "fatou-ndiaye",
-   "date": "2026-10-25",
-   "read": 2,
-   "une": false,
-   "views": 1890,
-   "title": "Hackathon : 48 heures pour inventer des solutions pour la ville",
-   "chapo": "Des équipes d’étudiants et de développeurs se sont affrontées sur des défis de mobilité, de propreté et d’accès aux services.",
-   "tags": [
-    "Hackathon",
-    "Ville"
-   ],
-   "body": [
-    {
-     "p": "Pendant deux jours, une centaine de participants ont travaillé sur des prototypes présentés ensuite devant un jury."
-    },
-    {
-     "p": "Les projets lauréats seront accompagnés pendant six mois par un programme d’incubation."
-    }
-   ],
-   "nature": "Fait"
-  },
-  {
-   "id": 12,
-   "slug": "breve-fonds-jeunes-innovateurs",
-   "type": "article",
-   "rubrique": "startups",
-   "sub": "Financements & investissements",
-   "theme": "fintech",
-   "region": "Monde",
-   "country": "International",
-   "author": "marc-lemaire",
-   "date": "2026-10-24",
-   "read": 2,
-   "une": false,
-   "views": 1640,
-   "title": "Un nouveau fonds pour soutenir les jeunes innovateurs",
-   "chapo": "Un programme de bourses destiné aux porteurs de projets de moins de 30 ans ouvre ses candidatures.",
-   "tags": [
-    "Financement",
-    "Bourses"
-   ],
-   "body": [
-    {
-     "p": "Les candidatures sont ouvertes aux projets technologiques ayant un impact social ou environnemental."
-    },
-    {
-     "p": "Nous publierons prochainement un guide pour préparer un bon dossier de candidature."
-    }
-   ],
-   "nature": "Annonce"
-  },
-  {
-   "id": 13,
-   "slug": "hugo-martin-assistant-vocal-malvoyants",
-   "type": "portrait",
-   "rubrique": "innovations",
-   "sub": "Solutions numériques",
-   "theme": "ia",
-   "region": "Europe",
-   "country": "France",
-   "author": "sara-el-idrissi",
-   "date": "2026-10-14",
-   "read": 5,
-   "une": false,
-   "views": 2230,
-   "title": "Hugo Martin décrit le monde à ceux qui ne le voient pas",
-   "chapo": "Son assistant vocal combine la caméra du téléphone et la reconnaissance d’images pour décrire l’environnement.",
-   "tags": [
-    "Accessibilité",
-    "Vision"
-   ],
-   "body": [
-    {
-     "p": "Tout a commencé avec sa grand-mère, qui perdait progressivement la vue."
-    },
-    {
-     "p": "L’application décrit à voix haute les obstacles, les panneaux et les visages connus."
-    },
-    {
-     "q": "La technologie doit d’abord servir ceux qu’elle oublie le plus souvent.",
-     "who": "Hugo Martin"
-    }
-   ],
-   "nature": "Reportage"
-  },
-  {
-   "id": 14,
-   "slug": "omar-haddad-purificateur-eau-solaire",
-   "type": "projet",
-   "rubrique": "innovations",
-   "sub": "Inventions & découvertes",
-   "theme": "energie",
-   "region": "Moyen-Orient",
-   "country": "Jordanie",
-   "author": "david-mensah",
-   "date": "2026-10-12",
-   "read": 7,
-   "une": false,
-   "views": 2050,
-   "title": "Un purificateur d’eau solaire réparable avec des pièces locales",
-   "chapo": "Omar Haddad conçoit des machines que l’on peut entretenir sans technicien spécialisé.",
-   "tags": [
-    "Eau",
-    "Solaire",
-    "Réparabilité"
-   ],
-   "fiche": {
-    "statut": "Deuxième prototype",
-    "porteur": "Omar Haddad",
-    "pays": "Jordanie",
-    "domaine": "Énergie & climat",
-    "debut": "2024",
-    "licence": "Plans sur demande"
-   },
-   "body": [
-    {
-     "p": "La machine utilise un panneau solaire et un système de filtration en plusieurs étapes."
-    },
-    {
-     "h": "La réparabilité au cœur du projet"
-    },
-    {
-     "p": "Chaque pièce peut être remplacée par un équivalent trouvé sur un marché local."
-    }
-   ],
-   "nature": "Reportage"
-  },
-  {
-   "id": 15,
-   "slug": "dossier-ia-langues-africaines",
-   "type": "dossier",
-   "rubrique": "decryptages",
-   "sub": "Analyses",
-   "theme": "ia",
-   "region": "Afrique",
-   "country": "International",
-   "author": "marc-lemaire",
-   "date": "2026-10-10",
-   "read": 10,
-   "une": false,
-   "views": 4730,
-   "title": "L’IA parlera-t-elle un jour toutes les langues ?",
-   "chapo": "Des chercheurs et développeurs construisent des outils pour les langues absentes d’internet. Enquête sur un chantier immense.",
-   "tags": [
-    "IA",
-    "Langues",
-    "Recherche"
-   ],
-   "body": [
-    {
-     "p": "La plupart des outils d’intelligence artificielle fonctionnent dans une poignée de langues."
-    },
-    {
-     "h": "Le manque de données"
-    },
-    {
-     "p": "Sans textes écrits en quantité, les modèles ne peuvent pas apprendre."
-    },
-    {
-     "h": "Des communautés mobilisées"
-    },
-    {
-     "p": "Des volontaires enregistrent et transcrivent des phrases pour constituer des corpus ouverts."
-    }
-   ],
-   "nature": "Analyse",
-   "sources": [
-    "[Rapport de recherche à citer]",
-    "Entretiens avec des chercheurs en traitement des langues"
-   ]
-  },
-  {
-   "id": 16,
-   "slug": "priya-raman-coder-langue-maternelle",
-   "type": "portrait",
-   "rubrique": "talents",
-   "sub": "Jeunes talents",
-   "theme": "education",
-   "region": "Asie",
-   "country": "Inde",
-   "author": "fatou-ndiaye",
-   "date": "2026-10-08",
+   "date": "2026-11-17",
    "read": 4,
    "une": false,
-   "views": 1980,
-   "title": "Priya Raman, 21 ans, apprend à coder en tamoul",
-   "chapo": "L’étudiante adapte des cours de programmation dans les langues locales.",
+   "title": "Budget 2027 : le numérique ivoirien passe à 120,7 milliards de FCFA, en hausse de 45 %",
+   "chapo": "La commission des affaires économiques et financières de l’Assemblée nationale a adopté le 13 novembre le budget du ministère de la Transition numérique. Près de la moitié de l’enveloppe va à l’investissement.",
    "tags": [
-    "Code",
-    "Inclusion",
-    "Étudiante"
+    "Budget",
+    "Politique numérique",
+    "Zones rurales"
    ],
    "body": [
     {
-     "p": "Priya a remarqué que beaucoup de ses camarades abandonnaient la programmation à cause de l’anglais."
+     "p": "Le budget 2027 du ministère de la Transition numérique et de l’Innovation technologique s’élève à 120 722 044 793 FCFA, contre 83,3 milliards votés pour 2026, soit une progression d’environ 45 %. Il a été adopté à l’unanimité en commission le vendredi 13 novembre 2026 et doit encore passer en séance plénière."
     },
     {
-     "p": "Elle traduit et adapte des cours, avec une communauté d’entraide entre élèves."
+     "h": "Où va l’argent ?"
+    },
+    {
+     "p": "Les transferts représentent 59,4 milliards de FCFA (49 %) et les investissements 53,6 milliards (44 %). Par programme, l’économie numérique et la poste absorbent 79,6 milliards, soit près des deux tiers du total. L’appui aux nouvelles technologies en zones rurales mobilise 34,9 milliards de FCFA."
+    },
+    {
+     "h": "Pourquoi c’est important"
+    },
+    {
+     "p": "La part consacrée aux zones rurales traduit la volonté affichée de réduire la fracture numérique entre villes et campagnes. Le vote intervient au lendemain de l’Ivoire Tech Forum, où le gouvernement a placé les startups au cœur de sa stratégie."
     }
    ],
-   "nature": "Portrait"
+   "sources": [
+    "Startup Medias — « Côte d’Ivoire : le budget du Numérique bondit de 45 % » (17/11/2026) : https://startupmedias.africa/articles/cote-divoire-budget-2027-ministere-numerique-120-milliards-fcfa"
+   ],
+   "author": "la-redaction",
+   "views": 0
   },
   {
-   "id": 24,
-   "slug": "ama-owusu-drones-cultures",
-   "type": "portrait",
-   "rubrique": "talents",
-   "sub": "Jeunes talents",
-   "theme": "agritech",
-   "region": "Afrique",
-   "country": "Ghana",
-   "author": "fatou-ndiaye",
-   "date": "2026-10-31",
-   "read": 6,
-   "une": true,
-   "views": 3120,
-   "title": "À 17 ans, Ama Owusu construit des drones pour cartographier les cultures",
-   "chapo": "Lycéenne et autodidacte, elle assemble des drones à bas coût qui aident les coopératives à repérer les parcelles malades.",
-   "tags": [
-    "Drones",
-    "Jeunes talents",
-    "Cartographie"
-   ],
-   "body": [
-    {
-     "p": "Ama a construit son premier drone avec des moteurs de jouets et une carte électronique achetée d’occasion."
-    },
-    {
-     "p": "Aujourd’hui, ses appareils survolent les champs de la coopérative de son village et produisent des cartes qui signalent les zones à surveiller."
-    },
-    {
-     "q": "Je veux que les agriculteurs voient leurs champs comme un oiseau les voit.",
-     "who": "Ama Owusu"
-    },
-    {
-     "h": "Un atelier au fond de la cour"
-    },
-    {
-     "p": "Le week-end, elle forme d’autres élèves. Trois drones ont déjà été construits par ses camarades."
-    }
-   ],
-   "nature": "Portrait"
-  },
-  {
-   "id": 19,
-   "slug": "entretien-mariam-traore-couveuse",
-   "type": "interview",
-   "rubrique": "talents",
-   "sub": "Interviews de talents",
-   "theme": "sante",
-   "region": "Afrique",
-   "country": "Mali",
-   "author": "sara-el-idrissi",
-   "date": "2026-10-30",
-   "read": 8,
-   "une": false,
-   "views": 2890,
-   "title": "Mariam Traoré : « Une couveuse doit pouvoir être réparée par l’infirmière »",
-   "chapo": "Ingénieure biomédicale, elle conçoit une couveuse néonatale fabriquée avec des matériaux disponibles localement.",
-   "tags": [
-    "Santé",
-    "Maternité",
-    "Réparabilité"
-   ],
-   "body": [
-    {
-     "p": "Entretien avec une ingénieure qui veut sauver des nouveau-nés avec des machines simples."
-    },
-    {
-     "qa": [
-      "D’où vient votre projet ?",
-      "D’une visite dans une maternité rurale où trois couveuses sur quatre étaient en panne, faute de pièces."
-     ]
-    },
-    {
-     "qa": [
-      "Qu’est-ce qui change avec votre couveuse ?",
-      "Toutes les pièces se trouvent sur le marché local. Une infirmière formée en une journée peut la réparer."
-     ]
-    },
-    {
-     "qa": [
-      "Où en êtes-vous ?",
-      "Deux prototypes sont testés dans des centres de santé. Nous préparons la certification."
-     ]
-    }
-   ],
-   "nature": "Entretien"
-  },
-  {
-   "id": 20,
-   "slug": "breve-incubateurs-candidatures",
+   "id": 5,
+   "slug": "centre-cybersecurite-cisco-cybastion-abidjan",
    "type": "article",
-   "rubrique": "startups",
-   "sub": "Financements & investissements",
-   "theme": "fintech",
-   "region": "Monde",
-   "country": "International",
-   "author": "marc-lemaire",
-   "date": "2026-10-30",
-   "read": 2,
-   "une": false,
-   "views": 1420,
-   "title": "Trois incubateurs ouvrent leurs candidatures avant la fin de l’année",
-   "chapo": "Accompagnement, bureaux et premiers financements : les dossiers sont attendus d’ici décembre.",
-   "tags": [
-    "Incubation",
-    "Candidatures"
-   ],
-   "body": [
-    {
-     "p": "Trois programmes d’incubation lancent leur appel à candidatures pour la promotion 2027."
-    },
-    {
-     "p": "Notre guide « Réussir sa candidature », disponible gratuitement dans la bibliothèque, aide à préparer son dossier."
-    }
-   ],
-   "nature": "Annonce"
-  },
-  {
-   "id": 21,
-   "slug": "breve-salon-jeunes-inventeurs",
-   "type": "article",
+   "nature": "Fait",
    "rubrique": "actualites",
-   "sub": "Politiques & transformation numérique",
-   "theme": "education",
+   "sub": "Cybersécurité",
+   "theme": "hardware",
    "region": "Afrique",
    "country": "Côte d’Ivoire",
-   "author": "fatou-ndiaye",
-   "date": "2026-10-29",
-   "read": 2,
-   "une": false,
-   "views": 1310,
-   "title": "Salon de l’innovation : les jeunes inventeurs à l’honneur",
-   "chapo": "Une quarantaine de prototypes présentés par des élèves et des étudiants.",
-   "tags": [
-    "Salon",
-    "Étudiants"
-   ],
-   "body": [
-    {
-     "p": "Robots, applications et objets connectés : les visiteurs ont découvert des projets imaginés par des moins de 25 ans."
-    },
-    {
-     "p": "La rédaction suivra plusieurs de ces talents dans les prochaines semaines."
-    }
-   ],
-   "nature": "Fait"
-  },
-  {
-   "id": 22,
-   "slug": "tribune-documenter-une-invention",
-   "type": "article",
-   "rubrique": "decryptages",
-   "sub": "Tech & société",
-   "theme": "hardware",
-   "region": "Monde",
-   "country": "International",
-   "author": "david-mensah",
-   "date": "2026-10-28",
+   "date": "2026-11-06",
    "read": 4,
    "une": false,
-   "views": 1760,
-   "title": "Documenter une invention, c’est déjà la protéger",
-   "chapo": "Notes, schémas, dates : la documentation est la première alliée des inventeurs. Le point de vue de notre rédacteur.",
+   "title": "Cybersécurité : un centre régional Cisco-Cybastion ouvre à Abidjan",
+   "chapo": "Inauguré le 5 novembre à Biétry, le centre doit surveiller les systèmes, gérer les incidents et former 200 000 apprenants en Côte d’Ivoire d’ici 2030.",
    "tags": [
-    "Inventions",
-    "Documentation"
+    "Cybersécurité",
+    "Formation",
+    "SOC"
    ],
    "body": [
     {
-     "p": "Beaucoup d’inventeurs gardent leurs idées en tête. C’est souvent ce qui les empêche d’être reconnus."
+     "p": "Le ministre de la Transition numérique et de l’Innovation technologique, Djibril Ouattara, a inauguré le jeudi 5 novembre 2026 le centre de cybersécurité Cisco de Cybastion, couplé à l’ouverture de l’American Digital Tower, à Biétry, dans le sud d’Abidjan."
     },
     {
-     "q": "Une invention qui n’est pas documentée n’existe pas encore pour le monde.",
-     "who": "David Mensah"
+     "h": "Un centre d’opérations de sécurité"
     },
     {
-     "p": "Documenter, c’est dater, expliquer et permettre à d’autres de vérifier. C’est aussi la base de toute protection."
+     "p": "Le site réunit un centre d’opérations de sécurité (SOC), chargé de la surveillance continue et de la réponse aux incidents, et un espace de démonstration. Il se présente comme un pôle régional pour la cyberdéfense en Afrique de l’Ouest et du Centre."
+    },
+    {
+     "q": "Ce centre nous permet de passer d’une logique de réaction à une culture d’anticipation.",
+     "who": "Djibril Ouattara (propos rapportés par Scoop Afrique)"
+    },
+    {
+     "h": "200 000 apprenants visés"
+    },
+    {
+     "p": "Le ministère met en avant le programme Africa DigiEmpower, qui ambitionne de former 200 000 apprenants en Côte d’Ivoire aux métiers des réseaux, de la cybersécurité et de l’intelligence artificielle d’ici 2030."
     }
    ],
-   "nature": "Opinion"
+   "sources": [
+    "Ministère de la Transition numérique — communiqué du 6 novembre 2026 : https://telecom.gouv.ci/actualite/le-ministre-de-la-transition-numerique-inaugure-le-centre-de-cybersecurite-cisco-de-cybastion-203",
+    "Scoop Afrique (07/11/2026) : https://www.scoop-afrique.com/articles/centre-regional-cybersecurite-abidjan-nov-2026"
+   ],
+   "author": "la-redaction",
+   "views": 0
   },
   {
-   "id": 23,
-   "slug": "dossier-dix-projets-open-source",
-   "type": "dossier",
-   "rubrique": "decryptages",
-   "sub": "Comparatifs technologiques",
-   "theme": "ia",
-   "region": "Monde",
-   "country": "International",
-   "author": "marc-lemaire",
-   "date": "2026-10-27",
-   "read": 9,
-   "une": false,
-   "views": 3340,
-   "title": "Dix projets open source à suivre en 2027",
-   "chapo": "Traduction, santé, agriculture, éducation : notre sélection de projets ouverts portés par des talents peu connus.",
-   "tags": [
-    "Open source",
-    "Sélection"
-   ],
-   "body": [
-    {
-     "p": "Ils sont développés par de petites équipes, souvent bénévoles, et rendent service à des milliers de personnes."
-    },
-    {
-     "h": "Comment nous avons choisi"
-    },
-    {
-     "p": "Utilité réelle, qualité de la documentation, communauté active."
-    },
-    {
-     "h": "La sélection"
-    },
-    {
-     "p": "Des outils de traduction pour les langues locales, des cartes ouvertes, des applications d’apprentissage hors ligne…"
-    }
-   ],
-   "nature": "Analyse"
-  },
-  {
-   "id": 17,
-   "slug": "brouillon-mariana-costa-carnet-sante",
-   "type": "portrait",
-   "rubrique": "talents",
-   "sub": "Femmes dans la Tech",
-   "theme": "sante",
-   "region": "Amériques",
-   "country": "Brésil",
-   "author": "sara-el-idrissi",
-   "date": "2026-10-26",
-   "read": 5,
-   "une": false,
-   "views": 0,
-   "status": "brouillon",
-   "title": "Mariana Costa et le carnet de santé numérique des familles isolées",
-   "chapo": "Une designer a conçu, avec des agents de santé, un carnet simple qui suit les vaccinations des enfants.",
-   "tags": [
-    "Design",
-    "Santé"
-   ],
-   "body": [
-    {
-     "p": "Article en cours de rédaction."
-    }
-   ],
-   "nature": "Portrait"
-  },
-  {
-   "id": 25,
-   "slug": "ia-modele-ouvert-langues-africaines",
+   "id": 6,
+   "slug": "cote-divoire-berd-protocole-intelligence-artificielle",
    "type": "article",
    "nature": "Fait",
    "rubrique": "actualites",
    "sub": "Intelligence artificielle",
    "theme": "ia",
    "region": "Afrique",
-   "country": "International",
-   "author": "marc-lemaire",
-   "date": "2026-10-31",
-   "read": 4,
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-24",
+   "read": 3,
    "une": true,
-   "views": 4210,
-   "title": "Un collectif de chercheurs publie un modèle d’IA ouvert entraîné sur douze langues africaines",
-   "chapo": "Le modèle, librement réutilisable, vise à améliorer la traduction et la recherche d’information dans des langues encore peu présentes en ligne.",
+   "title": "IA et services publics : la Côte d’Ivoire signe un protocole d’accord avec la BERD",
+   "chapo": "Signé le 23 novembre à Abidjan, le document ouvre la voie à une assistance technique ou à des financements. Aucun montant n’a été annoncé.",
    "tags": [
-    "IA",
-    "Langues",
-    "Open source"
-   ],
-   "sources": [
-    "[Annonce officielle du collectif]",
-    "[Article de recherche associé]"
+    "Intelligence artificielle",
+    "BERD",
+    "Administration numérique"
    ],
    "body": [
     {
-     "p": "Un collectif de chercheurs a rendu public un modèle de traitement du langage entraîné sur douze langues africaines."
+     "p": "La Côte d’Ivoire et la Banque européenne pour la reconstruction et le développement (BERD) ont signé le lundi 23 novembre 2026 un protocole d’accord consacré à l’intelligence artificielle, à l’innovation et à la transformation numérique des services publics. Il a été paraphé par le ministre Djibril Ouattara et la présidente de la BERD, Odile Renaud-Basso."
     },
     {
-     "p": "Le modèle est publié sous licence ouverte : universités, startups et administrations peuvent l’utiliser et l’améliorer."
+     "h": "Les domaines retenus"
     },
     {
-     "h": "Ce que l’on sait"
+     "p": "Le soutien aux startups, le déploiement de nouveaux produits et infrastructures, la finance numérique, l’agritech et les infrastructures intelligentes. L’accord doit aussi accompagner le développement d’un écosystème national de l’innovation et le renforcement des compétences."
     },
     {
-     "p": "Les performances annoncées portent sur la traduction et le résumé de textes. Elles n’ont pas encore été évaluées de manière indépendante."
+     "h": "Ce que l’accord n’est pas"
     },
     {
-     "h": "Ce qu’il reste à vérifier"
-    },
-    {
-     "p": "La rédaction suivra les premières évaluations publiques avant de conclure sur la qualité réelle du modèle."
+     "p": "Il s’agit d’un cadre de coopération : aucun montant n’a été annoncé lors de la signature. Les projets pourront recevoir une assistance technique ou un financement une fois définis."
     }
-   ]
+   ],
+   "sources": [
+    "Benews — « Côte d’Ivoire et BERD signent un accord sur l’IA » (24/11/2026) : https://benews.ci/cote-ivoire-berd-accord-ia-services-publics-numeriques/"
+   ],
+   "author": "la-redaction",
+   "views": 0
   },
   {
-   "id": 26,
-   "slug": "cybersecurite-pme-arnaques-messagerie",
+   "id": 7,
+   "slug": "aisca-cote-divoire-capacites-de-calcul-ia",
+   "type": "article",
+   "nature": "Fait",
+   "rubrique": "actualites",
+   "sub": "Intelligence artificielle",
+   "theme": "ia",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-17",
+   "read": 3,
+   "une": false,
+   "title": "Puissance de calcul pour l’IA : la Côte d’Ivoire s’associe à la fondation AISCA",
+   "chapo": "Un mémorandum d’entente doit faciliter l’accès des chercheurs et innovateurs ivoiriens à des capacités de calcul souveraines.",
+   "tags": [
+    "Intelligence artificielle",
+    "Calcul",
+    "Recherche"
+   ],
+   "body": [
+    {
+     "p": "Le ministère de la Transition numérique et de l’Innovation technologique a annoncé le 16 novembre 2026 la signature d’un mémorandum d’entente avec la Fondation AI Skills and Compute Africa (AISCA)."
+    },
+    {
+     "h": "Pourquoi le calcul compte"
+    },
+    {
+     "p": "Entraîner un modèle d’intelligence artificielle demande des ressources informatiques importantes, souvent hors de portée des laboratoires et startups locaux. L’accès à ces ressources figure parmi les priorités de la stratégie nationale d’IA de la Côte d’Ivoire."
+    },
+    {
+     "h": "Le contenu de l’accord"
+    },
+    {
+     "p": "Le cadre de coopération couvre la formation aux métiers de l’IA, le soutien à la recherche et à l’innovation, l’accélération de cas d’usage prioritaires et le renforcement de l’écosystème des données."
+    }
+   ],
+   "sources": [
+    "Digital Mag CI — récapitulatif du 16 au 22 novembre 2026 : https://digitalmag.ci/une-semaine-dactualite-numerique-en-cote-divoire-16-22-novembre-2026/"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 8,
+   "slug": "cote-divoire-conseil-uit-mtn-5g",
+   "type": "article",
+   "nature": "Fait",
+   "rubrique": "actualites",
+   "sub": "Politiques & transformation numérique",
+   "theme": "mobile",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-20",
+   "read": 3,
+   "une": false,
+   "title": "Télécoms : la Côte d’Ivoire revient au Conseil de l’UIT, MTN annonce sa 5G « dans les prochains jours »",
+   "chapo": "Deux annonces de la semaine du 16 novembre qui concernent la place du pays dans la gouvernance mondiale des télécoms et le réseau mobile de demain.",
+   "tags": [
+    "Télécoms",
+    "5G",
+    "UIT"
+   ],
+   "body": [
+    {
+     "p": "La Côte d’Ivoire a été élue au Conseil de l’Union internationale des télécommunications (UIT) pour la période 2027-2030, au titre de la région Afrique, lors de la 22e Conférence de plénipotentiaires qui se tient du 9 au 27 novembre 2026 à Doha, au Qatar."
+    },
+    {
+     "h": "La 5G de MTN annoncée"
+    },
+    {
+     "p": "Reçu le 19 novembre 2026 par le ministre Djibril Ouattara, le président-directeur général du groupe MTN, Ralph Tendai Mupita, a confirmé l’ouverture commerciale du réseau 5G de MTN Côte d’Ivoire « dans les prochains jours ». À la date de publication, la date exacte de lancement n’a pas été communiquée."
+    }
+   ],
+   "sources": [
+    "Digital Mag CI — récapitulatif du 16 au 22 novembre 2026 : https://digitalmag.ci/une-semaine-dactualite-numerique-en-cote-divoire-16-22-novembre-2026/"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 9,
+   "slug": "eccomob-echange-batteries-mobilite-electrique-abidjan",
+   "type": "portrait",
+   "nature": "Portrait",
+   "rubrique": "startups",
+   "sub": "Startups",
+   "theme": "energie",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-19",
+   "read": 4,
+   "une": false,
+   "title": "Eccomob mise sur l’échange de batteries en deux minutes pour électrifier les deux-roues ivoiriens",
+   "chapo": "Lancée le 17 novembre à Abidjan, la startup cofondée par Tahirou Gourouza et Anah Safiatou Coulibaly veut lever les freins de la recharge des véhicules électriques.",
+   "tags": [
+    "Mobilité électrique",
+    "Batteries",
+    "Énergie"
+   ],
+   "startup": {
+    "secteur": "Mobilité électrique",
+    "pays": "Côte d’Ivoire",
+    "creation": "2025",
+    "stade": "Lancement commercial",
+    "equipe": "Cofondée par Tahirou Gourouza et Anah Safiatou Coulibaly"
+   },
+   "body": [
+    {
+     "p": "La startup ivoirienne Eccomob a officiellement lancé ses activités le mardi 17 novembre 2026 à Abidjan. Cofondée en 2025, elle se positionne sur la mobilité électrique en Côte d’Ivoire et en Afrique."
+    },
+    {
+     "h": "Le problème : recharger"
+    },
+    {
+     "p": "Accès aux bornes, coût de la recharge, temps d’immobilisation : ce sont les principaux obstacles à l’adoption des véhicules électriques. Eccomob répond par un système d’échange de batteries : une batterie vide est remplacée par une batterie chargée en deux minutes, dans des points relais et des stations-service."
+    },
+    {
+     "h": "Une flotte de plus de 200 véhicules"
+    },
+    {
+     "p": "Pour son entrée sur le marché, la startup a remis plus de 100 vélos et tricycles électriques à différents acteurs, portant sa flotte à plus de 200 véhicules, selon Digital Mag."
+    }
+   ],
+   "sources": [
+    "Digital Mag CI — récapitulatif du 16 au 22 novembre 2026 : https://digitalmag.ci/une-semaine-dactualite-numerique-en-cote-divoire-16-22-novembre-2026/"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 10,
+   "slug": "financement-startups-africaines-troisieme-trimestre-2026",
+   "type": "article",
+   "nature": "Analyse",
+   "rubrique": "startups",
+   "sub": "Financements & investissements",
+   "theme": "fintech",
+   "region": "Afrique",
+   "country": "Afrique",
+   "date": "2026-10-20",
+   "read": 5,
+   "une": false,
+   "title": "Startups africaines : 712 millions de dollars levés au troisième trimestre 2026, mais une carte qui se resserre",
+   "chapo": "Plus d’argent, moins d’opérations et moins de pays : les rapports trimestriels publiés en octobre dessinent un marché porté par quelques gros tours.",
+   "tags": [
+    "Levées de fonds",
+    "Capital-risque",
+    "Afrique"
+   ],
+   "body": [
+    {
+     "p": "Selon le rapport trimestriel de Propel Africa, les startups africaines ont annoncé 712 millions de dollars de financements à travers 114 opérations entre juillet et septembre 2026 : 28 % de plus qu’au deuxième trimestre (556 millions), mais avec 8 % d’opérations en moins. Le montant reste inférieur à celui du troisième trimestre 2025 (780 millions)."
+    },
+    {
+     "h": "Un tour pèse un tiers du total"
+    },
+    {
+     "p": "Le tour de série C de 250 millions de dollars de Moove représente à lui seul 35 % des montants du trimestre. Les startups nigérianes ont levé 326 millions de dollars (46 % du total). Nigeria, Égypte (103 millions), Kenya (84,7 millions) et Afrique du Sud (78,2 millions) concentrent 83 % des montants."
+    },
+    {
+     "h": "L’amorçage s’essouffle"
+    },
+    {
+     "p": "Seules 41 opérations relèvent du pré-amorçage, de l’amorçage ou des tours de moins d’un million de dollars, contre 62 au trimestre précédent. Des startups de 15 pays ont enregistré une opération, contre 21. La santé n’a levé que 1,8 million de dollars en six opérations."
+    },
+    {
+     "h": "Ce que disent les autres baromètres"
+    },
+    {
+     "p": "L’association AVCA compte 2,6 milliards de dollars de capital-risque depuis le début de l’année, mais seulement 271 opérations, le plus faible niveau depuis 2020, et un record de 65 financements par dette. Le suivi de Condia recense environ 2,45 milliards de dollars sur 230 opérations de janvier à septembre. Les méthodologies diffèrent, d’où des écarts entre les chiffres."
+    }
+   ],
+   "sources": [
+    "Propel Africa — The African Venture Report Q3 2026 : https://www.propel.africa/reports/african-venture-report-q3-2026",
+    "AVCA — Q3 2026 Venture Capital in Africa Report : https://www.avca.africa/data-intelligence/research-publications/q3-2026-venture-capital-in-africa-report-october-28th/",
+    "Condia (23/10/2026) : https://thecondia.com/insight/african-funding-2026-trends/"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 11,
+   "slug": "moove-leve-250-millions-dollars-vehicules-autonomes",
+   "type": "article",
+   "nature": "Fait",
+   "rubrique": "startups",
+   "sub": "Financements & investissements",
+   "theme": "mobile",
+   "region": "Afrique",
+   "country": "Nigeria",
+   "date": "2026-08-06",
+   "read": 4,
+   "une": false,
+   "title": "Moove lève 250 millions de dollars et parie sur les flottes de véhicules autonomes",
+   "chapo": "Née au Nigeria en 2020 pour financer les véhicules des chauffeurs VTC, la société aujourd’hui basée à Dubaï est valorisée 2,1 milliards de dollars.",
+   "tags": [
+    "Mobilité",
+    "Levée de fonds",
+    "Véhicules autonomes"
+   ],
+   "body": [
+    {
+     "p": "Moove a annoncé le 5 août 2026 une levée de série C de 250 millions de dollars, pour une valorisation de 2,1 milliards de dollars. Le tour est mené par le fonds souverain d’Abou Dhabi Mubadala, avec Woven Capital (Toyota) et Ion Pacific comme co-investisseurs principaux."
+    },
+    {
+     "h": "Du financement de véhicules aux robotaxis"
+    },
+    {
+     "p": "Fondée en 2020 au Nigeria, Moove finance des véhicules pour les chauffeurs de VTC et opère une flotte d’environ 42 000 véhicules dans 14 pays, selon TechCrunch. Depuis 2023, elle développe une activité de gestion de flottes autonomes, en partenariat notamment avec Waymo."
+    },
+    {
+     "h": "À noter"
+    },
+    {
+     "p": "Selon Propel Africa, Moove a annoncé en octobre 2026 la fermeture de ses opérations au Nigeria. Son pays d’origine ne dit donc pas où sera dépensé l’argent levé."
+    }
+   ],
+   "sources": [
+    "TechCrunch (05/08/2026) : https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+    "Woven Capital — communiqué (05/08/2026) : https://woven.vc/moove-raises-250-million-at-2-1-billion-valuation-to-scale-the-global-infrastructure-layer-for-autonomous-mobility/",
+    "Propel Africa — The African Venture Report Q3 2026"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 12,
+   "slug": "babel-balsomi-connectia-ia-donnees-africaines",
+   "type": "portrait",
+   "nature": "Portrait",
+   "rubrique": "talents",
+   "sub": "Femmes dans la Tech",
+   "theme": "sante",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-21",
+   "read": 4,
+   "une": false,
+   "title": "Babel Balsomi et Connectia : des modèles d’IA entraînés sur des données africaines",
+   "chapo": "Grand Prix de l’Innovation de l’Ivoire Tech Forum 2026, le laboratoire qu’elle dirige veut accélérer le diagnostic de l’épilepsie et lutter contre le décrochage scolaire.",
+   "tags": [
+    "Intelligence artificielle",
+    "Santé",
+    "Femmes dans la Tech"
+   ],
+   "body": [
+    {
+     "p": "Le 13 novembre 2026, Connectia a remporté le Grand Prix de l’Innovation de la Pitch Competition de l’Ivoire Tech Forum, doté de 15 millions de FCFA. Dirigé par Babel Balsomi, ce laboratoire de données et d’intelligence artificielle entraîne ses modèles sur des données africaines plutôt que sur des modèles importés."
+    },
+    {
+     "h": "Trois produits"
+    },
+    {
+     "p": "Neuroverse vise à ramener le délai de diagnostic de l’épilepsie de trois ans à six mois. DataWiz est un outil d’aide à la décision pour les entreprises. Athéna est un outil vocal multilingue conçu pour lutter contre le décrochage scolaire."
+    },
+    {
+     "h": "Une exception sur scène"
+    },
+    {
+     "p": "Seules deux des 32 entreprises lauréates des programmes Ivoire Tech Next 15 et Scale Up sont dirigées par des femmes, et trois des dix pitchs de la finale étaient portés ou coportés par des femmes. C’est pourtant une entreprise dirigée par une femme qui a remporté le Grand Prix."
+    },
+    {
+     "p": "VOX TECH GLOBAL a sollicité Connectia pour un entretien approfondi ; cet article sera complété."
+    }
+   ],
+   "sources": [
+    "StartupActu (18/11/2026) : https://startupactu.com/article/a-abidjan-dix-startups-ont-pitche-pour-35-millions-de-fcfa"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 13,
+   "slug": "la-ruche-health-kiko-assistant-sante-whatsapp",
+   "type": "portrait",
+   "nature": "Portrait",
+   "rubrique": "talents",
+   "sub": "Portraits de talents",
+   "theme": "sante",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-10",
+   "read": 5,
+   "une": false,
+   "title": "Benjamin Sasu, Rory Assandey et Kiko, l’assistant santé qui répond sur WhatsApp",
+   "chapo": "Depuis Abidjan, La Ruche Health a bâti un service de santé numérique sans cabinet ni salle d’attente. Son assistant IA a répondu à plus de 500 000 questions.",
+   "tags": [
+    "E-santé",
+    "WhatsApp",
+    "Intelligence artificielle"
+   ],
+   "startup": {
+    "secteur": "Santé numérique",
+    "pays": "Côte d’Ivoire",
+    "creation": "2022-2023",
+    "stade": "Lauréate Ivoire Tech Next 15",
+    "equipe": "Fondée par Benjamin Sasu et Rory Assandey"
+   },
+   "body": [
+    {
+     "p": "La Ruche Health est une startup de santé numérique basée à Abidjan, fondée par Benjamin Sasu et Rory Assandey. Elle propose téléconsultation, visites et examens à domicile, réservables depuis un téléphone."
+    },
+    {
+     "h": "Kiko, disponible 24 h sur 24"
+    },
+    {
+     "p": "Son assistant d’intelligence artificielle, Kiko, est accessible gratuitement sur WhatsApp, Facebook Messenger et l’application mobile. Il comprend le texte, les notes vocales et les images. Selon TechCabal, la startup affirme avoir répondu à plus de 500 000 questions de santé et facilité plus de 5 000 téléconsultations payées, avec des patients dans dix pays ; 98 % des interactions passent par WhatsApp."
+    },
+    {
+     "h": "Une santé au féminin"
+    },
+    {
+     "p": "Les utilisateurs sont à 82,4 % des femmes. Sur un échantillon de trois mois en 2025, 31 % des questions concernaient le cycle menstruel, 23 % la grossesse, 21 % la contraception et 21 % le soutien émotionnel — des sujets souvent difficiles à aborder en consultation."
+    },
+    {
+     "h": "Reconnaissance"
+    },
+    {
+     "p": "La Ruche Health a reçu le Prix Galien Afrique 2025 et fait partie des 14 startups retenues en novembre 2026 dans le programme Ivoire Tech Next 15. Les chiffres cités sont ceux communiqués par l’entreprise."
+    }
+   ],
+   "sources": [
+    "TechCabal, Francophone Weekly n° 20 (28/04/2026) : https://techcabal.com/2026/04/28/francophone-weekly-by-techcabal-020/",
+    "La Ruche Health : https://www.laruche.health/fr",
+    "We Are Tech Africa (27/06/2024)",
+    "TechCabal, Francophone Weekly n° 47 (10/11/2026)"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 14,
+   "slug": "jpf-aerialops-okani-agriculture-de-precision-drones",
+   "type": "projet",
+   "nature": "Reportage",
+   "rubrique": "innovations",
+   "sub": "Solutions numériques",
+   "theme": "agritech",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-22",
+   "read": 4,
+   "une": false,
+   "title": "JPF AerialOps : drones, capteurs de sol et un agronome numérique nommé Okani",
+   "chapo": "Deuxième prix de la Pitch Competition de l’Ivoire Tech Forum et lauréate d’Ivoire Tech Next 15, l’entreprise ivoirienne cible les grandes plantations.",
+   "tags": [
+    "Agritech",
+    "Drones",
+    "Agriculture de précision"
+   ],
+   "fiche": {
+    "statut": "En activité, levée en cours",
+    "porteur": "JPF AerialOps",
+    "pays": "Côte d’Ivoire",
+    "domaine": "Agriculture de précision",
+    "debut": "Fin 2023 (premières exploitations suivies)",
+    "licence": "Propriétaire"
+   },
+   "body": [
+    {
+     "p": "JPF AerialOps combine drones et capteurs de sol pour alimenter Okani, un agronome numérique qui produit un plan d’action pour chaque exploitation et cible la pulvérisation."
+    },
+    {
+     "h": "Les résultats annoncés"
+    },
+    {
+     "p": "L’entreprise affirme des rendements en hausse de 70 % et une consommation d’intrants en baisse de 45 % dans les exploitations qu’elle accompagne depuis fin 2023. Ces chiffres sont déclaratifs et n’ont pas été vérifiés de manière indépendante."
+    },
+    {
+     "h": "Le financement"
+    },
+    {
+     "p": "JPF AerialOps lève 300 millions de FCFA (environ 530 000 dollars). Elle a reçu le deuxième prix de la Pitch Competition (8 millions de FCFA) et fait partie de la cohorte Ivoire Tech Next 15."
+    }
+   ],
+   "sources": [
+    "StartupActu (18/11/2026) : https://startupactu.com/article/a-abidjan-dix-startups-ont-pitche-pour-35-millions-de-fcfa",
+    "TechCabal, Francophone Weekly n° 47 (10/11/2026)"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 15,
+   "slug": "agriwatch-ia-sante-betail-sans-connexion",
+   "type": "projet",
+   "nature": "Reportage",
+   "rubrique": "innovations",
+   "sub": "Prototypes technologiques",
+   "theme": "agritech",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-23",
+   "read": 3,
+   "une": false,
+   "title": "AgriWatch surveille la santé du bétail par l’IA, même sans internet",
+   "chapo": "Troisième prix de l’Ivoire Tech Forum, le projet en est à ses débuts et l’assume : un pilote de trois mois à Songon et un modèle passé de 60 % à 80 % de précision.",
+   "tags": [
+    "Élevage",
+    "Intelligence artificielle",
+    "Hors ligne"
+   ],
+   "fiche": {
+    "statut": "Pilote réalisé, recherche de financement",
+    "porteur": "AgriWatch",
+    "pays": "Côte d’Ivoire",
+    "domaine": "Agritech / élevage",
+    "debut": "2025",
+    "licence": "Propriétaire"
+   },
+   "body": [
+    {
+     "p": "AgriWatch propose une surveillance en temps réel de la santé du bétail grâce à l’intelligence artificielle, pensée pour fonctionner sans connexion internet, une contrainte fréquente en zone rurale."
+    },
+    {
+     "h": "Où en est le projet ?"
+    },
+    {
+     "p": "Après un an de recherche sur fonds propres et un pilote de trois mois dans une ferme de Songon, la précision du modèle serait passée de 60 % à 80 %. L’équipe estime avoir besoin de 50 millions de FCFA pour couvrir 2 000 têtes de bétail sur le territoire national."
+    },
+    {
+     "h": "Distinction"
+    },
+    {
+     "p": "Le projet a reçu le troisième prix (5 millions de FCFA) de la Pitch Competition de l’Ivoire Tech Forum, le 13 novembre 2026."
+    }
+   ],
+   "sources": [
+    "StartupActu (18/11/2026) : https://startupactu.com/article/a-abidjan-dix-startups-ont-pitche-pour-35-millions-de-fcfa"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 16,
+   "slug": "femmes-entrepreneures-tech-cote-divoire-programmes-publics",
+   "type": "article",
+   "nature": "Analyse",
+   "rubrique": "decryptages",
+   "sub": "Analyses",
+   "theme": "fintech",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-21",
+   "read": 4,
+   "une": false,
+   "title": "Deux femmes sur 32 lauréats : pourquoi les fondatrices restent loin des programmes tech",
+   "chapo": "Près de 30 % des entreprises ivoiriennes sont dirigées par des femmes. Elles sont pourtant presque absentes des cohortes d’accélération publiques.",
+   "tags": [
+    "Femmes dans la Tech",
+    "Financement",
+    "Inclusion"
+   ],
+   "body": [
+    {
+     "p": "Seules deux des 32 entreprises lauréates des programmes Ivoire Tech Next 15 et Ivoire Tech Scale Up sont dirigées par des femmes, toutes deux dans la catégorie PME. La cohorte startups n’en compte aucune, selon StartupActu."
+    },
+    {
+     "h": "Un entonnoir qui se resserre"
+    },
+    {
+     "p": "Près de 30 % des entreprises ivoiriennes sont dirigées par des femmes, et plus de 60 % d’entre elles évoluent dans l’informel, selon la presse rendant compte d’une étude nationale lancée en février 2026. Plus on approche du capital-risque, plus leur part diminue."
+    },
+    {
+     "h": "Des pistes existent"
+    },
+    {
+     "p": "StartupActu suggère de publier la répartition par genre des candidatures à chaque programme et de recruter les prochaines cohortes via des réseaux qui touchent déjà les fondatrices, comme le Guichet Investir au Féminin du CEPICI, qui prévoit d’accompagner 1 000 femmes entrepreneures dans sa phase pilote."
+    },
+    {
+     "p": "Signe encourageant : lors de la finale de la Pitch Competition, c’est une entreprise dirigée par une femme, Connectia, qui a remporté le Grand Prix."
+    }
+   ],
+   "sources": [
+    "StartupActu (18/11/2026) : https://startupactu.com/article/a-abidjan-dix-startups-ont-pitche-pour-35-millions-de-fcfa",
+    "TechCabal, Francophone Weekly n° 47 (10/11/2026)"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 17,
+   "slug": "fact-check-faux-gains-cadeaux-paiement-mobile",
+   "type": "factcheck",
+   "nature": "Fact-check",
+   "rubrique": "decryptages",
+   "sub": "Fact-checking",
+   "theme": "fintech",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-12",
+   "read": 3,
+   "une": false,
+   "verdict": {
+    "label": "Faux",
+    "text": "Les messages annonçant un gain ou un cadeau à récupérer via un lien ou un paiement anticipé sont des arnaques signalées par la PLCC."
+   },
+   "title": "« Vous avez gagné un cadeau » : non, ces messages sur votre compte mobile money ne sont pas réels",
+   "chapo": "Faux gains, faux cadeaux, faux vendeurs : la Plateforme de lutte contre la cybercriminalité a multiplié les alertes en 2026. Voici comment reconnaître l’arnaque.",
+   "tags": [
+    "Fact-checking",
+    "Mobile money",
+    "Arnaques"
+   ],
+   "body": [
+    {
+     "p": "Un message vous annonce un gain ou un cadeau et vous invite à cliquer sur un lien ou à envoyer un petit montant pour le « débloquer ». En février 2026, la Plateforme de lutte contre la cybercriminalité (PLCC) a mis en garde contre ces arnaques aux faux cadeaux qui visent les utilisateurs de services de paiement électronique."
+    },
+    {
+     "h": "La variante des faux vendeurs"
+    },
+    {
+     "p": "Le 30 juillet 2026, la PLCC a alerté sur les arnaques aux ventes en ligne : de faux profils publient des offres très alléchantes, exigent un paiement anticipé, généralement par mobile money, puis coupent tout contact."
+    },
+    {
+     "q": "Les cybercriminels exploitent les offres trop alléchantes et le sentiment d’urgence pour piéger leurs victimes.",
+     "who": "PLCC (rapporté par Akwabanews)"
+    },
+    {
+     "h": "Les bons réflexes"
+    },
+    {
+     "p": "Ne cliquez pas sur un lien reçu d’un inconnu, ne communiquez jamais votre code secret, achetez sur des plateformes officielles, ne payez pas avant réception, vérifiez l’identité du vendeur. En cas d’arnaque, signalez-la à la PLCC."
+    },
+    {
+     "h": "Notre conclusion"
+    },
+    {
+     "p": "Un opérateur ne demande jamais de payer pour recevoir un gain. Ces messages sont des tentatives d’escroquerie."
+    }
+   ],
+   "sources": [
+    "Akwabanews (30/07/2026) : https://www.akwabanews.ci/societe/ventes-en-ligne-une-nouvelle-forme-danarque-fait-des-victimes-la-plcc-met-en-garde/",
+    "Ivoirematin (13/02/2026) : « la PLCC met en garde contre les arnaques aux faux cadeaux en ligne »"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 18,
+   "slug": "inkubalm-lelapa-ai-modele-langues-africaines",
+   "type": "projet",
+   "nature": "Analyse",
+   "rubrique": "innovations",
+   "sub": "Recherche & développement",
+   "theme": "ia",
+   "region": "Afrique",
+   "country": "Afrique du Sud",
+   "date": "2026-10-28",
+   "read": 4,
+   "une": false,
+   "title": "InkubaLM, un petit modèle de langage pour cinq langues africaines",
+   "chapo": "Développé par la startup sud-africaine Lelapa AI, ce modèle de 400 millions de paramètres montre qu’une IA utile n’a pas forcément besoin de ressources géantes.",
+   "tags": [
+    "Intelligence artificielle",
+    "Langues africaines",
+    "Open source"
+   ],
+   "fiche": {
+    "statut": "Modèle publié (2024)",
+    "porteur": "Lelapa AI",
+    "pays": "Afrique du Sud",
+    "domaine": "Traitement automatique des langues",
+    "debut": "2024",
+    "licence": "CC BY-NC 4.0"
+   },
+   "body": [
+    {
+     "p": "InkubaLM est un « petit » modèle de langage de 0,4 milliard de paramètres, publié en 2024 par l’équipe de recherche fondamentale de Lelapa AI. Il couvre le swahili, le yoruba, le haoussa, l’isiZulu et l’isiXhosa, ainsi que l’anglais et le français."
+    },
+    {
+     "h": "Comment il a été entraîné"
+    },
+    {
+     "p": "Le modèle a été entraîné à partir de zéro sur 2,4 milliards de tokens, dont 1,9 milliard dans les cinq langues africaines. Il a été évalué en traduction, en analyse de sentiment et sur les tests AfriMMLU et AfriXNLI."
+    },
+    {
+     "h": "Ses limites"
+    },
+    {
+     "p": "Ses concepteurs préviennent que les textes produits peuvent être inexacts ou biaisés et recommandent des tests de sécurité avant tout usage. Sa licence interdit l’usage commercial."
+    }
+   ],
+   "sources": [
+    "Hugging Face — lelapa/InkubaLM-0.4B : https://huggingface.co/lelapa/InkubaLM-0.4B",
+    "arXiv:2408.17024 — « InkubaLM: A small language model for low-resource African languages »",
+    "Lelapa AI : https://lelapa.ai/blog/inkubalm-small-language-model"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 19,
+   "slug": "opportunites-startups-appels-a-candidatures-decembre-2026",
+   "type": "article",
+   "nature": "Annonce",
+   "rubrique": "campus",
+   "sub": "Emploi & opportunités",
+   "theme": "fintech",
+   "region": "Afrique",
+   "country": "Afrique",
+   "date": "2026-11-25",
+   "read": 3,
+   "une": true,
+   "title": "Startups : quatre appels à candidatures ouverts avant la fin de l’année",
+   "chapo": "Formation, financement non dilutif, incubation : notre sélection d’opportunités vérifiées pour les porteurs de projets africains.",
+   "tags": [
+    "Opportunités",
+    "Financement",
+    "Incubation"
+   ],
+   "body": [
+    {
+     "p": "Voici les appels à candidatures ouverts au 25 novembre 2026. Vérifiez toujours les conditions sur le site officiel avant de postuler."
+    },
+    {
+     "h": "Côte d’Ivoire : ENI Call4Innovators"
+    },
+    {
+     "p": "Ouvert du 20 novembre 2026 à janvier 2027, il s’adresse aux startups, PME innovantes et entreprises établies. Les sélectionnés suivront 12 semaines de formation à l’entrepreneuriat, à raison d’environ deux heures par semaine, et un programme de mise en relation avec des entreprises clientes."
+    },
+    {
+     "h": "Afrique de l’Est et australe : develoPPP Ventures"
+    },
+    {
+     "p": "La 12e cohorte est ouverte jusqu’au 31 décembre 2026 pour les startups à fort impact d’Afrique du Sud, du Kenya, du Rwanda et de Tanzanie : jusqu’à 100 000 euros de financement non dilutif, conditionné à un cofinancement privé équivalent."
+    },
+    {
+     "h": "Maroc : TechnoVentures et Smart Region"
+    },
+    {
+     "p": "Le programme TechnoVentures du Technopark accepte les candidatures de startups en phase POC ou MVP jusqu’au 13 décembre 2026 pour 7 mois d’accompagnement. Le challenge Smart Region de Fès-Meknès clôt ses candidatures le 6 décembre 2026 ; cinq projets lauréats seront accompagnés gratuitement."
+    }
+   ],
+   "sources": [
+    "Abidjan.net (21/11/2026) : https://news.abidjan.net/articles/750113/cote-divoire-eni-lance-un-programme-de-soutien-aux-startups",
+    "We Are Tech Africa (26/11/2026) : https://www.wearetech.africa/fr/fils/breves/breves-une/developpp-ventures-lance-un-appel-a-candidatures-de-100-000",
+    "Technopark Maroc : https://www.technopark.ma",
+    "Incubooster — Smart Region : https://incubooster.ma/public/smartregion/"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 20,
+   "slug": "africa-digiempower-200000-apprenants-cybersecurite-reseaux-ia",
+   "type": "article",
+   "nature": "Fait",
+   "rubrique": "campus",
+   "sub": "Formations & certifications",
+   "theme": "education",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-09",
+   "read": 3,
+   "une": false,
+   "title": "Réseaux, cybersécurité, IA : 200 000 apprenants à former en Côte d’Ivoire d’ici 2030",
+   "chapo": "Le programme Africa DigiEmpower, mis en avant lors de l’ouverture du centre Cisco-Cybastion, vise les métiers les plus recherchés du numérique.",
+   "tags": [
+    "Formation",
+    "Cybersécurité",
+    "Métiers de la Tech"
+   ],
+   "body": [
+    {
+     "p": "Lors de l’inauguration du centre de cybersécurité Cisco de Cybastion, le 5 novembre 2026, le ministère de la Transition numérique a mis l’accent sur le programme Africa DigiEmpower, qui ambitionne de former 200 000 apprenants en Côte d’Ivoire aux métiers des réseaux, de la cybersécurité et de l’intelligence artificielle d’ici 2030."
+    },
+    {
+     "h": "Des métiers en tension"
+    },
+    {
+     "p": "Surveillance des systèmes, réponse aux incidents, administration réseau : le nouveau centre d’opérations de sécurité d’Abidjan illustre les compétences recherchées. La ministre de la Femme, de la Famille et de l’Enfant, Nasseneba Touré, a insisté sur l’accès des femmes à ces carrières."
+    },
+    {
+     "h": "Comment se préparer"
+    },
+    {
+     "p": "Les modalités d’inscription au programme n’avaient pas été détaillées à la date de publication. Nous publierons les informations pratiques dès qu’elles seront disponibles."
+    }
+   ],
+   "sources": [
+    "Ministère de la Transition numérique (06/11/2026) : https://telecom.gouv.ci/actualite/le-ministre-de-la-transition-numerique-inaugure-le-centre-de-cybersecurite-cisco-de-cybastion-203",
+    "Scoop Afrique (07/11/2026)"
+   ],
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 21,
+   "slug": "cyber-africa-forum-2026-cotonou-confiance-numerique",
    "type": "article",
    "nature": "Fait",
    "rubrique": "actualites",
    "sub": "Cybersécurité",
    "theme": "mobile",
    "region": "Afrique",
-   "country": "International",
-   "author": "sara-el-idrissi",
-   "date": "2026-10-31",
-   "read": 5,
-   "une": false,
-   "views": 2650,
-   "title": "Cybersécurité : les petites entreprises, cibles privilégiées des arnaques par messagerie",
-   "chapo": "Faux fournisseurs, faux livreurs, faux conseillers bancaires : les escroqueries par messagerie visent de plus en plus les petits commerces.",
-   "tags": [
-    "Cybersécurité",
-    "PME",
-    "Arnaques"
-   ],
-   "sources": [
-    "[Étude ou rapport à citer]",
-    "Témoignages de commerçants recueillis par la rédaction"
-   ],
-   "body": [
-    {
-     "p": "Les petites entreprises manquent souvent d’outils et de formation face aux tentatives de fraude."
-    },
-    {
-     "h": "Les signaux d’alerte"
-    },
-    {
-     "p": "Un message urgent, une demande de paiement inhabituelle, un lien raccourci : autant d’indices qui doivent faire réagir."
-    },
-    {
-     "h": "Les bons réflexes"
-    },
-    {
-     "p": "Vérifier par un autre canal, ne jamais communiquer de code reçu par SMS, activer la double authentification."
-    }
-   ]
-  },
-  {
-   "id": 27,
-   "slug": "big-tech-donnees-utilisateurs-regles",
-   "type": "article",
-   "nature": "Analyse",
-   "rubrique": "actualites",
-   "sub": "Big Tech",
-   "theme": "mobile",
-   "region": "Monde",
-   "country": "International",
-   "author": "marc-lemaire",
-   "date": "2026-10-29",
-   "read": 6,
-   "une": false,
-   "views": 1980,
-   "title": "Données personnelles : ce que les nouvelles règles imposées aux géants du numérique changent pour les utilisateurs",
-   "chapo": "Consentement, portabilité, transparence des algorithmes : le point sur les obligations qui se renforcent.",
-   "tags": [
-    "Big Tech",
-    "Données",
-    "Régulation"
-   ],
-   "sources": [
-    "[Texte réglementaire à citer]"
-   ],
-   "body": [
-    {
-     "p": "Plusieurs juridictions renforcent les obligations des grandes plateformes en matière de données personnelles."
-    },
-    {
-     "h": "Pour l’utilisateur"
-    },
-    {
-     "p": "Des paramètres de confidentialité plus clairs et la possibilité de récupérer ses données plus facilement."
-    },
-    {
-     "h": "Pour les entreprises locales"
-    },
-    {
-     "p": "De nouvelles opportunités pour des services respectueux de la vie privée."
-    }
-   ]
-  },
-  {
-   "id": 28,
-   "slug": "cinq-startups-a-suivre",
-   "type": "dossier",
-   "nature": "Analyse",
-   "rubrique": "startups",
-   "sub": "Startups",
-   "theme": "fintech",
-   "region": "Afrique",
-   "country": "International",
-   "author": "aicha-kone",
-   "date": "2026-10-30",
-   "read": 7,
-   "une": false,
-   "views": 3870,
-   "title": "Cinq startups à suivre ce trimestre",
-   "chapo": "Paiement, agriculture, santé, éducation, logistique : notre sélection de jeunes entreprises qui répondent à des besoins concrets.",
-   "tags": [
-    "Startups",
-    "Sélection"
-   ],
-   "body": [
-    {
-     "p": "Notre sélection repose sur trois critères : un problème réel, des premiers utilisateurs, une équipe identifiable."
-    },
-    {
-     "h": "Les critères de la rédaction"
-    },
-    {
-     "p": "Aucune entreprise n’a payé pour figurer dans cette sélection."
-    },
-    {
-     "h": "La sélection"
-    },
-    {
-     "p": "Paiement hors ligne, livraison pour petits commerçants, téléconsultation, apprentissage hors connexion, cartographie agricole."
-    }
-   ]
-  },
-  {
-   "id": 29,
-   "slug": "fatoumata-bah-livraison-petits-commercants",
-   "type": "portrait",
-   "nature": "Portrait",
-   "rubrique": "startups",
-   "sub": "Entrepreneurs Tech",
-   "theme": "mobile",
-   "region": "Afrique",
-   "country": "Guinée",
-   "author": "fatou-ndiaye",
-   "date": "2026-10-28",
-   "read": 6,
-   "une": false,
-   "views": 2310,
-   "title": "Fatoumata Bah veut rendre la livraison accessible aux petits commerçants",
-   "chapo": "Sa plateforme regroupe les commandes de plusieurs boutiques pour réduire le coût de chaque course.",
-   "tags": [
-    "Logistique",
-    "Small business",
-    "Entrepreneuriat"
-   ],
-   "startup": {
-    "secteur": "Logistique",
-    "pays": "Guinée",
-    "creation": "2024",
-    "stade": "Pré-amorçage",
-    "equipe": "4 personnes"
-   },
-   "body": [
-    {
-     "p": "Les grandes plateformes de livraison sont trop chères pour les petites boutiques de quartier."
-    },
-    {
-     "p": "L’idée de Fatoumata : mutualiser les trajets de plusieurs commerçants voisins."
-    },
-    {
-     "q": "Une petite boutique doit pouvoir livrer comme une grande enseigne.",
-     "who": "Fatoumata Bah"
-    }
-   ]
-  },
-  {
-   "id": 30,
-   "slug": "ecosystemes-tech-comment-ils-se-structurent",
-   "type": "dossier",
-   "nature": "Analyse",
-   "rubrique": "startups",
-   "sub": "Écosystèmes technologiques",
-   "theme": "fintech",
-   "region": "Afrique",
-   "country": "International",
-   "author": "marc-lemaire",
-   "date": "2026-10-26",
-   "read": 9,
-   "une": false,
-   "views": 2120,
-   "title": "Comment les écosystèmes tech se structurent dans les grandes villes africaines",
-   "chapo": "Incubateurs, investisseurs, universités et pouvoirs publics : les ingrédients d’un écosystème qui fonctionne.",
-   "tags": [
-    "Écosystèmes",
-    "Incubateurs",
-    "Villes"
-   ],
-   "body": [
-    {
-     "p": "Un écosystème technologique ne se décrète pas. Il se construit autour de talents, de capitaux et de règles claires."
-    },
-    {
-     "h": "Les acteurs clés"
-    },
-    {
-     "p": "Incubateurs, investisseurs, universités, entreprises et administrations."
-    },
-    {
-     "h": "Les points de vigilance"
-    },
-    {
-     "p": "Concentration des financements, fuite des talents, accès inégal à l’infrastructure."
-    }
-   ]
-  },
-  {
-   "id": 31,
-   "slug": "fact-check-application-recharge-solaire",
-   "type": "factcheck",
-   "nature": "Fact-check",
-   "rubrique": "decryptages",
-   "sub": "Fact-checking",
-   "theme": "energie",
-   "region": "Monde",
-   "country": "International",
-   "author": "sara-el-idrissi",
-   "date": "2026-10-30",
+   "country": "Bénin",
+   "date": "2026-11-18",
    "read": 3,
    "une": false,
-   "views": 5120,
-   "verdict": {
-    "label": "Faux",
-    "text": "Une application ne peut pas recharger la batterie d’un téléphone : elle ne produit aucune énergie."
-   },
-   "title": "Non, cette application ne recharge pas votre téléphone grâce à l’énergie solaire",
-   "chapo": "Une vidéo très partagée affirme qu’une application transforme l’écran en panneau solaire. Nous avons vérifié.",
+   "title": "Cyber Africa Forum 2026 : 1 200 participants à Cotonou autour de la confiance numérique",
+   "chapo": "La sixième édition du forum consacré à la cybersécurité s’est tenue les 16 et 17 novembre au Bénin.",
    "tags": [
-    "Fact-checking",
-    "Énergie",
-    "Rumeur"
-   ],
-   "sources": [
-    "Avis de deux ingénieurs en électronique consultés par la rédaction",
-    "[Fiche de l’application sur le magasin d’applications]"
-   ],
-   "body": [
-    {
-     "p": "La vidéo montre un pourcentage de batterie qui augmente après l’installation d’une application."
-    },
-    {
-     "h": "Ce que dit la physique"
-    },
-    {
-     "p": "L’écran d’un téléphone émet de la lumière, il ne la capte pas pour produire de l’électricité."
-    },
-    {
-     "h": "Ce que fait vraiment l’application"
-    },
-    {
-     "p": "Elle affiche un faux indicateur de charge et collecte des données publicitaires."
-    },
-    {
-     "h": "Notre conclusion"
-    },
-    {
-     "p": "L’affirmation est fausse. Nous conseillons de désinstaller l’application."
-    }
-   ]
-  },
-  {
-   "id": 32,
-   "slug": "enquete-dechets-electroniques",
-   "type": "dossier",
-   "nature": "Enquête",
-   "rubrique": "decryptages",
-   "sub": "Enquêtes",
-   "theme": "energie",
-   "region": "Afrique",
-   "country": "International",
-   "author": "aicha-kone",
-   "date": "2026-10-25",
-   "read": 12,
-   "une": false,
-   "views": 3440,
-   "title": "Enquête : où finissent nos appareils électroniques ?",
-   "chapo": "Téléphones, ordinateurs, batteries : nous avons suivi le parcours des déchets électroniques, de la poubelle aux ateliers de réparation.",
-   "tags": [
-    "Déchets électroniques",
-    "Recyclage",
-    "Enquête"
-   ],
-   "sources": [
-    "Visites de trois ateliers de réparation",
-    "[Données publiques à citer]"
-   ],
-   "body": [
-    {
-     "p": "Chaque année, des millions d’appareils sont jetés alors qu’une partie pourrait être réparée."
-    },
-    {
-     "h": "La filière informelle"
-    },
-    {
-     "p": "Des réparateurs et des récupérateurs donnent une seconde vie à de nombreux composants."
-    },
-    {
-     "h": "Les risques"
-    },
-    {
-     "p": "Le brûlage des câbles et le démontage sans protection exposent les travailleurs à des substances toxiques."
-    },
-    {
-     "h": "Les solutions"
-    },
-    {
-     "p": "Formation, équipements de protection et innovations comme l’imprimante 3D recyclée de Kofi Mensah."
-    }
-   ]
-  },
-  {
-   "id": 33,
-   "slug": "metier-data-analyst-cinq-questions",
-   "type": "article",
-   "nature": "Guide",
-   "rubrique": "campus",
-   "sub": "Métiers de la Tech",
-   "theme": "education",
-   "region": "Monde",
-   "country": "International",
-   "author": "fatou-ndiaye",
-   "date": "2026-10-29",
-   "read": 5,
-   "une": false,
-   "views": 2780,
-   "title": "Data analyst : le métier expliqué en cinq questions",
-   "chapo": "Que fait un data analyst au quotidien ? Quelles compétences faut-il ? Comment s’y former ?",
-   "tags": [
-    "Métiers",
-    "Données",
-    "Orientation"
-   ],
-   "body": [
-    {
-     "qa": [
-      "Que fait un data analyst ?",
-      "Il collecte, nettoie et analyse des données pour aider une organisation à prendre des décisions."
-     ]
-    },
-    {
-     "qa": [
-      "Quelles compétences ?",
-      "Tableurs, langage SQL, bases de statistiques et capacité à expliquer simplement des résultats."
-     ]
-    },
-    {
-     "qa": [
-      "Comment se former ?",
-      "Formations universitaires, bootcamps ou parcours en ligne gratuits complétés par des projets personnels."
-     ]
-    }
-   ]
-  },
-  {
-   "id": 34,
-   "slug": "se-former-cybersecurite-parcours-gratuits",
-   "type": "article",
-   "nature": "Guide",
-   "rubrique": "campus",
-   "sub": "Formations & certifications",
-   "theme": "education",
-   "region": "Monde",
-   "country": "International",
-   "author": "david-mensah",
-   "date": "2026-10-27",
-   "read": 6,
-   "une": false,
-   "views": 1890,
-   "title": "Se former à la cybersécurité : les parcours gratuits et certifiants",
-   "chapo": "Des bases aux premières certifications, comment se lancer sans gros budget.",
-   "tags": [
-    "Formation",
     "Cybersécurité",
-    "Certifications"
+    "Bénin",
+    "Événement"
    ],
    "body": [
     {
-     "p": "La cybersécurité manque de profils qualifiés partout dans le monde."
+     "p": "La 6e édition du Cyber Africa Forum s’est tenue les 16 et 17 novembre 2026 à Cotonou, au Bénin, sur le thème « Construire la confiance numérique de demain »."
     },
     {
-     "h": "Les bases"
+     "h": "Les chiffres de l’édition"
     },
     {
-     "p": "Réseaux, systèmes d’exploitation et bonnes pratiques de sécurité."
-    },
-    {
-     "h": "Les certifications d’entrée"
-    },
-    {
-     "p": "Plusieurs organismes proposent des certifications reconnues pour débuter. Vérifiez toujours leur reconnaissance locale."
+     "p": "Le forum a réuni des experts, entrepreneurs et décideurs de 40 pays africains, plus de 70 partenaires et 1 200 participants actifs. Selon son commissaire général, l’Ivoirien Franck Kié, les six éditions cumulent plus de 6 000 participants."
     }
-   ]
-  },
-  {
-   "id": 35,
-   "slug": "premier-emploi-tech-conseils-cv",
-   "type": "article",
-   "nature": "Guide",
-   "rubrique": "campus",
-   "sub": "Conseils carrière",
-   "theme": "education",
-   "region": "Monde",
-   "country": "International",
-   "author": "aicha-kone",
-   "date": "2026-10-26",
-   "read": 4,
-   "une": false,
-   "views": 2240,
-   "title": "Premier emploi dans la tech : sept conseils pour un CV qui se démarque",
-   "chapo": "Projets personnels, compétences vérifiables, lettre courte : ce que regardent vraiment les recruteurs.",
-   "tags": [
-    "Carrière",
-    "CV",
-    "Emploi"
-   ],
-   "body": [
-    {
-     "p": "Pour un premier poste, vos projets comptent souvent plus que votre diplôme."
-    },
-    {
-     "h": "Montrez ce que vous avez construit"
-    },
-    {
-     "p": "Un lien vers un dépôt de code ou un portfolio vaut mieux qu’une longue liste de compétences."
-    },
-    {
-     "h": "Soyez précis"
-    },
-    {
-     "p": "Chiffrez vos résultats quand c’est possible et adaptez votre CV à chaque offre."
-    }
-   ]
-  },
-  {
-   "id": 36,
-   "slug": "capteur-qualite-eau-bas-cout",
-   "type": "projet",
-   "nature": "Reportage",
-   "rubrique": "innovations",
-   "sub": "Recherche & développement",
-   "theme": "sante",
-   "region": "Afrique",
-   "country": "Cameroun",
-   "author": "david-mensah",
-   "date": "2026-10-30",
-   "read": 6,
-   "une": false,
-   "views": 2010,
-   "title": "Un capteur de qualité de l’eau à bas coût mis au point par une équipe universitaire",
-   "chapo": "Conçu avec des composants courants, il mesure plusieurs indicateurs de potabilité et transmet les résultats par SMS.",
-   "tags": [
-    "Eau",
-    "Recherche",
-    "Santé"
    ],
    "sources": [
-    "Entretien avec l’équipe de recherche",
-    "[Publication scientifique à citer]"
+    "Digital Mag CI — récapitulatif du 16 au 22 novembre 2026 : https://digitalmag.ci/une-semaine-dactualite-numerique-en-cote-divoire-16-22-novembre-2026/"
    ],
-   "fiche": {
-    "statut": "Prototype en test",
-    "porteur": "Équipe universitaire",
-    "pays": "Cameroun",
-    "domaine": "Santé",
-    "debut": "2025",
-    "licence": "À préciser"
-   },
+   "author": "la-redaction",
+   "views": 0
+  },
+  {
+   "id": 22,
+   "slug": "brouillon-terre-divoire-jeu-video-etudiants",
+   "type": "portrait",
+   "nature": "Portrait",
+   "status": "brouillon",
+   "rubrique": "talents",
+   "sub": "Jeunes talents",
+   "theme": "education",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "date": "2026-11-25",
+   "read": 3,
+   "une": false,
+   "title": "Terre d’Ivoire, le jeu vidéo de quatre étudiants récompensé à l’Ivoire Tech Forum",
+   "chapo": "Coup de cœur du jury de la Pitch Competition, ce jeu multijoueur de simulation de vie se déroule à Abidjan.",
+   "tags": [
+    "Jeu vidéo",
+    "Étudiants"
+   ],
    "body": [
     {
-     "p": "L’accès à une eau de qualité reste un enjeu majeur dans de nombreuses zones rurales."
-    },
-    {
-     "h": "Le principe"
-    },
-    {
-     "p": "Le capteur mesure l’acidité, la turbidité et la température de l’eau."
-    },
-    {
-     "h": "Les limites"
-    },
-    {
-     "p": "Il ne détecte pas toutes les contaminations : des analyses en laboratoire restent nécessaires."
+     "p": "Brouillon — entretien avec l’équipe à réaliser avant publication."
     }
-   ]
+   ],
+   "author": "la-redaction",
+   "views": 0
   }
  ],
  "LIBRARY": [
   {
    "id": 1,
-   "slug": "magazine-n1",
-   "type": "Magazine",
-   "title": "VOXTECH Magazine n° 1",
-   "subtitle": "Ceux qui innovent dans l’ombre",
-   "date": "2026-10-01",
-   "pages": 64,
+   "slug": "guide-arnaques-mobile-money",
+   "type": "Guide",
+   "title": "Guide pratique : déjouer les arnaques au mobile money",
+   "subtitle": "Les réflexes recommandés par la PLCC",
+   "date": "2026-11-12",
+   "pages": 4,
    "format": "PDF",
    "price": 0,
    "color": "red",
-   "desc": "Le premier numéro de notre magazine : portraits, inventions documentées et grand dossier sur l’innovation frugale.",
+   "desc": "Les arnaques les plus signalées en 2026 (faux gains, faux cadeaux, faux vendeurs) et les bons réflexes pour s’en protéger.",
    "toc": [
-    "Édito : la lumière pour tous",
-    "Grand dossier : innover avec peu",
-    "10 portraits de talents",
-    "Inventions documentées",
-    "Agenda de l’innovation"
-   ]
+    "Reconnaître un faux message de gain",
+    "Les faux vendeurs en ligne",
+    "Les bons réflexes",
+    "Signaler à la PLCC"
+   ],
+   "downloads": 0
   },
   {
    "id": 2,
-   "slug": "ebook-guide-candidature",
-   "type": "E-book",
-   "title": "Réussir sa candidature à un programme d’incubation",
-   "subtitle": "Le guide pratique",
-   "date": "2026-09-15",
-   "pages": 32,
-   "format": "PDF / EPUB",
-   "price": 0,
-   "color": "ink",
-   "desc": "Un guide pas à pas pour présenter son projet, construire son pitch et préparer les entretiens.",
-   "toc": [
-    "Comprendre les attentes des jurys",
-    "Écrire son dossier",
-    "Préparer son pitch",
-    "Les erreurs à éviter"
-   ]
-  },
-  {
-   "id": 3,
-   "slug": "livre-50-innovateurs",
-   "type": "Livre",
-   "title": "50 innovateurs à suivre",
-   "subtitle": "Édition 2026",
-   "date": "2026-11-15",
-   "pages": 180,
-   "format": "Imprimé + PDF",
-   "price": 12000,
-   "color": "stone",
-   "desc": "Cinquante portraits de talents venus de tous les continents, sélectionnés par la rédaction.",
-   "toc": [
-    "Afrique",
-    "Amériques",
-    "Asie",
-    "Europe",
-    "Moyen-Orient"
-   ]
-  },
-  {
-   "id": 4,
-   "slug": "doc-imprimante-3d-recyclee",
-   "type": "Documentation",
-   "title": "Construire une imprimante 3D recyclée",
-   "subtitle": "Documentation technique",
-   "date": "2026-10-22",
-   "pages": 24,
-   "format": "PDF",
-   "price": 0,
-   "color": "ink",
-   "desc": "La documentation complète du prototype de Kofi Mensah : pièces, schémas électroniques et réglages.",
-   "toc": [
-    "Liste des pièces",
-    "Assemblage du châssis",
-    "Électronique",
-    "Réglages et premiers tests"
-   ]
-  },
-  {
-   "id": 5,
-   "slug": "rapport-innovation-frugale",
+   "slug": "fiche-laureats-ivoire-tech-2026",
    "type": "Rapport",
-   "title": "L’innovation frugale en 2026",
-   "subtitle": "Rapport annuel",
-   "date": "2026-09-30",
-   "pages": 48,
+   "title": "Les 32 lauréats Ivoire Tech Next 15 et Scale Up",
+   "subtitle": "Fiche de synthèse — novembre 2026",
+   "date": "2026-11-05",
+   "pages": 6,
    "format": "PDF",
-   "price": 5000,
-   "color": "red",
-   "desc": "Tendances, chiffres clés et études de cas sur les innovations conçues avec peu de moyens.",
-   "toc": [
-    "Synthèse",
-    "Tendances",
-    "Études de cas",
-    "Recommandations"
-   ]
-  },
-  {
-   "id": 6,
-   "slug": "ebook-coder-hors-ligne",
-   "type": "E-book",
-   "title": "Apprendre à coder sans connexion",
-   "subtitle": "Ressources et méthodes",
-   "date": "2026-08-20",
-   "pages": 40,
-   "format": "PDF / EPUB",
    "price": 0,
-   "color": "stone",
-   "desc": "Une sélection de ressources et de méthodes pour apprendre la programmation avec une connexion limitée.",
+   "color": "blue",
+   "desc": "La liste des startups et PME retenues par le ministère de la Transition numérique, classées par secteur, avec les sources.",
    "toc": [
-    "S’équiper",
-    "Les bonnes ressources",
-    "Pratiquer",
-    "Rejoindre une communauté"
-   ]
+    "Les deux programmes",
+    "Fintech et paiements",
+    "Santé et agriculture",
+    "Cloud et cybersécurité",
+    "Sources"
+   ],
+   "downloads": 0
   }
  ],
  "AD_SLOTS": [
@@ -1811,276 +1287,107 @@
    "where": "Bas d’écran sur téléphone, refermable"
   }
  ],
- "CAMPAIGNS": [
-  {
-   "id": 1,
-   "advertiser": "Lumen Bank",
-   "slot": "leaderboard",
-   "title": "Ouvrez un compte pro en 10 minutes",
-   "cta": "Découvrir",
-   "start": "2026-10-01",
-   "end": "2026-11-30",
-   "budget": 450000,
-   "impressions": 128400,
-   "clicks": 1490,
-   "active": true
-  },
-  {
-   "id": 2,
-   "advertiser": "Salon InnoTech 2026",
-   "slot": "pave",
-   "title": "3 jours pour rencontrer les innovateurs",
-   "cta": "Réserver",
-   "start": "2026-10-10",
-   "end": "2026-11-20",
-   "budget": 300000,
-   "impressions": 64200,
-   "clicks": 1120,
-   "active": true
-  },
-  {
-   "id": 3,
-   "advertiser": "CodeCamp",
-   "slot": "inarticle",
-   "title": "Devenez développeur en 6 mois",
-   "cta": "S’inscrire",
-   "start": "2026-09-01",
-   "end": "2026-10-15",
-   "budget": 250000,
-   "impressions": 88100,
-   "clicks": 960,
-   "active": false
-  },
-  {
-   "id": 4,
-   "advertiser": "Nova Énergie",
-   "slot": "billboard",
-   "title": "L’énergie solaire pour les entreprises",
-   "cta": "En savoir plus",
-   "start": "2026-10-15",
-   "end": "2026-12-15",
-   "budget": 600000,
-   "impressions": 41300,
-   "clicks": 520,
-   "active": true
-  },
-  {
-   "id": 5,
-   "advertiser": "CodeCamp",
-   "slot": "native",
-   "title": "Reconversion : devenez développeur en 6 mois avec un accompagnement emploi",
-   "cta": "Découvrir le programme",
-   "start": "2026-10-20",
-   "end": "2026-12-20",
-   "budget": 350000,
-   "impressions": 22400,
-   "clicks": 610,
-   "active": true
-  },
-  {
-   "id": 6,
-   "advertiser": "Lumen Bank",
-   "slot": "sponsor",
-   "title": "Startups & Business est présentée par Lumen Bank",
-   "cta": "Lumen Bank",
-   "start": "2026-10-01",
-   "end": "2026-12-31",
-   "budget": 900000,
-   "impressions": 18300,
-   "clicks": 240,
-   "active": true
-  },
-  {
-   "id": 7,
-   "advertiser": "Salon InnoTech 2026",
-   "slot": "newsletter",
-   "title": "Rencontrez 200 innovateurs les 3, 4 et 5 décembre",
-   "cta": "Réserver",
-   "start": "2026-10-15",
-   "end": "2026-12-01",
-   "budget": 150000,
-   "impressions": 3600,
-   "clicks": 180,
-   "active": true
-  }
- ],
- "SUBMISSIONS": [
-  {
-   "id": 1,
-   "date": "2026-10-25",
-   "name": "Mariam Traoré",
-   "email": "mariam@exemple.com",
-   "project": "Couveuse néonatale à bas coût",
-   "cat": "Santé",
-   "country": "Mali",
-   "status": "Nouvelle",
-   "desc": "Une couveuse fabriquée avec des matériaux locaux pour les maternités rurales."
-  },
-  {
-   "id": 2,
-   "date": "2026-10-23",
-   "name": "Ali Hassan",
-   "email": "ali@exemple.com",
-   "project": "Application de tri des déchets",
-   "cat": "Énergie & climat",
-   "country": "Égypte",
-   "status": "En étude",
-   "desc": "Une application qui rémunère les habitants qui trient leurs déchets."
-  },
-  {
-   "id": 3,
-   "date": "2026-10-20",
-   "name": "Grace Mbeki",
-   "email": "grace@exemple.com",
-   "project": "Robot éducatif en carton",
-   "cat": "Éducation",
-   "country": "Afrique du Sud",
-   "status": "Retenue",
-   "desc": "Un kit robotique bon marché pour initier les enfants à la programmation."
-  },
-  {
-   "id": 4,
-   "date": "2026-10-18",
-   "name": "Paul Dubois",
-   "email": "paul@exemple.com",
-   "project": "Plateforme de covoiturage scolaire",
-   "cat": "Mobile & web",
-   "country": "Belgique",
-   "status": "Refusée",
-   "desc": "Mise en relation de parents pour les trajets vers l’école."
-  }
- ],
- "SUBSCRIBERS": [
-  {
-   "email": "lecteur1@exemple.com",
-   "date": "2026-10-25",
-   "source": "Pied de page"
-  },
-  {
-   "email": "lectrice2@exemple.com",
-   "date": "2026-10-24",
-   "source": "Article"
-  },
-  {
-   "email": "investisseur@exemple.com",
-   "date": "2026-10-22",
-   "source": "Bibliothèque"
-  },
-  {
-   "email": "etudiant@exemple.com",
-   "date": "2026-10-20",
-   "source": "Pied de page"
-  },
-  {
-   "email": "startup@exemple.com",
-   "date": "2026-10-19",
-   "source": "Article"
-  }
- ],
+ "CAMPAIGNS": [],
+ "SUBMISSIONS": [],
+ "SUBSCRIBERS": [],
  "DOSSIERS": [
+  {
+   "id": "ivoire-tech-forum-2026",
+   "title": "Ivoire Tech Forum 2026",
+   "chapo": "Programmes d’accélération, lauréats, financements : ce qu’il faut retenir de la semaine tech d’Abidjan.",
+   "articles": [
+    1,
+    2,
+    3,
+    16,
+    12
+   ],
+   "tone": 0
+  },
   {
    "id": "ia-afrique",
    "title": "L’intelligence artificielle en Afrique",
-   "chapo": "Modèles ouverts, langues locales, usages et enjeux : notre dossier pour comprendre ce qui se joue.",
+   "chapo": "Modèles entraînés sur des données locales, langues africaines, capacités de calcul et accords publics.",
    "articles": [
-    25,
-    15,
     6,
-    23
+    7,
+    18,
+    12
    ],
    "tone": 3
   },
   {
    "id": "cybersecurite",
-   "title": "Cybersécurité : se protéger au quotidien",
-   "chapo": "Arnaques, bonnes pratiques et métiers de la sécurité numérique.",
+   "title": "Cybersécurité : se protéger et se former",
+   "chapo": "Centres de sécurité, forums, arnaques au mobile money et métiers d’avenir.",
    "articles": [
-    26,
-    34,
-    31
+    5,
+    17,
+    21,
+    20
    ],
    "tone": 1
   },
   {
-   "id": "innover-avec-peu",
-   "title": "Innover avec peu de moyens",
-   "chapo": "Quand la contrainte devient le point de départ de l’invention.",
+   "id": "financer-startups",
+   "title": "Financer les startups africaines",
+   "chapo": "Levées de fonds, baromètres trimestriels et appels à candidatures ouverts.",
    "articles": [
-    4,
-    3,
-    14,
     10,
-    36
+    11,
+    2,
+    19
    ],
    "tone": 2
   },
   {
-   "id": "entrepreneuriat-tech",
-   "title": "Entrepreneuriat technologique",
-   "chapo": "Startups, financements et écosystèmes : comment les projets deviennent des entreprises.",
+   "id": "agritech-sante",
+   "title": "Agritech et santé numérique",
+   "chapo": "Drones, capteurs, IA hors ligne et assistants santé : des solutions pensées pour le terrain.",
    "articles": [
-    28,
-    29,
-    30,
-    20,
-    12,
-    7
+    14,
+    15,
+    13
    ],
-   "tone": 0
-  },
-  {
-   "id": "metiers-de-demain",
-   "title": "Les métiers de demain",
-   "chapo": "Compétences, formations et conseils pour se lancer dans la tech.",
-   "articles": [
-    33,
-    35,
-    34,
-    16
-   ],
-   "tone": 2
+   "tone": 4
   }
  ],
  "OPPORTUNITES": [
   {
    "id": 1,
-   "type": "Emploi",
-   "title": "Développeur·se front-end junior",
-   "org": "Startup fintech",
-   "lieu": "Abidjan",
-   "limite": "2026-11-20"
+   "type": "Concours",
+   "title": "Challenge Smart Region — 5 projets accompagnés gratuitement",
+   "org": "Région Fès-Meknès / Incubooster",
+   "lieu": "Maroc",
+   "limite": "2026-12-06",
+   "url": "https://incubooster.ma/public/smartregion/"
   },
   {
    "id": 2,
-   "type": "Stage",
-   "title": "Stage data analyst (6 mois)",
-   "org": "Agence de transformation numérique",
-   "lieu": "Dakar",
-   "limite": "2026-11-30"
+   "type": "Formation",
+   "title": "TechnoVentures — 7 mois d’incubation (startups POC/MVP)",
+   "org": "Technopark Maroc",
+   "lieu": "Maroc",
+   "limite": "2026-12-13",
+   "url": "https://www.technopark.ma"
   },
   {
    "id": 3,
-   "type": "Formation",
-   "title": "Bootcamp cybersécurité gratuit",
-   "org": "Centre de formation",
-   "lieu": "En ligne",
-   "limite": "2026-11-15"
+   "type": "Bourse",
+   "title": "develoPPP Ventures — jusqu’à 100 000 € non dilutifs",
+   "org": "BMZ / GIZ",
+   "lieu": "Afrique du Sud, Kenya, Rwanda, Tanzanie",
+   "limite": "2026-12-31",
+   "url": "https://www.wearetech.africa/fr/fils/breves/breves-une/developpp-ventures-lance-un-appel-a-candidatures-de-100-000"
   },
   {
    "id": 4,
-   "type": "Bourse",
-   "title": "Bourse pour jeunes inventeurs",
-   "org": "Fondation pour l’innovation",
-   "lieu": "International",
-   "limite": "2026-12-10"
-  },
-  {
-   "id": 5,
-   "type": "Concours",
-   "title": "Concours d’applications à impact social",
-   "org": "Incubateur universitaire",
-   "lieu": "Afrique de l’Ouest",
-   "limite": "2026-12-01"
+   "type": "Formation",
+   "title": "ENI Call4Innovators — 12 semaines de formation (ouvert jusqu’en janvier 2027)",
+   "org": "ENI Côte d’Ivoire",
+   "lieu": "Côte d’Ivoire",
+   "limite": null,
+   "url": "https://news.abidjan.net/articles/750113/cote-divoire-eni-lance-un-programme-de-soutien-aux-startups"
   }
  ]
 }
