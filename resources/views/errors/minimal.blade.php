@@ -1,0 +1,4 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
+<title>@yield('title') · VOX TECH GLOBAL</title><link rel="icon" href="/assets/img/favicon.svg">
+<style>body{margin:0;min-height:100vh;display:grid;place-items:center;background:#F6F5F2;color:#111214;font-family:"Helvetica Neue",Arial,sans-serif;text-align:center;padding:2rem}h1{font-weight:300;font-size:2.4rem;margin:.4rem 0}p{color:#5B5B61}a{display:inline-block;margin-top:1rem;background:#111214;color:#fff;padding:.7rem 1.3rem;border-radius:999px;text-decoration:none}.c{color:#D3141B;font-weight:600;letter-spacing:.2em}</style></head>
+<body><div><p class="c">@yield('code')</p><h1>@yield('title')</h1><p>@yield('message')</p><a href="/">Retour à l’accueil</a></div></body></html>

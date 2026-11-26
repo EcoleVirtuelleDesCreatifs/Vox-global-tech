@@ -1,0 +1,325 @@
+{
+ "comments": [
+  {
+   "id": 1,
+   "article": "awa-diallo-irrigation-sms",
+   "name": "Moussa B.",
+   "email": "moussa@exemple.com",
+   "date": "2026-10-25",
+   "text": "Bravo ! Mon oncle est producteur à Thiès, je vais lui en parler.",
+   "status": "approuvé"
+  },
+  {
+   "id": 2,
+   "article": "awa-diallo-irrigation-sms",
+   "name": "Claire D.",
+   "email": "claire@exemple.com",
+   "date": "2026-10-25",
+   "text": "Est-ce que le service fonctionne aussi pour le maraîchage ?",
+   "status": "en attente"
+  },
+  {
+   "id": 3,
+   "article": "entretien-jean-baptiste-kouassi",
+   "name": "Kevin A.",
+   "email": "kevin@exemple.com",
+   "date": "2026-10-24",
+   "text": "Très inspirant, surtout le passage sur la confiance des utilisateurs.",
+   "status": "approuvé"
+  },
+  {
+   "id": 4,
+   "article": "kofi-mensah-imprimante-3d-recyclee",
+   "name": "Promo-gagnant",
+   "email": "spam@exemple.com",
+   "date": "2026-10-24",
+   "text": "Gagnez de l’argent facilement en cliquant ici !!!",
+   "status": "en attente"
+  },
+  {
+   "id": 5,
+   "article": "dossier-innovations-loin-des-capitales",
+   "name": "Nadia S.",
+   "email": "nadia@exemple.com",
+   "date": "2026-10-23",
+   "text": "Il faudrait un dossier sur l’Afrique centrale aussi.",
+   "status": "en attente"
+  },
+  {
+   "id": 6,
+   "article": "kofi-mensah-imprimante-3d-recyclee",
+   "name": "Ibrahim T.",
+   "email": "ibrahim@exemple.com",
+   "date": "2026-10-22",
+   "text": "Où peut-on trouver les plans de l’imprimante ?",
+   "status": "approuvé"
+  }
+ ],
+ "users": [
+  {
+   "id": 1,
+   "name": "Aïcha Koné",
+   "email": "aicha@exemple.com",
+   "role": "Administrateur",
+   "active": true,
+   "last": "2026-10-26"
+  },
+  {
+   "id": 2,
+   "name": "Marc Lemaire",
+   "email": "marc@exemple.com",
+   "role": "Rédacteur en chef",
+   "active": true,
+   "last": "2026-10-26"
+  },
+  {
+   "id": 3,
+   "name": "Fatou Ndiaye",
+   "email": "fatou@exemple.com",
+   "role": "Journaliste",
+   "active": true,
+   "last": "2026-10-25"
+  },
+  {
+   "id": 4,
+   "name": "David Mensah",
+   "email": "david@exemple.com",
+   "role": "Journaliste",
+   "active": true,
+   "last": "2026-10-24"
+  },
+  {
+   "id": 5,
+   "name": "Sara El Idrissi",
+   "email": "sara@exemple.com",
+   "role": "Journaliste",
+   "active": true,
+   "last": "2026-10-23"
+  },
+  {
+   "id": 6,
+   "name": "Yao Kouadio",
+   "email": "yao@exemple.com",
+   "role": "Commercial",
+   "active": true,
+   "last": "2026-10-22"
+  },
+  {
+   "id": 7,
+   "name": "Léa Martin",
+   "email": "lea@exemple.com",
+   "role": "Contributeur",
+   "active": false,
+   "last": "2026-09-30"
+  }
+ ],
+ "media": [
+  {
+   "id": 1,
+   "name": "awa-diallo-champ.jpg",
+   "type": "Image",
+   "size": 412,
+   "w": 1600,
+   "h": 1000,
+   "date": "2026-10-24",
+   "alt": "Awa Diallo dans un champ irrigué",
+   "tone": 0
+  },
+  {
+   "id": 2,
+   "name": "jb-kouassi-portrait.jpg",
+   "type": "Image",
+   "size": 356,
+   "w": 1200,
+   "h": 1500,
+   "date": "2026-10-23",
+   "alt": "Portrait de Jean-Baptiste Kouassi",
+   "tone": 1
+  },
+  {
+   "id": 3,
+   "name": "imprimante-3d-atelier.jpg",
+   "type": "Image",
+   "size": 520,
+   "w": 1600,
+   "h": 1067,
+   "date": "2026-10-22",
+   "alt": "Atelier de Kofi Mensah",
+   "tone": 2
+  },
+  {
+   "id": 4,
+   "name": "carte-innovations.png",
+   "type": "Image",
+   "size": 284,
+   "w": 1400,
+   "h": 900,
+   "date": "2026-10-21",
+   "alt": "Carte des innovations du dossier",
+   "tone": 3
+  },
+  {
+   "id": 5,
+   "name": "magazine-n1-couverture.png",
+   "type": "Image",
+   "size": 198,
+   "w": 900,
+   "h": 1200,
+   "date": "2026-10-01",
+   "alt": "Couverture du magazine n° 1",
+   "tone": 1
+  },
+  {
+   "id": 6,
+   "name": "plans-imprimante.pdf",
+   "type": "Document",
+   "size": 2240,
+   "w": 0,
+   "h": 0,
+   "date": "2026-10-22",
+   "alt": "Plans techniques",
+   "tone": 0
+  },
+  {
+   "id": 7,
+   "name": "lucia-ramirez-ecole.jpg",
+   "type": "Image",
+   "size": 388,
+   "w": 1600,
+   "h": 1000,
+   "date": "2026-10-20",
+   "alt": "Test de la vue dans une école",
+   "tone": 2
+  },
+  {
+   "id": 8,
+   "name": "kit-capteurs-air.jpg",
+   "type": "Image",
+   "size": 301,
+   "w": 1600,
+   "h": 1067,
+   "date": "2026-10-15",
+   "alt": "Kit de capteurs assemblé",
+   "tone": 3
+  }
+ ],
+ "newsletters": [
+  {
+   "id": 1,
+   "subject": "Le talent de la semaine : Awa Diallo",
+   "date": "2026-10-24",
+   "sent": 1240,
+   "opens": 47.2,
+   "clicks": 9.8,
+   "articles": [
+    "awa-diallo-irrigation-sms",
+    "breve-fonds-jeunes-innovateurs"
+   ],
+   "status": "Envoyée"
+  },
+  {
+   "id": 2,
+   "subject": "Cinq innovations nées loin des capitales",
+   "date": "2026-10-17",
+   "sent": 1185,
+   "opens": 44.6,
+   "clicks": 8.1,
+   "articles": [
+    "dossier-innovations-loin-des-capitales"
+   ],
+   "status": "Envoyée"
+  },
+  {
+   "id": 3,
+   "subject": "Payer sans réseau, l’idée de Samuel",
+   "date": "2026-10-10",
+   "sent": 1102,
+   "opens": 41.9,
+   "clicks": 7.4,
+   "articles": [
+    "samuel-okafor-paiement-sans-internet"
+   ],
+   "status": "Envoyée"
+  }
+ ],
+ "activity": [
+  {
+   "date": "2026-10-26 08:12",
+   "who": "Aïcha Koné",
+   "what": "a mis à la une « Awa Diallo, la développeuse qui fait pousser les récoltes par SMS »"
+  },
+  {
+   "date": "2026-10-25 18:40",
+   "who": "Fatou Ndiaye",
+   "what": "a publié « Hackathon : 48 heures pour inventer des solutions pour la ville »"
+  },
+  {
+   "date": "2026-10-25 16:05",
+   "who": "Yao Kouadio",
+   "what": "a activé la campagne Lumen Bank (bandeau haut)"
+  },
+  {
+   "date": "2026-10-25 11:22",
+   "who": "Marc Lemaire",
+   "what": "a approuvé un commentaire"
+  },
+  {
+   "date": "2026-10-24 09:30",
+   "who": "Aïcha Koné",
+   "what": "a envoyé la newsletter « Le talent de la semaine : Awa Diallo »"
+  }
+ ],
+ "scheduled": {
+  "id": 18,
+  "slug": "grand-entretien-grace-mbeki-robot-carton",
+  "type": "interview",
+  "rubrique": "talents",
+  "sub": "Femmes dans la Tech",
+  "nature": "Entretien",
+  "theme": "education",
+  "region": "Afrique",
+  "country": "Afrique du Sud",
+  "author": "fatou-ndiaye",
+  "date": "2026-11-05",
+  "read": 7,
+  "une": false,
+  "views": 0,
+  "status": "programmé",
+  "title": "Grace Mbeki : « Un robot en carton peut changer une vocation »",
+  "chapo": "Elle a conçu un kit robotique très bon marché pour initier les enfants à la programmation.",
+  "tags": [
+   "Robotique",
+   "Éducation",
+   "Enfants"
+  ],
+  "body": [
+   {
+    "qa": [
+     "Pourquoi le carton ?",
+     "Parce qu’on en trouve partout et qu’il ne coûte rien. Les enfants n’ont pas peur de le casser."
+    ]
+   },
+   {
+    "qa": [
+     "Combien coûte un kit ?",
+     "Moins qu’un manuel scolaire. C’était notre objectif dès le départ."
+    ]
+   }
+  ]
+ },
+ "settingsExtra": {
+  "social": {
+   "facebook": "",
+   "instagram": "",
+   "linkedin": "",
+   "tiktok": "",
+   "youtube": ""
+  },
+  "seoTitle": "VOXTECH GLOBAL, la voix des talents qui innovent",
+  "seoDesc": "Le média international qui découvre et fait rayonner les talents, inventions et innovations technologiques.",
+  "adsOn": true,
+  "commentsOn": true,
+  "moderate": true,
+  "maintenance": false
+ }
+}

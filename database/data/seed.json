@@ -1,0 +1,2086 @@
+{
+ "RUBRIQUES": [
+  {
+   "id": "talents",
+   "name": "Talents Tech",
+   "pillar": "Révéler les talents",
+   "promise": "Les femmes et les hommes qui font avancer la technologie.",
+   "desc": "Découvrir et valoriser les femmes et les hommes qui contribuent à l’innovation technologique.",
+   "subs": [
+    "Portraits de talents",
+    "Jeunes talents",
+    "Femmes dans la Tech",
+    "Parcours inspirants",
+    "Interviews de talents"
+   ]
+  },
+  {
+   "id": "innovations",
+   "name": "Innovations",
+   "pillar": "Explorer les innovations",
+   "promise": "Les inventions et solutions qui répondent à de vrais besoins.",
+   "desc": "Présenter les inventions, découvertes et solutions technologiques qui contribuent à résoudre des problèmes ou à faire progresser les connaissances.",
+   "subs": [
+    "Inventions & découvertes",
+    "Prototypes technologiques",
+    "Recherche & développement",
+    "Solutions numériques",
+    "Innovations à impact"
+   ]
+  },
+  {
+   "id": "actualites",
+   "name": "Actualités Tech",
+   "pillar": "Décrypter la Tech",
+   "promise": "L’information technologique vérifiée, ici et dans le monde.",
+   "desc": "Informer sur les principales évolutions de l’écosystème technologique national et international.",
+   "subs": [
+    "Intelligence artificielle",
+    "Cybersécurité",
+    "Logiciels & applications",
+    "Big Tech",
+    "Politiques & transformation numérique"
+   ]
+  },
+  {
+   "id": "startups",
+   "name": "Startups & Business",
+   "pillar": "Explorer les innovations",
+   "promise": "L’entrepreneuriat tech et les small business émergents.",
+   "desc": "Couvrir l’entrepreneuriat technologique, les entreprises innovantes et les dynamiques économiques du secteur numérique.",
+   "subs": [
+    "Startups",
+    "Entrepreneurs Tech",
+    "Financements & investissements",
+    "Écosystèmes technologiques",
+    "Économie numérique"
+   ]
+  },
+  {
+   "id": "decryptages",
+   "name": "Décryptages",
+   "pillar": "Décrypter la Tech",
+   "promise": "Expliquer, analyser et vérifier ce qui circule.",
+   "desc": "Expliquer les technologies, analyser leurs enjeux et vérifier les affirmations qui circulent dans l’espace public.",
+   "subs": [
+    "Analyses",
+    "Enquêtes",
+    "Fact-checking",
+    "Comparatifs technologiques",
+    "Tech & société"
+   ]
+  },
+  {
+   "id": "campus",
+   "name": "Campus & Carrières",
+   "pillar": "Révéler les talents",
+   "promise": "Métiers, formations et opportunités du numérique.",
+   "desc": "Informer sur les compétences, les formations, les métiers et les opportunités du secteur technologique.",
+   "subs": [
+    "Métiers de la Tech",
+    "Formations & certifications",
+    "Compétences numériques",
+    "Emploi & opportunités",
+    "Conseils carrière"
+   ]
+  }
+ ],
+ "THEMES": [
+  {
+   "id": "ia",
+   "name": "Intelligence artificielle"
+  },
+  {
+   "id": "sante",
+   "name": "Santé"
+  },
+  {
+   "id": "agritech",
+   "name": "Agritech"
+  },
+  {
+   "id": "fintech",
+   "name": "Fintech"
+  },
+  {
+   "id": "education",
+   "name": "Éducation"
+  },
+  {
+   "id": "energie",
+   "name": "Énergie & climat"
+  },
+  {
+   "id": "mobile",
+   "name": "Mobile & web"
+  },
+  {
+   "id": "hardware",
+   "name": "Hardware"
+  }
+ ],
+ "AUTHORS": [
+  {
+   "id": "aicha-kone",
+   "name": "Aïcha Koné",
+   "role": "Rédactrice en chef",
+   "bio": "Journaliste spécialisée dans l’innovation et l’entrepreneuriat, elle dirige la rédaction de VOXTECH GLOBAL."
+  },
+  {
+   "id": "marc-lemaire",
+   "name": "Marc Lemaire",
+   "role": "Journaliste tech",
+   "bio": "Il suit les startups, l’intelligence artificielle et les nouveaux usages du numérique."
+  },
+  {
+   "id": "fatou-ndiaye",
+   "name": "Fatou Ndiaye",
+   "role": "Journaliste",
+   "bio": "Elle raconte les parcours de talents autodidactes et les innovations de terrain."
+  },
+  {
+   "id": "david-mensah",
+   "name": "David Mensah",
+   "role": "Rédacteur, projets et inventions",
+   "bio": "Ingénieur de formation, il documente les projets techniques et les inventions."
+  },
+  {
+   "id": "sara-el-idrissi",
+   "name": "Sara El Idrissi",
+   "role": "Journaliste",
+   "bio": "Elle couvre la santé numérique, l’éducation et les politiques d’innovation."
+  }
+ ],
+ "ARTICLES": [
+  {
+   "id": 1,
+   "slug": "awa-diallo-irrigation-sms",
+   "type": "portrait",
+   "rubrique": "talents",
+   "sub": "Portraits de talents",
+   "theme": "agritech",
+   "region": "Afrique",
+   "country": "Sénégal",
+   "author": "fatou-ndiaye",
+   "date": "2026-10-24",
+   "read": 6,
+   "une": true,
+   "views": 8420,
+   "title": "Awa Diallo, la développeuse qui fait pousser les récoltes par SMS",
+   "chapo": "Fille d’agriculteurs, Awa Diallo a conçu un service qui indique aux petits producteurs le meilleur moment pour irriguer, sans smartphone ni internet.",
+   "tags": [
+    "SMS",
+    "Irrigation",
+    "Climat"
+   ],
+   "body": [
+    {
+     "p": "Dans la région de Thiès, les champs de Mamadou Diallo, le père d’Awa, dépendaient d’une seule chose : l’intuition. Arroser trop tôt, c’était gaspiller une eau rare. Trop tard, c’était perdre une partie de la récolte."
+    },
+    {
+     "p": "En 2023, Awa, alors étudiante en informatique, décide de croiser les prévisions météo locales avec l’humidité des sols. Le résultat tient dans un message de 160 caractères, envoyé chaque matin aux producteurs inscrits."
+    },
+    {
+     "h": "Un service pensé pour le terrain"
+    },
+    {
+     "p": "Pas d’application à installer, pas de forfait internet : un simple téléphone suffit. Les producteurs s’inscrivent par SMS et reçoivent leurs conseils en wolof ou en français."
+    },
+    {
+     "q": "Je voulais que mon père puisse l’utiliser sans rien apprendre de nouveau.",
+     "who": "Awa Diallo"
+    },
+    {
+     "p": "Aujourd’hui, l’équipe d’Awa travaille avec des coopératives agricoles pour étendre le service à d’autres régions et à d’autres cultures."
+    },
+    {
+     "h": "La suite"
+    },
+    {
+     "p": "Prochaine étape : un capteur d’humidité à bas coût, fabriqué localement, pour affiner encore les conseils parcelle par parcelle."
+    }
+   ],
+   "nature": "Portrait",
+   "sources": [
+    "Entretien avec Awa Diallo",
+    "Échanges avec une coopérative agricole partenaire"
+   ]
+  },
+  {
+   "id": 2,
+   "slug": "entretien-jean-baptiste-kouassi",
+   "type": "interview",
+   "rubrique": "talents",
+   "sub": "Interviews de talents",
+   "theme": "mobile",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "author": "aicha-kone",
+   "date": "2026-10-23",
+   "read": 9,
+   "une": true,
+   "views": 6310,
+   "title": "Jean-Baptiste Kouassi : « J’ai appris à coder sur un téléphone prêté »",
+   "chapo": "Fondateur d’une application de transport partagé, il revient sur un parcours d’autodidacte et sur les défis de la mobilité urbaine.",
+   "tags": [
+    "Mobilité",
+    "Autodidacte",
+    "Mobile money"
+   ],
+   "body": [
+    {
+     "p": "Rencontre avec un entrepreneur qui veut simplifier les trajets du quotidien, quartier par quartier."
+    },
+    {
+     "qa": [
+      "Comment avez-vous commencé à programmer ?",
+      "Avec le téléphone de mon grand frère, le soir, après ses journées de travail. Je suivais des tutoriels hors ligne que je téléchargeais au cybercafé."
+     ]
+    },
+    {
+     "qa": [
+      "D’où vient l’idée de votre application ?",
+      "Chaque matin, je voyais des voitures presque vides faire le même trajet que des dizaines de personnes qui attendaient un transport. Il fallait simplement les mettre en relation."
+     ]
+    },
+    {
+     "qa": [
+      "Quel a été le plus grand obstacle ?",
+      "La confiance. Les passagers voulaient savoir qui conduisait, les conducteurs voulaient être sûrs d’être payés. Le paiement par mobile money a beaucoup aidé."
+     ]
+    },
+    {
+     "qa": [
+      "Quel conseil donneriez-vous à un jeune qui veut se lancer ?",
+      "Commencer petit, avec un vrai problème que l’on connaît bien. Et parler à ses futurs utilisateurs avant d’écrire la moindre ligne de code."
+     ]
+    }
+   ],
+   "nature": "Entretien"
+  },
+  {
+   "id": 3,
+   "slug": "kofi-mensah-imprimante-3d-recyclee",
+   "type": "projet",
+   "rubrique": "innovations",
+   "sub": "Prototypes technologiques",
+   "theme": "hardware",
+   "region": "Afrique",
+   "country": "Ghana",
+   "author": "david-mensah",
+   "date": "2026-10-22",
+   "read": 8,
+   "une": true,
+   "views": 5120,
+   "title": "L’imprimante 3D construite à partir de déchets électroniques, documentée pas à pas",
+   "chapo": "Kofi Mensah récupère des pièces d’ordinateurs usagés pour fabriquer des imprimantes 3D à bas coût. Nous avons documenté son prototype.",
+   "tags": [
+    "Impression 3D",
+    "Recyclage",
+    "Open hardware"
+   ],
+   "fiche": {
+    "statut": "Prototype fonctionnel",
+    "porteur": "Kofi Mensah",
+    "pays": "Ghana",
+    "domaine": "Hardware",
+    "debut": "2024",
+    "licence": "Open hardware (plans partagés)"
+   },
+   "body": [
+    {
+     "p": "Le projet part d’un constat : les décharges électroniques regorgent de moteurs pas à pas, de rails et d’alimentations encore fonctionnels."
+    },
+    {
+     "h": "1. Les pièces récupérées"
+    },
+    {
+     "p": "Le châssis vient d’anciennes unités centrales. Les moteurs sont extraits de lecteurs de disquettes et d’imprimantes de bureau hors d’usage."
+    },
+    {
+     "h": "2. L’électronique"
+    },
+    {
+     "p": "Une carte de contrôle open source pilote les trois axes. L’alimentation est celle d’un ordinateur, adaptée pour fournir la tension nécessaire."
+    },
+    {
+     "h": "3. Les résultats"
+    },
+    {
+     "p": "Le prototype imprime des pièces de 15 cm de côté avec une précision suffisante pour des usages pédagogiques et de petites réparations."
+    },
+    {
+     "q": "Une imprimante coûte une fortune ici. La mienne coûte surtout du temps.",
+     "who": "Kofi Mensah"
+    },
+    {
+     "h": "4. Et maintenant"
+    },
+    {
+     "p": "Kofi forme des étudiants à assembler leur propre machine et publie progressivement ses plans pour que d’autres ateliers puissent les reproduire."
+    }
+   ],
+   "nature": "Reportage",
+   "sources": [
+    "Entretien avec Kofi Mensah, octobre 2026",
+    "Plans techniques partagés par le porteur du projet"
+   ]
+  },
+  {
+   "id": 4,
+   "slug": "dossier-innovations-loin-des-capitales",
+   "type": "dossier",
+   "rubrique": "innovations",
+   "sub": "Innovations à impact",
+   "theme": "energie",
+   "region": "Monde",
+   "country": "International",
+   "author": "aicha-kone",
+   "date": "2026-10-21",
+   "read": 12,
+   "une": false,
+   "views": 9870,
+   "title": "Cinq innovations nées loin des grandes capitales",
+   "chapo": "Loin des grands pôles technologiques, des innovateurs inventent des solutions adaptées à leur réalité. Tour d’horizon.",
+   "tags": [
+    "Innovation frugale",
+    "Régions",
+    "Enquête"
+   ],
+   "body": [
+    {
+     "p": "On associe souvent l’innovation aux grandes métropoles. Pourtant, une partie des solutions les plus ingénieuses naissent là où les contraintes sont les plus fortes."
+    },
+    {
+     "h": "Un purificateur d’eau solaire"
+    },
+    {
+     "p": "Pensé pour être réparé avec des pièces disponibles localement, sans technicien spécialisé."
+    },
+    {
+     "h": "Des cours qui fonctionnent sans réseau"
+    },
+    {
+     "p": "Une application d’apprentissage qui se télécharge une fois et s’utilise ensuite hors connexion."
+    },
+    {
+     "h": "Un test de la vue sur smartphone"
+    },
+    {
+     "p": "Pour repérer dans les écoles rurales les enfants qui ont besoin de lunettes."
+    },
+    {
+     "h": "Le paiement sans internet"
+    },
+    {
+     "p": "Les transactions se valident dès que le réseau revient : une réponse concrète aux coupures."
+    },
+    {
+     "h": "L’irrigation par SMS"
+    },
+    {
+     "p": "Des conseils quotidiens envoyés aux producteurs, sans smartphone."
+    },
+    {
+     "q": "La contrainte est souvent le point de départ de l’invention.",
+     "who": "Aïcha Koné"
+    }
+   ],
+   "nature": "Analyse"
+  },
+  {
+   "id": 5,
+   "slug": "lucia-ramirez-test-vue-smartphone",
+   "type": "portrait",
+   "rubrique": "talents",
+   "sub": "Femmes dans la Tech",
+   "theme": "sante",
+   "region": "Amériques",
+   "country": "Colombie",
+   "author": "sara-el-idrissi",
+   "date": "2026-10-20",
+   "read": 5,
+   "une": false,
+   "views": 4210,
+   "title": "Lucía Ramírez veut un test de la vue dans chaque école",
+   "chapo": "Chercheuse en optique, elle a mis au point un test visuel qui tient dans un téléphone et peut être utilisé par les enseignants.",
+   "tags": [
+    "Santé publique",
+    "Éducation",
+    "Smartphone"
+   ],
+   "body": [
+    {
+     "p": "Dans les zones rurales, beaucoup d’enfants passent des années à mal voir le tableau sans que personne ne le remarque."
+    },
+    {
+     "p": "Le test de Lucía Ramírez prend moins de cinq minutes. L’enseignant tient le téléphone à distance, l’élève indique l’orientation des symboles affichés."
+    },
+    {
+     "q": "Un enfant qui voit mal est souvent pris pour un mauvais élève.",
+     "who": "Lucía Ramírez"
+    },
+    {
+     "p": "Les résultats sont transmis aux services de santé, qui organisent ensuite des consultations ciblées."
+    }
+   ],
+   "nature": "Portrait"
+  },
+  {
+   "id": 6,
+   "slug": "trois-questions-yasmine-benali",
+   "type": "interview",
+   "rubrique": "talents",
+   "sub": "Interviews de talents",
+   "theme": "ia",
+   "region": "Afrique",
+   "country": "Maroc",
+   "author": "marc-lemaire",
+   "date": "2026-10-19",
+   "read": 4,
+   "une": false,
+   "views": 3980,
+   "title": "Trois questions à Yasmine Benali, qui apprend la darija aux machines",
+   "chapo": "L’ingénieure construit des outils de traduction pour les langues peu présentes sur internet.",
+   "tags": [
+    "Langues",
+    "Traduction",
+    "Open source"
+   ],
+   "body": [
+    {
+     "qa": [
+      "Pourquoi la darija ?",
+      "Parce que c’est la langue de millions de personnes et que les outils numériques l’ignorent presque totalement."
+     ]
+    },
+    {
+     "qa": [
+      "Quelle est la principale difficulté ?",
+      "Le manque de textes écrits. Nous avons dû constituer nos propres corpus avec des volontaires."
+     ]
+    },
+    {
+     "qa": [
+      "À quoi servira votre outil ?",
+      "D’abord à rendre les services publics accessibles à ceux qui ne lisent pas couramment le français ou l’arabe standard."
+     ]
+    }
+   ],
+   "nature": "Entretien"
+  },
+  {
+   "id": 7,
+   "slug": "samuel-okafor-paiement-sans-internet",
+   "type": "projet",
+   "rubrique": "startups",
+   "sub": "Startups",
+   "theme": "fintech",
+   "region": "Afrique",
+   "country": "Nigeria",
+   "author": "david-mensah",
+   "date": "2026-10-18",
+   "read": 7,
+   "une": false,
+   "views": 3550,
+   "title": "Payer sans réseau : comment fonctionne le système de Samuel Okafor",
+   "chapo": "Un commerçant peut recevoir un paiement même quand la connexion est coupée. Nous avons examiné le fonctionnement du prototype.",
+   "tags": [
+    "Paiement",
+    "Hors ligne",
+    "Commerce"
+   ],
+   "fiche": {
+    "statut": "Tests auprès de 40 commerçants",
+    "porteur": "Samuel Okafor",
+    "pays": "Nigeria",
+    "domaine": "Fintech",
+    "debut": "2025",
+    "licence": "Propriétaire"
+   },
+   "body": [
+    {
+     "p": "Sur les marchés, une coupure de réseau peut faire perdre une vente. Le système de Samuel Okafor enregistre la transaction sur les deux téléphones et la valide dès que l’un d’eux retrouve une connexion."
+    },
+    {
+     "h": "Le principe"
+    },
+    {
+     "p": "Chaque téléphone conserve une preuve signée de l’échange. Une fois en ligne, le serveur vérifie et règle la transaction."
+    },
+    {
+     "h": "Les limites"
+    },
+    {
+     "p": "Le montant des paiements hors ligne est plafonné pour limiter les risques de fraude."
+    },
+    {
+     "h": "Prochaine étape"
+    },
+    {
+     "p": "Une phase de test plus large est prévue avec une association de commerçants."
+    }
+   ],
+   "nature": "Reportage",
+   "startup": {
+    "secteur": "Fintech",
+    "pays": "Nigeria",
+    "creation": "2025",
+    "stade": "Amorçage",
+    "equipe": "6 personnes"
+   }
+  },
+  {
+   "id": 8,
+   "slug": "tribune-talent-sans-frontiere",
+   "type": "article",
+   "rubrique": "decryptages",
+   "sub": "Tech & société",
+   "theme": "education",
+   "region": "Monde",
+   "country": "International",
+   "author": "aicha-kone",
+   "date": "2026-10-17",
+   "read": 4,
+   "une": false,
+   "views": 2780,
+   "title": "Le talent n’a pas de frontière, la visibilité si",
+   "chapo": "Pourquoi tant d’innovateurs restent-ils invisibles ? Une tribune de notre rédactrice en chef.",
+   "tags": [
+    "Visibilité",
+    "Médias",
+    "Inclusion"
+   ],
+   "body": [
+    {
+     "p": "Chaque semaine, nous recevons des projets remarquables portés par des personnes dont personne n’a jamais parlé."
+    },
+    {
+     "p": "Le problème n’est pas le talent. Il est partout. Le problème, c’est l’accès à la lumière : aux médias, aux réseaux, aux financeurs."
+    },
+    {
+     "q": "Le talent n’a pas besoin d’être célèbre pour mériter la lumière.",
+     "who": "VOXTECH GLOBAL"
+    },
+    {
+     "p": "C’est la raison d’être de ce média : aller chercher ces histoires et les raconter avec le sérieux qu’elles méritent."
+    }
+   ],
+   "nature": "Opinion"
+  },
+  {
+   "id": 9,
+   "slug": "thomas-nguyen-apprendre-hors-connexion",
+   "type": "portrait",
+   "rubrique": "talents",
+   "sub": "Parcours inspirants",
+   "theme": "education",
+   "region": "Asie",
+   "country": "Viêt Nam",
+   "author": "marc-lemaire",
+   "date": "2026-10-16",
+   "read": 5,
+   "une": false,
+   "views": 2960,
+   "title": "Thomas Nguyen, l’école qui tient dans un téléphone sans réseau",
+   "chapo": "Son application de cours interactifs fonctionne entièrement hors connexion, pour les élèves des régions mal couvertes.",
+   "tags": [
+    "E-learning",
+    "Hors ligne"
+   ],
+   "body": [
+    {
+     "p": "Thomas Nguyen a grandi dans une province où le réseau mobile disparaît dès que l’on quitte la ville."
+    },
+    {
+     "p": "Son application télécharge un programme complet en une fois, puis fonctionne sans aucune connexion. Les progrès des élèves sont synchronisés quand le réseau revient."
+    },
+    {
+     "p": "Plusieurs écoles l’utilisent déjà pour les mathématiques et les langues."
+    }
+   ],
+   "nature": "Portrait"
+  },
+  {
+   "id": 10,
+   "slug": "ingrid-solberg-capteurs-air-ecoles",
+   "type": "projet",
+   "rubrique": "innovations",
+   "sub": "Innovations à impact",
+   "theme": "energie",
+   "region": "Europe",
+   "country": "Norvège",
+   "author": "david-mensah",
+   "date": "2026-10-15",
+   "read": 6,
+   "une": false,
+   "views": 2410,
+   "title": "Des capteurs de qualité de l’air que les élèves assemblent eux-mêmes",
+   "chapo": "Ingrid Solberg a conçu un kit à bas coût. Les données sont partagées sur une carte ouverte.",
+   "tags": [
+    "Environnement",
+    "Open data",
+    "Kit"
+   ],
+   "fiche": {
+    "statut": "Déployé dans des écoles pilotes",
+    "porteur": "Ingrid Solberg",
+    "pays": "Norvège",
+    "domaine": "Énergie & climat",
+    "debut": "2025",
+    "licence": "Open source"
+   },
+   "body": [
+    {
+     "p": "Le kit comprend un capteur de particules fines, un microcontrôleur et un boîtier imprimé en 3D."
+    },
+    {
+     "h": "L’assemblage"
+    },
+    {
+     "p": "Les élèves le montent en deux heures, en suivant un guide illustré."
+    },
+    {
+     "h": "Les données"
+    },
+    {
+     "p": "Les mesures alimentent une carte publique consultable par les familles et les collectivités."
+    }
+   ],
+   "nature": "Reportage"
+  },
+  {
+   "id": 11,
+   "slug": "breve-hackathon-innovation-2026",
+   "type": "article",
+   "rubrique": "actualites",
+   "sub": "Logiciels & applications",
+   "theme": "mobile",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "author": "fatou-ndiaye",
+   "date": "2026-10-25",
+   "read": 2,
+   "une": false,
+   "views": 1890,
+   "title": "Hackathon : 48 heures pour inventer des solutions pour la ville",
+   "chapo": "Des équipes d’étudiants et de développeurs se sont affrontées sur des défis de mobilité, de propreté et d’accès aux services.",
+   "tags": [
+    "Hackathon",
+    "Ville"
+   ],
+   "body": [
+    {
+     "p": "Pendant deux jours, une centaine de participants ont travaillé sur des prototypes présentés ensuite devant un jury."
+    },
+    {
+     "p": "Les projets lauréats seront accompagnés pendant six mois par un programme d’incubation."
+    }
+   ],
+   "nature": "Fait"
+  },
+  {
+   "id": 12,
+   "slug": "breve-fonds-jeunes-innovateurs",
+   "type": "article",
+   "rubrique": "startups",
+   "sub": "Financements & investissements",
+   "theme": "fintech",
+   "region": "Monde",
+   "country": "International",
+   "author": "marc-lemaire",
+   "date": "2026-10-24",
+   "read": 2,
+   "une": false,
+   "views": 1640,
+   "title": "Un nouveau fonds pour soutenir les jeunes innovateurs",
+   "chapo": "Un programme de bourses destiné aux porteurs de projets de moins de 30 ans ouvre ses candidatures.",
+   "tags": [
+    "Financement",
+    "Bourses"
+   ],
+   "body": [
+    {
+     "p": "Les candidatures sont ouvertes aux projets technologiques ayant un impact social ou environnemental."
+    },
+    {
+     "p": "Nous publierons prochainement un guide pour préparer un bon dossier de candidature."
+    }
+   ],
+   "nature": "Annonce"
+  },
+  {
+   "id": 13,
+   "slug": "hugo-martin-assistant-vocal-malvoyants",
+   "type": "portrait",
+   "rubrique": "innovations",
+   "sub": "Solutions numériques",
+   "theme": "ia",
+   "region": "Europe",
+   "country": "France",
+   "author": "sara-el-idrissi",
+   "date": "2026-10-14",
+   "read": 5,
+   "une": false,
+   "views": 2230,
+   "title": "Hugo Martin décrit le monde à ceux qui ne le voient pas",
+   "chapo": "Son assistant vocal combine la caméra du téléphone et la reconnaissance d’images pour décrire l’environnement.",
+   "tags": [
+    "Accessibilité",
+    "Vision"
+   ],
+   "body": [
+    {
+     "p": "Tout a commencé avec sa grand-mère, qui perdait progressivement la vue."
+    },
+    {
+     "p": "L’application décrit à voix haute les obstacles, les panneaux et les visages connus."
+    },
+    {
+     "q": "La technologie doit d’abord servir ceux qu’elle oublie le plus souvent.",
+     "who": "Hugo Martin"
+    }
+   ],
+   "nature": "Reportage"
+  },
+  {
+   "id": 14,
+   "slug": "omar-haddad-purificateur-eau-solaire",
+   "type": "projet",
+   "rubrique": "innovations",
+   "sub": "Inventions & découvertes",
+   "theme": "energie",
+   "region": "Moyen-Orient",
+   "country": "Jordanie",
+   "author": "david-mensah",
+   "date": "2026-10-12",
+   "read": 7,
+   "une": false,
+   "views": 2050,
+   "title": "Un purificateur d’eau solaire réparable avec des pièces locales",
+   "chapo": "Omar Haddad conçoit des machines que l’on peut entretenir sans technicien spécialisé.",
+   "tags": [
+    "Eau",
+    "Solaire",
+    "Réparabilité"
+   ],
+   "fiche": {
+    "statut": "Deuxième prototype",
+    "porteur": "Omar Haddad",
+    "pays": "Jordanie",
+    "domaine": "Énergie & climat",
+    "debut": "2024",
+    "licence": "Plans sur demande"
+   },
+   "body": [
+    {
+     "p": "La machine utilise un panneau solaire et un système de filtration en plusieurs étapes."
+    },
+    {
+     "h": "La réparabilité au cœur du projet"
+    },
+    {
+     "p": "Chaque pièce peut être remplacée par un équivalent trouvé sur un marché local."
+    }
+   ],
+   "nature": "Reportage"
+  },
+  {
+   "id": 15,
+   "slug": "dossier-ia-langues-africaines",
+   "type": "dossier",
+   "rubrique": "decryptages",
+   "sub": "Analyses",
+   "theme": "ia",
+   "region": "Afrique",
+   "country": "International",
+   "author": "marc-lemaire",
+   "date": "2026-10-10",
+   "read": 10,
+   "une": false,
+   "views": 4730,
+   "title": "L’IA parlera-t-elle un jour toutes les langues ?",
+   "chapo": "Des chercheurs et développeurs construisent des outils pour les langues absentes d’internet. Enquête sur un chantier immense.",
+   "tags": [
+    "IA",
+    "Langues",
+    "Recherche"
+   ],
+   "body": [
+    {
+     "p": "La plupart des outils d’intelligence artificielle fonctionnent dans une poignée de langues."
+    },
+    {
+     "h": "Le manque de données"
+    },
+    {
+     "p": "Sans textes écrits en quantité, les modèles ne peuvent pas apprendre."
+    },
+    {
+     "h": "Des communautés mobilisées"
+    },
+    {
+     "p": "Des volontaires enregistrent et transcrivent des phrases pour constituer des corpus ouverts."
+    }
+   ],
+   "nature": "Analyse",
+   "sources": [
+    "[Rapport de recherche à citer]",
+    "Entretiens avec des chercheurs en traitement des langues"
+   ]
+  },
+  {
+   "id": 16,
+   "slug": "priya-raman-coder-langue-maternelle",
+   "type": "portrait",
+   "rubrique": "talents",
+   "sub": "Jeunes talents",
+   "theme": "education",
+   "region": "Asie",
+   "country": "Inde",
+   "author": "fatou-ndiaye",
+   "date": "2026-10-08",
+   "read": 4,
+   "une": false,
+   "views": 1980,
+   "title": "Priya Raman, 21 ans, apprend à coder en tamoul",
+   "chapo": "L’étudiante adapte des cours de programmation dans les langues locales.",
+   "tags": [
+    "Code",
+    "Inclusion",
+    "Étudiante"
+   ],
+   "body": [
+    {
+     "p": "Priya a remarqué que beaucoup de ses camarades abandonnaient la programmation à cause de l’anglais."
+    },
+    {
+     "p": "Elle traduit et adapte des cours, avec une communauté d’entraide entre élèves."
+    }
+   ],
+   "nature": "Portrait"
+  },
+  {
+   "id": 24,
+   "slug": "ama-owusu-drones-cultures",
+   "type": "portrait",
+   "rubrique": "talents",
+   "sub": "Jeunes talents",
+   "theme": "agritech",
+   "region": "Afrique",
+   "country": "Ghana",
+   "author": "fatou-ndiaye",
+   "date": "2026-10-31",
+   "read": 6,
+   "une": true,
+   "views": 3120,
+   "title": "À 17 ans, Ama Owusu construit des drones pour cartographier les cultures",
+   "chapo": "Lycéenne et autodidacte, elle assemble des drones à bas coût qui aident les coopératives à repérer les parcelles malades.",
+   "tags": [
+    "Drones",
+    "Jeunes talents",
+    "Cartographie"
+   ],
+   "body": [
+    {
+     "p": "Ama a construit son premier drone avec des moteurs de jouets et une carte électronique achetée d’occasion."
+    },
+    {
+     "p": "Aujourd’hui, ses appareils survolent les champs de la coopérative de son village et produisent des cartes qui signalent les zones à surveiller."
+    },
+    {
+     "q": "Je veux que les agriculteurs voient leurs champs comme un oiseau les voit.",
+     "who": "Ama Owusu"
+    },
+    {
+     "h": "Un atelier au fond de la cour"
+    },
+    {
+     "p": "Le week-end, elle forme d’autres élèves. Trois drones ont déjà été construits par ses camarades."
+    }
+   ],
+   "nature": "Portrait"
+  },
+  {
+   "id": 19,
+   "slug": "entretien-mariam-traore-couveuse",
+   "type": "interview",
+   "rubrique": "talents",
+   "sub": "Interviews de talents",
+   "theme": "sante",
+   "region": "Afrique",
+   "country": "Mali",
+   "author": "sara-el-idrissi",
+   "date": "2026-10-30",
+   "read": 8,
+   "une": false,
+   "views": 2890,
+   "title": "Mariam Traoré : « Une couveuse doit pouvoir être réparée par l’infirmière »",
+   "chapo": "Ingénieure biomédicale, elle conçoit une couveuse néonatale fabriquée avec des matériaux disponibles localement.",
+   "tags": [
+    "Santé",
+    "Maternité",
+    "Réparabilité"
+   ],
+   "body": [
+    {
+     "p": "Entretien avec une ingénieure qui veut sauver des nouveau-nés avec des machines simples."
+    },
+    {
+     "qa": [
+      "D’où vient votre projet ?",
+      "D’une visite dans une maternité rurale où trois couveuses sur quatre étaient en panne, faute de pièces."
+     ]
+    },
+    {
+     "qa": [
+      "Qu’est-ce qui change avec votre couveuse ?",
+      "Toutes les pièces se trouvent sur le marché local. Une infirmière formée en une journée peut la réparer."
+     ]
+    },
+    {
+     "qa": [
+      "Où en êtes-vous ?",
+      "Deux prototypes sont testés dans des centres de santé. Nous préparons la certification."
+     ]
+    }
+   ],
+   "nature": "Entretien"
+  },
+  {
+   "id": 20,
+   "slug": "breve-incubateurs-candidatures",
+   "type": "article",
+   "rubrique": "startups",
+   "sub": "Financements & investissements",
+   "theme": "fintech",
+   "region": "Monde",
+   "country": "International",
+   "author": "marc-lemaire",
+   "date": "2026-10-30",
+   "read": 2,
+   "une": false,
+   "views": 1420,
+   "title": "Trois incubateurs ouvrent leurs candidatures avant la fin de l’année",
+   "chapo": "Accompagnement, bureaux et premiers financements : les dossiers sont attendus d’ici décembre.",
+   "tags": [
+    "Incubation",
+    "Candidatures"
+   ],
+   "body": [
+    {
+     "p": "Trois programmes d’incubation lancent leur appel à candidatures pour la promotion 2027."
+    },
+    {
+     "p": "Notre guide « Réussir sa candidature », disponible gratuitement dans la bibliothèque, aide à préparer son dossier."
+    }
+   ],
+   "nature": "Annonce"
+  },
+  {
+   "id": 21,
+   "slug": "breve-salon-jeunes-inventeurs",
+   "type": "article",
+   "rubrique": "actualites",
+   "sub": "Politiques & transformation numérique",
+   "theme": "education",
+   "region": "Afrique",
+   "country": "Côte d’Ivoire",
+   "author": "fatou-ndiaye",
+   "date": "2026-10-29",
+   "read": 2,
+   "une": false,
+   "views": 1310,
+   "title": "Salon de l’innovation : les jeunes inventeurs à l’honneur",
+   "chapo": "Une quarantaine de prototypes présentés par des élèves et des étudiants.",
+   "tags": [
+    "Salon",
+    "Étudiants"
+   ],
+   "body": [
+    {
+     "p": "Robots, applications et objets connectés : les visiteurs ont découvert des projets imaginés par des moins de 25 ans."
+    },
+    {
+     "p": "La rédaction suivra plusieurs de ces talents dans les prochaines semaines."
+    }
+   ],
+   "nature": "Fait"
+  },
+  {
+   "id": 22,
+   "slug": "tribune-documenter-une-invention",
+   "type": "article",
+   "rubrique": "decryptages",
+   "sub": "Tech & société",
+   "theme": "hardware",
+   "region": "Monde",
+   "country": "International",
+   "author": "david-mensah",
+   "date": "2026-10-28",
+   "read": 4,
+   "une": false,
+   "views": 1760,
+   "title": "Documenter une invention, c’est déjà la protéger",
+   "chapo": "Notes, schémas, dates : la documentation est la première alliée des inventeurs. Le point de vue de notre rédacteur.",
+   "tags": [
+    "Inventions",
+    "Documentation"
+   ],
+   "body": [
+    {
+     "p": "Beaucoup d’inventeurs gardent leurs idées en tête. C’est souvent ce qui les empêche d’être reconnus."
+    },
+    {
+     "q": "Une invention qui n’est pas documentée n’existe pas encore pour le monde.",
+     "who": "David Mensah"
+    },
+    {
+     "p": "Documenter, c’est dater, expliquer et permettre à d’autres de vérifier. C’est aussi la base de toute protection."
+    }
+   ],
+   "nature": "Opinion"
+  },
+  {
+   "id": 23,
+   "slug": "dossier-dix-projets-open-source",
+   "type": "dossier",
+   "rubrique": "decryptages",
+   "sub": "Comparatifs technologiques",
+   "theme": "ia",
+   "region": "Monde",
+   "country": "International",
+   "author": "marc-lemaire",
+   "date": "2026-10-27",
+   "read": 9,
+   "une": false,
+   "views": 3340,
+   "title": "Dix projets open source à suivre en 2027",
+   "chapo": "Traduction, santé, agriculture, éducation : notre sélection de projets ouverts portés par des talents peu connus.",
+   "tags": [
+    "Open source",
+    "Sélection"
+   ],
+   "body": [
+    {
+     "p": "Ils sont développés par de petites équipes, souvent bénévoles, et rendent service à des milliers de personnes."
+    },
+    {
+     "h": "Comment nous avons choisi"
+    },
+    {
+     "p": "Utilité réelle, qualité de la documentation, communauté active."
+    },
+    {
+     "h": "La sélection"
+    },
+    {
+     "p": "Des outils de traduction pour les langues locales, des cartes ouvertes, des applications d’apprentissage hors ligne…"
+    }
+   ],
+   "nature": "Analyse"
+  },
+  {
+   "id": 17,
+   "slug": "brouillon-mariana-costa-carnet-sante",
+   "type": "portrait",
+   "rubrique": "talents",
+   "sub": "Femmes dans la Tech",
+   "theme": "sante",
+   "region": "Amériques",
+   "country": "Brésil",
+   "author": "sara-el-idrissi",
+   "date": "2026-10-26",
+   "read": 5,
+   "une": false,
+   "views": 0,
+   "status": "brouillon",
+   "title": "Mariana Costa et le carnet de santé numérique des familles isolées",
+   "chapo": "Une designer a conçu, avec des agents de santé, un carnet simple qui suit les vaccinations des enfants.",
+   "tags": [
+    "Design",
+    "Santé"
+   ],
+   "body": [
+    {
+     "p": "Article en cours de rédaction."
+    }
+   ],
+   "nature": "Portrait"
+  },
+  {
+   "id": 25,
+   "slug": "ia-modele-ouvert-langues-africaines",
+   "type": "article",
+   "nature": "Fait",
+   "rubrique": "actualites",
+   "sub": "Intelligence artificielle",
+   "theme": "ia",
+   "region": "Afrique",
+   "country": "International",
+   "author": "marc-lemaire",
+   "date": "2026-10-31",
+   "read": 4,
+   "une": true,
+   "views": 4210,
+   "title": "Un collectif de chercheurs publie un modèle d’IA ouvert entraîné sur douze langues africaines",
+   "chapo": "Le modèle, librement réutilisable, vise à améliorer la traduction et la recherche d’information dans des langues encore peu présentes en ligne.",
+   "tags": [
+    "IA",
+    "Langues",
+    "Open source"
+   ],
+   "sources": [
+    "[Annonce officielle du collectif]",
+    "[Article de recherche associé]"
+   ],
+   "body": [
+    {
+     "p": "Un collectif de chercheurs a rendu public un modèle de traitement du langage entraîné sur douze langues africaines."
+    },
+    {
+     "p": "Le modèle est publié sous licence ouverte : universités, startups et administrations peuvent l’utiliser et l’améliorer."
+    },
+    {
+     "h": "Ce que l’on sait"
+    },
+    {
+     "p": "Les performances annoncées portent sur la traduction et le résumé de textes. Elles n’ont pas encore été évaluées de manière indépendante."
+    },
+    {
+     "h": "Ce qu’il reste à vérifier"
+    },
+    {
+     "p": "La rédaction suivra les premières évaluations publiques avant de conclure sur la qualité réelle du modèle."
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "slug": "cybersecurite-pme-arnaques-messagerie",
+   "type": "article",
+   "nature": "Fait",
+   "rubrique": "actualites",
+   "sub": "Cybersécurité",
+   "theme": "mobile",
+   "region": "Afrique",
+   "country": "International",
+   "author": "sara-el-idrissi",
+   "date": "2026-10-31",
+   "read": 5,
+   "une": false,
+   "views": 2650,
+   "title": "Cybersécurité : les petites entreprises, cibles privilégiées des arnaques par messagerie",
+   "chapo": "Faux fournisseurs, faux livreurs, faux conseillers bancaires : les escroqueries par messagerie visent de plus en plus les petits commerces.",
+   "tags": [
+    "Cybersécurité",
+    "PME",
+    "Arnaques"
+   ],
+   "sources": [
+    "[Étude ou rapport à citer]",
+    "Témoignages de commerçants recueillis par la rédaction"
+   ],
+   "body": [
+    {
+     "p": "Les petites entreprises manquent souvent d’outils et de formation face aux tentatives de fraude."
+    },
+    {
+     "h": "Les signaux d’alerte"
+    },
+    {
+     "p": "Un message urgent, une demande de paiement inhabituelle, un lien raccourci : autant d’indices qui doivent faire réagir."
+    },
+    {
+     "h": "Les bons réflexes"
+    },
+    {
+     "p": "Vérifier par un autre canal, ne jamais communiquer de code reçu par SMS, activer la double authentification."
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "slug": "big-tech-donnees-utilisateurs-regles",
+   "type": "article",
+   "nature": "Analyse",
+   "rubrique": "actualites",
+   "sub": "Big Tech",
+   "theme": "mobile",
+   "region": "Monde",
+   "country": "International",
+   "author": "marc-lemaire",
+   "date": "2026-10-29",
+   "read": 6,
+   "une": false,
+   "views": 1980,
+   "title": "Données personnelles : ce que les nouvelles règles imposées aux géants du numérique changent pour les utilisateurs",
+   "chapo": "Consentement, portabilité, transparence des algorithmes : le point sur les obligations qui se renforcent.",
+   "tags": [
+    "Big Tech",
+    "Données",
+    "Régulation"
+   ],
+   "sources": [
+    "[Texte réglementaire à citer]"
+   ],
+   "body": [
+    {
+     "p": "Plusieurs juridictions renforcent les obligations des grandes plateformes en matière de données personnelles."
+    },
+    {
+     "h": "Pour l’utilisateur"
+    },
+    {
+     "p": "Des paramètres de confidentialité plus clairs et la possibilité de récupérer ses données plus facilement."
+    },
+    {
+     "h": "Pour les entreprises locales"
+    },
+    {
+     "p": "De nouvelles opportunités pour des services respectueux de la vie privée."
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "slug": "cinq-startups-a-suivre",
+   "type": "dossier",
+   "nature": "Analyse",
+   "rubrique": "startups",
+   "sub": "Startups",
+   "theme": "fintech",
+   "region": "Afrique",
+   "country": "International",
+   "author": "aicha-kone",
+   "date": "2026-10-30",
+   "read": 7,
+   "une": false,
+   "views": 3870,
+   "title": "Cinq startups à suivre ce trimestre",
+   "chapo": "Paiement, agriculture, santé, éducation, logistique : notre sélection de jeunes entreprises qui répondent à des besoins concrets.",
+   "tags": [
+    "Startups",
+    "Sélection"
+   ],
+   "body": [
+    {
+     "p": "Notre sélection repose sur trois critères : un problème réel, des premiers utilisateurs, une équipe identifiable."
+    },
+    {
+     "h": "Les critères de la rédaction"
+    },
+    {
+     "p": "Aucune entreprise n’a payé pour figurer dans cette sélection."
+    },
+    {
+     "h": "La sélection"
+    },
+    {
+     "p": "Paiement hors ligne, livraison pour petits commerçants, téléconsultation, apprentissage hors connexion, cartographie agricole."
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "slug": "fatoumata-bah-livraison-petits-commercants",
+   "type": "portrait",
+   "nature": "Portrait",
+   "rubrique": "startups",
+   "sub": "Entrepreneurs Tech",
+   "theme": "mobile",
+   "region": "Afrique",
+   "country": "Guinée",
+   "author": "fatou-ndiaye",
+   "date": "2026-10-28",
+   "read": 6,
+   "une": false,
+   "views": 2310,
+   "title": "Fatoumata Bah veut rendre la livraison accessible aux petits commerçants",
+   "chapo": "Sa plateforme regroupe les commandes de plusieurs boutiques pour réduire le coût de chaque course.",
+   "tags": [
+    "Logistique",
+    "Small business",
+    "Entrepreneuriat"
+   ],
+   "startup": {
+    "secteur": "Logistique",
+    "pays": "Guinée",
+    "creation": "2024",
+    "stade": "Pré-amorçage",
+    "equipe": "4 personnes"
+   },
+   "body": [
+    {
+     "p": "Les grandes plateformes de livraison sont trop chères pour les petites boutiques de quartier."
+    },
+    {
+     "p": "L’idée de Fatoumata : mutualiser les trajets de plusieurs commerçants voisins."
+    },
+    {
+     "q": "Une petite boutique doit pouvoir livrer comme une grande enseigne.",
+     "who": "Fatoumata Bah"
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "slug": "ecosystemes-tech-comment-ils-se-structurent",
+   "type": "dossier",
+   "nature": "Analyse",
+   "rubrique": "startups",
+   "sub": "Écosystèmes technologiques",
+   "theme": "fintech",
+   "region": "Afrique",
+   "country": "International",
+   "author": "marc-lemaire",
+   "date": "2026-10-26",
+   "read": 9,
+   "une": false,
+   "views": 2120,
+   "title": "Comment les écosystèmes tech se structurent dans les grandes villes africaines",
+   "chapo": "Incubateurs, investisseurs, universités et pouvoirs publics : les ingrédients d’un écosystème qui fonctionne.",
+   "tags": [
+    "Écosystèmes",
+    "Incubateurs",
+    "Villes"
+   ],
+   "body": [
+    {
+     "p": "Un écosystème technologique ne se décrète pas. Il se construit autour de talents, de capitaux et de règles claires."
+    },
+    {
+     "h": "Les acteurs clés"
+    },
+    {
+     "p": "Incubateurs, investisseurs, universités, entreprises et administrations."
+    },
+    {
+     "h": "Les points de vigilance"
+    },
+    {
+     "p": "Concentration des financements, fuite des talents, accès inégal à l’infrastructure."
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "slug": "fact-check-application-recharge-solaire",
+   "type": "factcheck",
+   "nature": "Fact-check",
+   "rubrique": "decryptages",
+   "sub": "Fact-checking",
+   "theme": "energie",
+   "region": "Monde",
+   "country": "International",
+   "author": "sara-el-idrissi",
+   "date": "2026-10-30",
+   "read": 3,
+   "une": false,
+   "views": 5120,
+   "verdict": {
+    "label": "Faux",
+    "text": "Une application ne peut pas recharger la batterie d’un téléphone : elle ne produit aucune énergie."
+   },
+   "title": "Non, cette application ne recharge pas votre téléphone grâce à l’énergie solaire",
+   "chapo": "Une vidéo très partagée affirme qu’une application transforme l’écran en panneau solaire. Nous avons vérifié.",
+   "tags": [
+    "Fact-checking",
+    "Énergie",
+    "Rumeur"
+   ],
+   "sources": [
+    "Avis de deux ingénieurs en électronique consultés par la rédaction",
+    "[Fiche de l’application sur le magasin d’applications]"
+   ],
+   "body": [
+    {
+     "p": "La vidéo montre un pourcentage de batterie qui augmente après l’installation d’une application."
+    },
+    {
+     "h": "Ce que dit la physique"
+    },
+    {
+     "p": "L’écran d’un téléphone émet de la lumière, il ne la capte pas pour produire de l’électricité."
+    },
+    {
+     "h": "Ce que fait vraiment l’application"
+    },
+    {
+     "p": "Elle affiche un faux indicateur de charge et collecte des données publicitaires."
+    },
+    {
+     "h": "Notre conclusion"
+    },
+    {
+     "p": "L’affirmation est fausse. Nous conseillons de désinstaller l’application."
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "slug": "enquete-dechets-electroniques",
+   "type": "dossier",
+   "nature": "Enquête",
+   "rubrique": "decryptages",
+   "sub": "Enquêtes",
+   "theme": "energie",
+   "region": "Afrique",
+   "country": "International",
+   "author": "aicha-kone",
+   "date": "2026-10-25",
+   "read": 12,
+   "une": false,
+   "views": 3440,
+   "title": "Enquête : où finissent nos appareils électroniques ?",
+   "chapo": "Téléphones, ordinateurs, batteries : nous avons suivi le parcours des déchets électroniques, de la poubelle aux ateliers de réparation.",
+   "tags": [
+    "Déchets électroniques",
+    "Recyclage",
+    "Enquête"
+   ],
+   "sources": [
+    "Visites de trois ateliers de réparation",
+    "[Données publiques à citer]"
+   ],
+   "body": [
+    {
+     "p": "Chaque année, des millions d’appareils sont jetés alors qu’une partie pourrait être réparée."
+    },
+    {
+     "h": "La filière informelle"
+    },
+    {
+     "p": "Des réparateurs et des récupérateurs donnent une seconde vie à de nombreux composants."
+    },
+    {
+     "h": "Les risques"
+    },
+    {
+     "p": "Le brûlage des câbles et le démontage sans protection exposent les travailleurs à des substances toxiques."
+    },
+    {
+     "h": "Les solutions"
+    },
+    {
+     "p": "Formation, équipements de protection et innovations comme l’imprimante 3D recyclée de Kofi Mensah."
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "slug": "metier-data-analyst-cinq-questions",
+   "type": "article",
+   "nature": "Guide",
+   "rubrique": "campus",
+   "sub": "Métiers de la Tech",
+   "theme": "education",
+   "region": "Monde",
+   "country": "International",
+   "author": "fatou-ndiaye",
+   "date": "2026-10-29",
+   "read": 5,
+   "une": false,
+   "views": 2780,
+   "title": "Data analyst : le métier expliqué en cinq questions",
+   "chapo": "Que fait un data analyst au quotidien ? Quelles compétences faut-il ? Comment s’y former ?",
+   "tags": [
+    "Métiers",
+    "Données",
+    "Orientation"
+   ],
+   "body": [
+    {
+     "qa": [
+      "Que fait un data analyst ?",
+      "Il collecte, nettoie et analyse des données pour aider une organisation à prendre des décisions."
+     ]
+    },
+    {
+     "qa": [
+      "Quelles compétences ?",
+      "Tableurs, langage SQL, bases de statistiques et capacité à expliquer simplement des résultats."
+     ]
+    },
+    {
+     "qa": [
+      "Comment se former ?",
+      "Formations universitaires, bootcamps ou parcours en ligne gratuits complétés par des projets personnels."
+     ]
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "slug": "se-former-cybersecurite-parcours-gratuits",
+   "type": "article",
+   "nature": "Guide",
+   "rubrique": "campus",
+   "sub": "Formations & certifications",
+   "theme": "education",
+   "region": "Monde",
+   "country": "International",
+   "author": "david-mensah",
+   "date": "2026-10-27",
+   "read": 6,
+   "une": false,
+   "views": 1890,
+   "title": "Se former à la cybersécurité : les parcours gratuits et certifiants",
+   "chapo": "Des bases aux premières certifications, comment se lancer sans gros budget.",
+   "tags": [
+    "Formation",
+    "Cybersécurité",
+    "Certifications"
+   ],
+   "body": [
+    {
+     "p": "La cybersécurité manque de profils qualifiés partout dans le monde."
+    },
+    {
+     "h": "Les bases"
+    },
+    {
+     "p": "Réseaux, systèmes d’exploitation et bonnes pratiques de sécurité."
+    },
+    {
+     "h": "Les certifications d’entrée"
+    },
+    {
+     "p": "Plusieurs organismes proposent des certifications reconnues pour débuter. Vérifiez toujours leur reconnaissance locale."
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "slug": "premier-emploi-tech-conseils-cv",
+   "type": "article",
+   "nature": "Guide",
+   "rubrique": "campus",
+   "sub": "Conseils carrière",
+   "theme": "education",
+   "region": "Monde",
+   "country": "International",
+   "author": "aicha-kone",
+   "date": "2026-10-26",
+   "read": 4,
+   "une": false,
+   "views": 2240,
+   "title": "Premier emploi dans la tech : sept conseils pour un CV qui se démarque",
+   "chapo": "Projets personnels, compétences vérifiables, lettre courte : ce que regardent vraiment les recruteurs.",
+   "tags": [
+    "Carrière",
+    "CV",
+    "Emploi"
+   ],
+   "body": [
+    {
+     "p": "Pour un premier poste, vos projets comptent souvent plus que votre diplôme."
+    },
+    {
+     "h": "Montrez ce que vous avez construit"
+    },
+    {
+     "p": "Un lien vers un dépôt de code ou un portfolio vaut mieux qu’une longue liste de compétences."
+    },
+    {
+     "h": "Soyez précis"
+    },
+    {
+     "p": "Chiffrez vos résultats quand c’est possible et adaptez votre CV à chaque offre."
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "slug": "capteur-qualite-eau-bas-cout",
+   "type": "projet",
+   "nature": "Reportage",
+   "rubrique": "innovations",
+   "sub": "Recherche & développement",
+   "theme": "sante",
+   "region": "Afrique",
+   "country": "Cameroun",
+   "author": "david-mensah",
+   "date": "2026-10-30",
+   "read": 6,
+   "une": false,
+   "views": 2010,
+   "title": "Un capteur de qualité de l’eau à bas coût mis au point par une équipe universitaire",
+   "chapo": "Conçu avec des composants courants, il mesure plusieurs indicateurs de potabilité et transmet les résultats par SMS.",
+   "tags": [
+    "Eau",
+    "Recherche",
+    "Santé"
+   ],
+   "sources": [
+    "Entretien avec l’équipe de recherche",
+    "[Publication scientifique à citer]"
+   ],
+   "fiche": {
+    "statut": "Prototype en test",
+    "porteur": "Équipe universitaire",
+    "pays": "Cameroun",
+    "domaine": "Santé",
+    "debut": "2025",
+    "licence": "À préciser"
+   },
+   "body": [
+    {
+     "p": "L’accès à une eau de qualité reste un enjeu majeur dans de nombreuses zones rurales."
+    },
+    {
+     "h": "Le principe"
+    },
+    {
+     "p": "Le capteur mesure l’acidité, la turbidité et la température de l’eau."
+    },
+    {
+     "h": "Les limites"
+    },
+    {
+     "p": "Il ne détecte pas toutes les contaminations : des analyses en laboratoire restent nécessaires."
+    }
+   ]
+  }
+ ],
+ "LIBRARY": [
+  {
+   "id": 1,
+   "slug": "magazine-n1",
+   "type": "Magazine",
+   "title": "VOXTECH Magazine n° 1",
+   "subtitle": "Ceux qui innovent dans l’ombre",
+   "date": "2026-10-01",
+   "pages": 64,
+   "format": "PDF",
+   "price": 0,
+   "color": "red",
+   "desc": "Le premier numéro de notre magazine : portraits, inventions documentées et grand dossier sur l’innovation frugale.",
+   "toc": [
+    "Édito : la lumière pour tous",
+    "Grand dossier : innover avec peu",
+    "10 portraits de talents",
+    "Inventions documentées",
+    "Agenda de l’innovation"
+   ]
+  },
+  {
+   "id": 2,
+   "slug": "ebook-guide-candidature",
+   "type": "E-book",
+   "title": "Réussir sa candidature à un programme d’incubation",
+   "subtitle": "Le guide pratique",
+   "date": "2026-09-15",
+   "pages": 32,
+   "format": "PDF / EPUB",
+   "price": 0,
+   "color": "ink",
+   "desc": "Un guide pas à pas pour présenter son projet, construire son pitch et préparer les entretiens.",
+   "toc": [
+    "Comprendre les attentes des jurys",
+    "Écrire son dossier",
+    "Préparer son pitch",
+    "Les erreurs à éviter"
+   ]
+  },
+  {
+   "id": 3,
+   "slug": "livre-50-innovateurs",
+   "type": "Livre",
+   "title": "50 innovateurs à suivre",
+   "subtitle": "Édition 2026",
+   "date": "2026-11-15",
+   "pages": 180,
+   "format": "Imprimé + PDF",
+   "price": 12000,
+   "color": "stone",
+   "desc": "Cinquante portraits de talents venus de tous les continents, sélectionnés par la rédaction.",
+   "toc": [
+    "Afrique",
+    "Amériques",
+    "Asie",
+    "Europe",
+    "Moyen-Orient"
+   ]
+  },
+  {
+   "id": 4,
+   "slug": "doc-imprimante-3d-recyclee",
+   "type": "Documentation",
+   "title": "Construire une imprimante 3D recyclée",
+   "subtitle": "Documentation technique",
+   "date": "2026-10-22",
+   "pages": 24,
+   "format": "PDF",
+   "price": 0,
+   "color": "ink",
+   "desc": "La documentation complète du prototype de Kofi Mensah : pièces, schémas électroniques et réglages.",
+   "toc": [
+    "Liste des pièces",
+    "Assemblage du châssis",
+    "Électronique",
+    "Réglages et premiers tests"
+   ]
+  },
+  {
+   "id": 5,
+   "slug": "rapport-innovation-frugale",
+   "type": "Rapport",
+   "title": "L’innovation frugale en 2026",
+   "subtitle": "Rapport annuel",
+   "date": "2026-09-30",
+   "pages": 48,
+   "format": "PDF",
+   "price": 5000,
+   "color": "red",
+   "desc": "Tendances, chiffres clés et études de cas sur les innovations conçues avec peu de moyens.",
+   "toc": [
+    "Synthèse",
+    "Tendances",
+    "Études de cas",
+    "Recommandations"
+   ]
+  },
+  {
+   "id": 6,
+   "slug": "ebook-coder-hors-ligne",
+   "type": "E-book",
+   "title": "Apprendre à coder sans connexion",
+   "subtitle": "Ressources et méthodes",
+   "date": "2026-08-20",
+   "pages": 40,
+   "format": "PDF / EPUB",
+   "price": 0,
+   "color": "stone",
+   "desc": "Une sélection de ressources et de méthodes pour apprendre la programmation avec une connexion limitée.",
+   "toc": [
+    "S’équiper",
+    "Les bonnes ressources",
+    "Pratiquer",
+    "Rejoindre une communauté"
+   ]
+  }
+ ],
+ "AD_SLOTS": [
+  {
+   "id": "leaderboard",
+   "name": "Bandeau haut",
+   "size": "728 × 90",
+   "where": "Sous l’en-tête, sur toutes les pages"
+  },
+  {
+   "id": "billboard",
+   "name": "Billboard",
+   "size": "970 × 250",
+   "where": "Page d’accueil, entre deux grandes sections"
+  },
+  {
+   "id": "pave",
+   "name": "Pavé",
+   "size": "300 × 250",
+   "where": "Colonne de droite des articles et rubriques"
+  },
+  {
+   "id": "inarticle",
+   "name": "Dans l’article",
+   "size": "640 × 160",
+   "where": "Au milieu de chaque article"
+  },
+  {
+   "id": "native",
+   "name": "Contenu sponsorisé",
+   "size": "Format article",
+   "where": "Dans les fils d’articles, signalé « Partenaire »"
+  },
+  {
+   "id": "sponsor",
+   "name": "Partenaire de rubrique",
+   "size": "Logo + mention",
+   "where": "En tête d’une rubrique : « présentée par »"
+  },
+  {
+   "id": "newsletter",
+   "name": "Sponsor de la newsletter",
+   "size": "600 × 120",
+   "where": "Dans la Newsletter VOX hebdomadaire"
+  },
+  {
+   "id": "mobile",
+   "name": "Bannière mobile",
+   "size": "320 × 100",
+   "where": "Bas d’écran sur téléphone, refermable"
+  }
+ ],
+ "CAMPAIGNS": [
+  {
+   "id": 1,
+   "advertiser": "Lumen Bank",
+   "slot": "leaderboard",
+   "title": "Ouvrez un compte pro en 10 minutes",
+   "cta": "Découvrir",
+   "start": "2026-10-01",
+   "end": "2026-11-30",
+   "budget": 450000,
+   "impressions": 128400,
+   "clicks": 1490,
+   "active": true
+  },
+  {
+   "id": 2,
+   "advertiser": "Salon InnoTech 2026",
+   "slot": "pave",
+   "title": "3 jours pour rencontrer les innovateurs",
+   "cta": "Réserver",
+   "start": "2026-10-10",
+   "end": "2026-11-20",
+   "budget": 300000,
+   "impressions": 64200,
+   "clicks": 1120,
+   "active": true
+  },
+  {
+   "id": 3,
+   "advertiser": "CodeCamp",
+   "slot": "inarticle",
+   "title": "Devenez développeur en 6 mois",
+   "cta": "S’inscrire",
+   "start": "2026-09-01",
+   "end": "2026-10-15",
+   "budget": 250000,
+   "impressions": 88100,
+   "clicks": 960,
+   "active": false
+  },
+  {
+   "id": 4,
+   "advertiser": "Nova Énergie",
+   "slot": "billboard",
+   "title": "L’énergie solaire pour les entreprises",
+   "cta": "En savoir plus",
+   "start": "2026-10-15",
+   "end": "2026-12-15",
+   "budget": 600000,
+   "impressions": 41300,
+   "clicks": 520,
+   "active": true
+  },
+  {
+   "id": 5,
+   "advertiser": "CodeCamp",
+   "slot": "native",
+   "title": "Reconversion : devenez développeur en 6 mois avec un accompagnement emploi",
+   "cta": "Découvrir le programme",
+   "start": "2026-10-20",
+   "end": "2026-12-20",
+   "budget": 350000,
+   "impressions": 22400,
+   "clicks": 610,
+   "active": true
+  },
+  {
+   "id": 6,
+   "advertiser": "Lumen Bank",
+   "slot": "sponsor",
+   "title": "Startups & Business est présentée par Lumen Bank",
+   "cta": "Lumen Bank",
+   "start": "2026-10-01",
+   "end": "2026-12-31",
+   "budget": 900000,
+   "impressions": 18300,
+   "clicks": 240,
+   "active": true
+  },
+  {
+   "id": 7,
+   "advertiser": "Salon InnoTech 2026",
+   "slot": "newsletter",
+   "title": "Rencontrez 200 innovateurs les 3, 4 et 5 décembre",
+   "cta": "Réserver",
+   "start": "2026-10-15",
+   "end": "2026-12-01",
+   "budget": 150000,
+   "impressions": 3600,
+   "clicks": 180,
+   "active": true
+  }
+ ],
+ "SUBMISSIONS": [
+  {
+   "id": 1,
+   "date": "2026-10-25",
+   "name": "Mariam Traoré",
+   "email": "mariam@exemple.com",
+   "project": "Couveuse néonatale à bas coût",
+   "cat": "Santé",
+   "country": "Mali",
+   "status": "Nouvelle",
+   "desc": "Une couveuse fabriquée avec des matériaux locaux pour les maternités rurales."
+  },
+  {
+   "id": 2,
+   "date": "2026-10-23",
+   "name": "Ali Hassan",
+   "email": "ali@exemple.com",
+   "project": "Application de tri des déchets",
+   "cat": "Énergie & climat",
+   "country": "Égypte",
+   "status": "En étude",
+   "desc": "Une application qui rémunère les habitants qui trient leurs déchets."
+  },
+  {
+   "id": 3,
+   "date": "2026-10-20",
+   "name": "Grace Mbeki",
+   "email": "grace@exemple.com",
+   "project": "Robot éducatif en carton",
+   "cat": "Éducation",
+   "country": "Afrique du Sud",
+   "status": "Retenue",
+   "desc": "Un kit robotique bon marché pour initier les enfants à la programmation."
+  },
+  {
+   "id": 4,
+   "date": "2026-10-18",
+   "name": "Paul Dubois",
+   "email": "paul@exemple.com",
+   "project": "Plateforme de covoiturage scolaire",
+   "cat": "Mobile & web",
+   "country": "Belgique",
+   "status": "Refusée",
+   "desc": "Mise en relation de parents pour les trajets vers l’école."
+  }
+ ],
+ "SUBSCRIBERS": [
+  {
+   "email": "lecteur1@exemple.com",
+   "date": "2026-10-25",
+   "source": "Pied de page"
+  },
+  {
+   "email": "lectrice2@exemple.com",
+   "date": "2026-10-24",
+   "source": "Article"
+  },
+  {
+   "email": "investisseur@exemple.com",
+   "date": "2026-10-22",
+   "source": "Bibliothèque"
+  },
+  {
+   "email": "etudiant@exemple.com",
+   "date": "2026-10-20",
+   "source": "Pied de page"
+  },
+  {
+   "email": "startup@exemple.com",
+   "date": "2026-10-19",
+   "source": "Article"
+  }
+ ],
+ "DOSSIERS": [
+  {
+   "id": "ia-afrique",
+   "title": "L’intelligence artificielle en Afrique",
+   "chapo": "Modèles ouverts, langues locales, usages et enjeux : notre dossier pour comprendre ce qui se joue.",
+   "articles": [
+    25,
+    15,
+    6,
+    23
+   ],
+   "tone": 3
+  },
+  {
+   "id": "cybersecurite",
+   "title": "Cybersécurité : se protéger au quotidien",
+   "chapo": "Arnaques, bonnes pratiques et métiers de la sécurité numérique.",
+   "articles": [
+    26,
+    34,
+    31
+   ],
+   "tone": 1
+  },
+  {
+   "id": "innover-avec-peu",
+   "title": "Innover avec peu de moyens",
+   "chapo": "Quand la contrainte devient le point de départ de l’invention.",
+   "articles": [
+    4,
+    3,
+    14,
+    10,
+    36
+   ],
+   "tone": 2
+  },
+  {
+   "id": "entrepreneuriat-tech",
+   "title": "Entrepreneuriat technologique",
+   "chapo": "Startups, financements et écosystèmes : comment les projets deviennent des entreprises.",
+   "articles": [
+    28,
+    29,
+    30,
+    20,
+    12,
+    7
+   ],
+   "tone": 0
+  },
+  {
+   "id": "metiers-de-demain",
+   "title": "Les métiers de demain",
+   "chapo": "Compétences, formations et conseils pour se lancer dans la tech.",
+   "articles": [
+    33,
+    35,
+    34,
+    16
+   ],
+   "tone": 2
+  }
+ ],
+ "OPPORTUNITES": [
+  {
+   "id": 1,
+   "type": "Emploi",
+   "title": "Développeur·se front-end junior",
+   "org": "Startup fintech",
+   "lieu": "Abidjan",
+   "limite": "2026-11-20"
+  },
+  {
+   "id": 2,
+   "type": "Stage",
+   "title": "Stage data analyst (6 mois)",
+   "org": "Agence de transformation numérique",
+   "lieu": "Dakar",
+   "limite": "2026-11-30"
+  },
+  {
+   "id": 3,
+   "type": "Formation",
+   "title": "Bootcamp cybersécurité gratuit",
+   "org": "Centre de formation",
+   "lieu": "En ligne",
+   "limite": "2026-11-15"
+  },
+  {
+   "id": 4,
+   "type": "Bourse",
+   "title": "Bourse pour jeunes inventeurs",
+   "org": "Fondation pour l’innovation",
+   "lieu": "International",
+   "limite": "2026-12-10"
+  },
+  {
+   "id": 5,
+   "type": "Concours",
+   "title": "Concours d’applications à impact social",
+   "org": "Incubateur universitaire",
+   "lieu": "Afrique de l’Ouest",
+   "limite": "2026-12-01"
+  }
+ ]
+}
